@@ -109,7 +109,8 @@
         "quantity": 4263.7682780000005,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Pioneer Woman's Beef Brisket is a flavorful and tender brisket recipe that is perfect for a special occasion or a weekend meal. The brisket is seasoned with a blend of spices and herbs, then slow-cooked in the oven until it is fall-off-the-bone tender. The brisket is served with a rich and savory gravy, and can be paired with a variety of sides such as mashed potatoes, roasted vegetables, or a simple green salad."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_65688196dfa42609b52ff9f95d4f4dd4",
@@ -250,7 +251,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 186, "unit": "mg" }
-    }
+    },
+    "description": "A hearty and flavorful beef stew made with tender beef, fresh vegetables, and a rich savory broth. Perfect for a comforting and nutritious meal on a cold day."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_4f8b173053c9ba7ee94ff1ac14a9519f",
@@ -395,7 +397,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 945, "unit": "mg" }
-    }
+    },
+    "description": "Ground beef"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_fb98b49d23741d5e00d6fa85551ffb81",
@@ -496,7 +499,8 @@
         "quantity": 1279.1304834,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Corned beef and cabbage is a traditional Irish dish consisting of salted beef brisket boiled with cabbage and other vegetables. The beef is typically cured in a brine or pickle for several days before being cooked. The cabbage is usually boiled whole or cut into wedges. Other vegetables that may be added to the dish include carrots, potatoes, and onions. Corned beef and cabbage is often served with a side of mustard or horseradish sauce."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_0542edb417137e37afa726e8bc49cfab",
@@ -625,7 +629,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 870.8973504, "unit": "mg" }
-    }
+    },
+    "description": "Tender and juicy shredded beef chuck roast, perfect for tacos, sandwiches, and more."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_87309353303b4b938346fb1d9a8af304",
@@ -732,7 +737,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 14.51495584, "unit": "mg" }
-    }
+    },
+    "description": "Beef broth is a flavorful liquid made from simmering beef bones and vegetables in water. It is a versatile ingredient that can be used as a base for soups, stews, and sauces. Beef broth is also a good source of protein, vitamins, and minerals."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_159f90fa2def458cbae3515e1385b669",
@@ -880,7 +886,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 1260, "unit": "mg" }
-    }
+    },
+    "description": "Balsamic Braised Beef Short Ribs"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_b6446a58a11de8fcd382254713e3f4b9",
@@ -1041,7 +1048,8 @@
         "quantity": 238.35713875000002,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Beef Miroton"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_02f83a663f684a6a33e0cc8a3538f943",
@@ -1228,7 +1236,8 @@
         "quantity": 1158.92850535,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Beef Goulash"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_e5754c662d314d3d9eb7e0274f2b4728",
@@ -1544,7 +1553,8 @@
         "quantity": 535.9545827000001,
         "unit": "mg"
       }
-    }
+    },
+    "description": "A juicy, flame-grilled 100% beef patty, seasoned to perfection and cooked to your desired doneness."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_b87979d288df4482a39789f8ea338388",
@@ -1634,7 +1644,8 @@
         "quantity": 162.023194564,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Here is a short description of beef ribs:"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_f74cf8945ba6b56c269685572d05cb4c",
@@ -1767,7 +1778,8 @@
         "quantity": 972.139167384,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Beef Ribs:"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_5ddd69aa5be41a34f8dba27084a56fb8",
@@ -1896,7 +1908,8 @@
         "quantity": 142.88159655,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Soboro beef is a Japanese ground beef dish that is often used as a topping for rice bowls, onigiri (rice balls), or as a filling for sushi rolls. It is made by browning ground beef with soy sauce, mirin, and sugar, and then simmering it until the liquid has been absorbed. The resulting beef is flavorful and slightly sweet, with a texture that is both tender and crumbly. Soboro beef is a versatile dish that can be enjoyed in many different ways, and it is a popular choice for bento boxes and other packed lunches."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_96c2b6364ef34668a050bd74070681eb",
@@ -2036,7 +2049,8 @@
         "quantity": 61.56000000000001,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Savory dish made from chopped corned beef, potatoes, and onions, typically served for breakfast or brunch."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_3eb2495e53b1ac2ba787c49555e1d3a6",
@@ -2140,7 +2154,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 646, "unit": "mg" }
-    }
+    },
+    "description": "Tender and juicy roast beef, seasoned to perfection and cooked to your desired doneness. A classic dish that's perfect for any occasion."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_0ce91c69ae1f99dfe1c9a0f07f96d978",
@@ -2247,7 +2262,8 @@
         "quantity": 1739.97263626,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Grilled Beef Tenderloin: Savor the exquisite tenderness and rich flavor of our grilled beef tenderloin. Each succulent cut is expertly seasoned and flame-grilled to perfection, delivering an unforgettable culinary experience. Treat yourself to the epitome of steakhouse indulgence."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_acfd157aca854a0897efab03aea1e176",
@@ -2429,7 +2445,8 @@
         "quantity": 734.37527175,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Beef Stroganoff is a creamy and decadent dish made with tender beef strips sautéed with mushrooms and onions in a flavorful sauce. It is typically served over egg noodles or rice."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_4f8346f214cd3ff24fd2392600f23d4b",
@@ -2544,7 +2561,8 @@
         "quantity": 55.156832192,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Our Restorative Beef Broth is a deeply flavorful and nourishing broth made with 100% grass-fed and finished beef bones. It is slow-simmered for 24 hours to extract all the rich nutrients and flavor from the bones. This broth is a great source of protein, collagen, and essential minerals, making it the perfect base for soups, stews, and sauces. It can also be enjoyed on its own as a restorative drink."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_101230e3eae14b519ee8ca6ea766410c",
@@ -2706,7 +2724,8 @@
         "quantity": 1703.2800000000002,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Texas Beef Brisket is a barbecue dish made from beef brisket that is smoked over indirect heat for several hours. It is a popular dish in Texas and is often served with barbecue sauce."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_b2086da1b9941ed0a3aebf0f5e7ec46e",
@@ -2804,7 +2823,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 315.144, "unit": "mg" }
-    }
+    },
+    "description": " Carne asada  Al pastor  Barbacoa  Birria  Caldo de res  Chile Colorado  Cochinita pibil  Enchiladas  Flautas  Guisado de res  Lengua  Mole  Pambazo  Pozole  Quesabirria  Tacos  Tamales  Tinga"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_326bc65d2cfb4f93976c593cea6ad73b",
@@ -2882,7 +2902,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 0, "unit": "mg" }
-    }
+    },
+    "description": "Savory and Bold Red Chile Beef Stew This hearty beef stew is made with tender beef, slow-cooked in a flavorful red chile sauce. It's the perfect comfort food for a cold winter day. Serve it with your favorite sides, such as rice, mashed potatoes, or bread."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_8dc7ced8e397421eaeaed52969ef7bea",
@@ -2964,7 +2985,8 @@
         "quantity": 2984.6377946000002,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Beef brisket is a cut of beef from the breast or lower chest of the cow. It is a tough cut of meat, but it is also very flavorful. Brisket is often smoked or braised to make it tender. It is a popular choice for barbecues and other outdoor gatherings."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_494199967977036a47ea48ed700ade8c",
@@ -3052,7 +3074,8 @@
         "quantity": 902.1952239300001,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Brown beef in a skillet; transfer to a Dutch oven. Add tomatoes, garlic, broth, and seasonings; bring to a boil. Cover and bake in a preheated oven until beef is tender, about 3 hours. Serve with polenta or crusty bread."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_fb3b9d088cb51202c3a0510ffd0f8556",
@@ -3202,7 +3225,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 154.2214058, "unit": "mg" }
-    }
+    },
+    "description": "Classic Beef and Noodles"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_54197d5c51861eb539d4a8c2f59efbc8",
@@ -3358,7 +3382,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 485.644, "unit": "mg" }
-    }
+    },
+    "description": "Hachee is a traditional Dutch beef stew made with beef, onions, and spices. It is typically served with mashed potatoes or bread. The beef is first browned in a pot, then the onions are added and cooked until softened. The spices are then added, along with water or beef broth. The stew is simmered for several hours, until the beef is tender and the sauce has thickened."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_73cf8b09a1464ac2bd304d56f985e7a2",
@@ -3438,7 +3463,8 @@
         "quantity": 689.0063862000001,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Bite-sized cups filled with tender BBQ beef, a touch of melted cheese, and a crispy wonton shell. Perfect for parties, game days, or a quick and easy meal."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_407f2490839c47f1933ff04142253c95",
@@ -3553,7 +3579,8 @@
         "quantity": 55.156832192,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Restorative Beef Broth: A soothing and nourishing broth made with slow-simmered beef bones, vegetables, and herbs. Perfect for sipping on its own or using as a base for soups, stews, and sauces. Rich in collagen, minerals, and electrolytes, this broth supports gut health, immunity, and overall well-being."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_08f65e4b011c72587e7ac8a2bb06ad43",
@@ -3753,7 +3780,8 @@
         "quantity": 137.34373007500002,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Broccoli Beef is a classic Chinese-American dish made with tender beef and crisp broccoli florets, all coated in a savory and flavorful sauce. It's a popular takeout item and can also be easily made at home. The beef is typically marinated in a soy sauce-based marinade before being stir-fried with the broccoli and sauce. The sauce is usually made with a combination of soy sauce, oyster sauce, sugar, and sesame oil. Broccoli Beef is a delicious and easy-to-make dish that is sure to please the whole family."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_f6989e7820f61fd9907bbbd39c1755c1",
@@ -3848,7 +3876,8 @@
         "quantity": 85.04856937500001,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Tender beef slices, fresh tomatoes, and crisp lettuce wrapped in a soft flour tortilla. Drizzled with a tangy tomato salsa for a burst of flavor."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_50fc514c49c8975995e65b6cff605ee6",
@@ -3960,7 +3989,8 @@
         "quantity": 4263.7682780000005,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Tender and juicy brisket cooked low and slow in a savory beef broth. Rich and flavorful brisket braised in red wine with aromatic vegetables and herbs."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_2d574053fc83433aa1aedd2be9365acf",
@@ -4058,7 +4088,8 @@
         "quantity": 385.55351450000006,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Thinly sliced beef pounded thin, sautéed quickly and served with a lemony-herb sauce."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_a552f408683849d78773eab01d1d6a00",
@@ -4247,7 +4278,8 @@
         "quantity": 33.914255448000006,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Rich Beef Stock"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_18a4311df024f567f56fcd4014619d80",
@@ -4342,7 +4374,8 @@
         "quantity": 23.223929344000002,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Homemade beef stock is a flavorful and versatile ingredient that can be used in a variety of dishes. It's easy to make and can be stored in the freezer for later use. Here's a simple recipe: Ingredients:  2 pounds of beef bones  1 large onion, quartered  2 carrots, peeled and chopped  2 celery stalks, chopped  1 teaspoon of black peppercorns  1 bay leaf  10 cups of water Instructions: 1. Preheat oven to 400 degrees F (200 degrees C). 2. Place the beef bones on a baking sheet and roast for 30 minutes, or until they are browned. 3. Transfer the bones to a large stockpot and add the onion, carrots, celery, peppercorns, bay leaf, and water. 4. Bring to a boil over high heat, then reduce heat to low and simmer for 6-8 hours, or until the stock has reduced by about half. 5. Strain the stock through a fine-mesh sieve into a clean container. 6. Let the stock cool completely before storing it in the refrigerator or freezer. The beef stock can be used in soups, stews, sauces, and gravies. It can also be used to cook rice, pasta, and vegetables."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_53d40d711ec92a97dea5c5649b0ce87c",
@@ -4479,7 +4512,8 @@
         "quantity": 353.80204860000003,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Beef Satay"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_b74f48dd5c924f38aad4a3368e31576c",
@@ -4599,7 +4633,8 @@
         "quantity": 1504.0000224113464,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Salt beef is a cut of beef that has been preserved by salting. It is typically made from the brisket, flank, or plate, and is often used in sandwiches, stews, and soups. Salt beef has a distinctively salty flavor and a tough texture. It is typically cooked by boiling or braising."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_088729a8361db5040a4c4d6435e3129b",
@@ -4694,7 +4729,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 339.75, "unit": "mg" }
-    }
+    },
+    "description": "Ann Seranne's Rib Roast of Beef"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_e74e600fc40e4b17b5fbbcf2ebbfd620",
@@ -4844,7 +4880,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 630, "unit": "mg" }
-    }
+    },
+    "description": "Indulge in fall-off-the-bone tenderness with our slow cooker beef joint. Perfectly seasoned and braised in a rich sauce, this succulent joint is a culinary masterpiece that will delight your taste buds."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_378b5aecb6584b1aa22a04f3274844bf",
@@ -4954,7 +4991,8 @@
         "quantity": 1017.8288530390001,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Tender, juicy, and flavorful, our Grilled Beef Tenderloin is the perfect cut of meat for a special occasion meal. Grilled to perfection and seasoned with a savory blend of herbs and spices, this tenderloin is sure to impress your guests."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_9530a1596f2e4ad488c552e4a218a75a",
@@ -4986,7 +5024,7 @@
       "3 pounds beef stew meat/beef sirloin (or other cut with appreciable fat, cut into 2'' cubes)",
       "1/2 medium onion, chopped",
       "2 tablespoons garlic, minced, or approximately 3-4 cloves minced",
-      "1.25 cups Classico Tomato and Basil*, or homemade tomato sauce",
+      "1.25 cups Classico Tomato and Basil, or homemade tomato sauce",
       "2 cans whole potatoes (or approximately 7 small potatoes, cooked almost completely through and cut into 2'' chunks)",
       "1.25 cups frozen mixed vegetables (or 1/2'' dice of your favorite/leftover veggies, cooked al dente)",
       "salt and pepper, to taste",
@@ -5024,7 +5062,7 @@
         "image": "https://www.edamam.com/food-img/6ee/6ee142951f48aaf94f4312409f8d133d.jpg"
       },
       {
-        "text": "1.25 cups Classico Tomato and Basil*, or homemade tomato sauce",
+        "text": "1.25 cups Classico Tomato and Basil, or homemade tomato sauce",
         "quantity": 1.25,
         "measure": "cup",
         "food": "tomato sauce",
@@ -5107,7 +5145,8 @@
         "quantity": 1596.9061458,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Momma's Beef Stew is a hearty and flavorful dish that is perfect for a cold winter day. Made with tender beef, fresh vegetables, and a rich broth, this stew is sure to warm you up from the inside out."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_fcc48d9898704e76a90653682562acfa",
@@ -5241,7 +5280,8 @@
         "quantity": 3837.3914502000002,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Barbecued Beef Brisket"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_4fd42702da30eae0a3be1011035c0694",
@@ -5382,7 +5422,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 186, "unit": "mg" }
-    }
+    },
+    "description": "Italian-style Beef Stew"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_6c91063c4f3b4244b177e5691ed8af6b",
@@ -5519,7 +5560,8 @@
         "quantity": 30.780000000000005,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Bully beef, also known as corned beef, is a canned meat product made from beef that has been preserved by salting and curing. It is typically made from the brisket or flank of the cow, and is cooked in a brine solution before being canned. Bully beef has a long shelf life and is a popular food item for camping, hiking, and other outdoor activities. It is also a staple food in many military rations."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_74561d020c47b631bc54c7c3d72aacbe",
@@ -5631,7 +5673,8 @@
         "quantity": 2190.8511471,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Mile End's Roast Beef with Pickled Horseradish is a classic Montreal-style smoked meat sandwich that is made with thinly sliced, house-smoked roast beef, topped with their signature tangy, homemade pickled horseradish, and served on rye bread."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_a349618dce6b4ea1990e976932b6ff95",
@@ -5768,7 +5811,8 @@
         "quantity": 353.80204860000003,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Tender pieces of beef marinated in a blend of aromatic spices, then grilled to perfection on skewers. Served with a classic peanut sauce for dipping."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_0540b7ac32704a4da1d9bb95829a2a1d",
@@ -5900,7 +5944,8 @@
         "quantity": 344.73020120000007,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Tender and flavorful beef short ribs braised in a rich beer broth until fall-off-the-bone tender. Perfect for a hearty and comforting meal."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_7b4793955f7d5f6c61e2e16b95c5d714",
@@ -6070,7 +6115,8 @@
         "quantity": 2312.8636471,
         "unit": "mg"
       }
-    }
+    },
+    "description": "A traditional Hungarian beef stew seasoned with paprika and other spices, typically served with egg noodles, dumplings, or potatoes."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_d622effd1977cb9e03fdcedca63619d4",
@@ -6156,7 +6202,8 @@
         "quantity": 1319.9999594688416,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Tender and juicy beef fillet seared to perfection and smothered in a rich and flavorful red wine sauce."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_d492b77010ac4da4aff332a5bd9a6ae8",
@@ -6250,7 +6297,8 @@
         "quantity": 1143.0527724,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Big-Batch Seasoned Ground Beef is a versatile and flavorful ground beef recipe that's perfect for meal prep. It's made with a blend of spices and herbs that give it a savory and delicious taste. It's easy to make and can be used in a variety of dishes, such as tacos, burritos, pasta dishes, and more."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_e4c79ff2309f4a5c976de89629ac04aa",
@@ -6432,7 +6480,8 @@
         "quantity": 700.3385550000002,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Tender beef and vegetables simmered in a rich, flavorful broth. A hearty and comforting classic, perfect for a cold winter day."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_0cb019b5e92a4cf3998d1adf6f5bf05f",
@@ -6594,7 +6643,8 @@
         "quantity": 619.1535850500001,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Braised beef shanks, also known as beef cheeks, are a melt-in-your-mouth delicacy that showcases the rich, savory flavors of beef. Slow-cooked in a flavorful broth, these tender shanks are fall-off-the-bone perfection, perfect for a cozy and comforting meal."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_0e1c2307582343d19532981573d24ac7",
@@ -6756,7 +6806,8 @@
         "quantity": 1161.1964672000001,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Tender beer-braised beef piled high on toasted hoagie rolls and topped with melted provolone cheese. Served with a side of crispy fries."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_3c3e020a81464ff58665b07965fd7caa",
@@ -6932,7 +6983,8 @@
         "quantity": 628.67902482,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Beef on weck is a sandwich that originated in Buffalo, New York. It is made with roast beef on a kummelweck roll, which is a type of bread that is topped with caraway seeds. The sandwich is typically served with horseradish sauce. Beef on weck is a popular sandwich in Buffalo and is often considered to be the city's signature dish. It is a hearty and flavorful sandwich that is perfect for a quick and easy meal."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_e8b82533e02fa3fef8d6d3be673ea6ee",
@@ -7024,7 +7076,8 @@
         "quantity": 442.25256075,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Savor the juicy goodness of our mouthwatering all-beef burger recipes, crafted with the finest ground beef and bursting with flavor. Each recipe offers a unique combination of tantalizing toppings, sauces, and buns, ensuring an unforgettable burger experience that will satisfy your cravings and leave you wanting more."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_9c879cf6acc94d2492be3b972883ada7",
@@ -7140,7 +7193,8 @@
         "quantity": 331.42999999999995,
         "unit": "mg"
       }
-    }
+    },
+    "description": "BEEF FILETS MORETEUR are beef filets topped with a rich, flavorful sauce made with mushrooms, shallots, white wine, and cream. The dish is typically served with potatoes or rice."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_456cf110ca079969cd2682a165860a2d",
@@ -7320,7 +7374,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 571.6703862, "unit": "mg" }
-    }
+    },
+    "description": "Savory and comforting beef stew is perfect for a chilly day. Chunks of tender beef are slow-cooked in a flavorful broth with vegetables like carrots, celery, and potatoes. Served with crusty bread or rice, this hearty stew will surely warm you up from the inside out."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_0cf8c3dd140d9c4f7779361c0390bce1",
@@ -7442,7 +7497,8 @@
         "quantity": 347.02529135000003,
         "unit": "mg"
       }
-    }
+    },
+    "description": " Rib eye  Strip loin  Tenderloin  Top sirloin  Bottom sirloin  Tri-tip  Flat iron  Flank steak  Skirt steak  Brisket  Chuck roast  Pot roast  Ground beef  Hamburger  Cheeseburger  Steak sandwich  Beef stew  Chili  Tacos  Burritos  Enchiladas  Nachos  Empanadas  Arepas  Ceviche  Tartare  Carpaccio  Pastrami  Corned beef  Roast beef  Beef jerky  Beef bacon"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_cb99aaa828d44639ba1344a5ab038c59",
@@ -7529,7 +7585,8 @@
       },
       "PROCNT": { "label": "Protein", "quantity": 324, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 945, "unit": "mg" }
-    }
+    },
+    "description": "Tender and juicy roasted sirloin of beef topped with a zesty and aromatic salsa verde made from fresh herbs, capers, and anchovies."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_492103bfe5fe4cc7bf95704eaa5d9936",
@@ -7673,7 +7730,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 571.5263862, "unit": "mg" }
-    }
+    },
+    "description": "Satisfy your cravings with tender braised beef neck tacos! This delectable recipe features slow-cooked beef neck stewed in a flavorful broth, then shredded and served on warm tortillas with your favorite toppings."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_1c064c84edeb4ec1bce122657044f144",
@@ -7765,7 +7823,8 @@
         "quantity": 819.0000075101852,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Tender roast beef seasoned with aromatic peppercorns and slathered in a rich and velvety béarnaise butter sauce."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_73efbc086e02c0c6205b0a43981e5556",
@@ -7951,7 +8010,8 @@
         "quantity": 5116.5219336,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Succulent and smoky, our BBQ Beef Brisket is slow-cooked to perfection. Each bite offers a tender and juicy experience, infused with a blend of aromatic spices. The rich BBQ sauce adds a tangy and flavorful touch, making it a perfect choice for any gathering."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_909b390222be21d24a85f449981ff857",
@@ -8081,7 +8141,8 @@
         "quantity": 543.48478965,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Savor the rich flavors of Adirondack Beef Bourguignon, a classic French stew made with tender, grass-fed beef, slow-cooked in a velvety red wine sauce. Experience the perfect harmony of succulent beef, aromatic vegetables, and a hint of smokiness, all simmered to perfection."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_979b87dd2ee260212377871988d58683",
@@ -8248,7 +8309,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 429.03, "unit": "mg" }
-    }
+    },
+    "description": "Beef stroganoff is a Russian dish of sautéed beef served in a sauce made from смета́на (smetana), a type of sour cream. It is traditionally prepared with sliced beef tenderloin, which is sautéed with onions, mushrooms, and sometimes other vegetables. The sauce is made by adding smetana, beef broth, and sometimes white wine or tomato paste to the pan. Beef stroganoff is typically served with egg noodles or rice. It is a popular dish in Russia and is also enjoyed in many other parts of the world."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_99831c1ca85143c1b20d6957330a743d",
@@ -8321,7 +8383,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 214.2, "unit": "mg" }
-    }
+    },
+    "description": "Savory beef stew is topped with fluffy cheese scone dumplings for a hearty and comforting meal."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_87fa131708c248a388321694ebcb70ea",
@@ -8459,7 +8522,8 @@
         "quantity": 403.46000000000004,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Beef pasties are a traditional British baked pastry filled with beef, potato, and onion. They are typically crescent-shaped and have a golden-brown crust. Beef pasties are believed to have originated in Cornwall, England, in the 13th century. They were originally a popular food among miners and farmers, who would take them to work to eat as a packed lunch. Today, beef pasties are a popular food all over the United Kingdom and can be found in most bakeries and grocery stores."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_b778721585ef71e80655300a19110d8a",
@@ -8585,7 +8649,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 646, "unit": "mg" }
-    }
+    },
+    "description": "Roast beef is a classic dish that can be enjoyed by people of all ages. It is made from a beef roast that is cooked in the oven until it is tender and juicy."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_f882be5ac3a44334bd70b16542bddb7d",
@@ -8710,7 +8775,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 630, "unit": "mg" }
-    }
+    },
+    "description": "Tender beef mince and spinach filling, encased in pasta and topped with a creamy béchamel sauce."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_535e5146345790b3965f98ace4ec873f",
@@ -8898,7 +8964,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 504, "unit": "mg" }
-    }
+    },
+    "description": "Beef stew is a hearty and flavorful dish that is perfect for a cold winter day. It is made with beef, vegetables, and a flavorful broth. The beef is typically browned before being added to the stew, and the vegetables are often diced or cubed. The stew is then simmered until the beef is tender and the vegetables are cooked through. Beef stew can be served with a variety of sides, such as mashed potatoes, rice, or bread."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_60bdd7a60fce4a1d71d2a44a2bb96558",
@@ -9092,7 +9159,8 @@
         "quantity": 502.081909065,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Beef Stroganoff is a Russian dish consisting of sautéed strips of beef served in a creamy sauce with mushrooms, onions, and sometimes sour cream. It is typically served with egg noodles, mashed potatoes, or rice."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_053776d353bbf6a29b9d6d28e7eb311d",
@@ -9251,7 +9319,8 @@
         "quantity": 250.0427939625,
         "unit": "mg"
       }
-    }
+    },
+    "description": "A classic Chinese dish made with tender beef stir-fried with crisp broccoli florets in a flavorful sauce. It's a quick and easy weeknight meal that's perfect for any occasion."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_f3e132be81ba468ba8065bc8902859cb",
@@ -9319,7 +9388,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 1030.625, "unit": "mg" }
-    }
+    },
+    "description": "Let the beef tenderloin rest before slicing to allow the juices to redistribute, resulting in a more tender and juicy roast."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_3c75894549a36de125ec3dab383ec191",
@@ -9453,7 +9523,8 @@
         "quantity": 655.44097465,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Thinly sliced beef tenderloin is marinated in a zesty blend of lemon juice, olive oil, and thyme, then topped with capers and shaved Parmesan cheese."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_05736d48c1e004fca81ce34b92fc283a",
@@ -9596,7 +9667,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 502.348, "unit": "mg" }
-    }
+    },
+    "description": "- Braised - Grilled - Roasted - Seared - Steamed - Stir-fried - Fried - Slow-cooked - Barbecued - Jerky"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_7ea82f68b538cd0addbdd11483c4c3d8",
@@ -9701,7 +9773,8 @@
         "quantity": 1495.94763626,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Tenderloin seasoned with a flavorful peppercorn crust, cooked to perfection and served with your choice of sides."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_39cae4990599fbc7b93e768e1528ea64",
@@ -9796,7 +9869,8 @@
       },
       "PROCNT": { "label": "Protein", "quantity": 81.422, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 248, "unit": "mg" }
-    }
+    },
+    "description": "This flavorful Thai beef stir-fry is a quick and easy weeknight meal that's packed with bold flavors and textures. Tender beef is stir-fried with a medley of crisp vegetables, coated in a savory and slightly spicy sauce made with soy sauce, oyster sauce, fish sauce, and aromatic spices. Serve over rice or noodles for a complete and satisfying meal."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_c7aad38e259900de71f39332cbbc622f",
@@ -9879,7 +9953,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 1338.304, "unit": "mg" }
-    }
+    },
+    "description": "Braised beef in red wine is a classic French dish that is made by slowly cooking beef in a flavorful broth made with red wine, vegetables, and herbs. The beef is typically braised for several hours, until it is fall-off-the-bone tender and the sauce is rich and flavorful."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_7e2543c4a4354d09b4e51dda97529e79",
@@ -10027,7 +10102,8 @@
         "quantity": 628.67902482,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Savory and tender Instant Pot Roast Beef, cooked to perfection with rich gravy, hearty vegetables, and a medley of herbs and spices. A comforting and flavorful meal, ready in a fraction of the time of traditional roasting."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_4685584d837c4cd5a27fc07d2302eb3d",
@@ -10199,7 +10275,8 @@
         "quantity": 443.96000000000004,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Beef rissoles are a type of ground beef patty that is typically seasoned with salt, pepper, and other herbs and spices. They are then pan-fried or baked until cooked through. Beef rissoles can be served on their own or with a variety of sides, such as mashed potatoes, vegetables, or gravy. They are a popular dish in many countries around the world, including Australia, New Zealand, and the United Kingdom."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_9ab0576b3b4f2dd5dd03f550777997cd",
@@ -10377,7 +10454,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 566.318, "unit": "mg" }
-    }
+    },
+    "description": "Ground beef"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_a6f1d64826ffb104da942ecd5aeb5ab4",
@@ -10551,7 +10629,8 @@
         "quantity": 2131.8841390000002,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Homemade Corned Beef"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_906c96eba49947089e5822627df2aa85",
@@ -10660,7 +10739,8 @@
         "quantity": 100.64080709375,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Beet, Beef, and Cauliflower Purée"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_9a7d7cbd60984bf4ac9be43c4156e9d7",
@@ -10735,7 +10815,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 1064, "unit": "mg" }
-    }
+    },
+    "description": "Crown Prime Beef Ribs"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_bbbd1ed2ab7ecc2a697e8e7544678dc8",
@@ -10916,7 +10997,8 @@
         "quantity": 571.951629046875,
         "unit": "mg"
       }
-    }
+    },
+    "description": " Grilled  Roasted  Braised  Stewed  Stir-fried  Sautéed  Fried  Broiled  Baked  Smoked"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_5d3002aa07b5464aa08e3351fb0f55f2",
@@ -11079,7 +11161,8 @@
         "quantity": 3527.16997385,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Beef kielbasa is a type of smoked sausage made from ground beef, pork, and spices. It is typically seasoned with garlic, paprika, and black pepper. Beef kielbasa has a slightly smoky flavor and a firm texture. It is often used in soups, stews, and sandwiches."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_f614696ac26232585c06093fa3b332f9",
@@ -11186,7 +11269,8 @@
         "quantity": 426.37682780000006,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Savory and tender beef brisket, slow-cooked to perfection. Perfect for a special occasion or a casual family meal."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_73663351b9084cba810154cd04837bf9",
@@ -11357,7 +11441,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 390, "unit": "mg" }
-    }
+    },
+    "description": "Tender pulled beef barbacoa, slow-cooked in a savory blend of spices and herbs, nestled in warm tortillas and topped with your favorite taco fixings."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_c91e11eda0d5837e00a466884fa76337",
@@ -11470,7 +11555,8 @@
         "quantity": 161.02529135000003,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Savor the delightful crunch of these flavorful Ground Beef Tacos! Crispy taco shells filled with seasoned ground beef, crisp lettuce, juicy tomatoes, tangy cheese, and a zesty sour cream sauce. Experience the perfect balance of textures and flavors in every bite!"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_79d1f9b6f9246faa6561f76edda63467",
@@ -11574,7 +11660,8 @@
       },
       "PROCNT": { "label": "Protein", "quantity": 155.3175438, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 510.9, "unit": "mg" }
-    }
+    },
+    "description": "Mustard-Roasted Beef Fillet"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_28fe80ef76f1dbc8536cd8c7634ed36c",
@@ -11713,7 +11800,8 @@
         "quantity": 252.78799999991907,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Serve the quick beef over rice or noodles."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_6492355c6fbf787677b7aa69c4e0dbab",
@@ -11856,7 +11944,8 @@
         "quantity": 2261.9335145000005,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Beef Wellington is a classic dish made from a beef tenderloin wrapped in pâté, prosciutto, and puff pastry. It is typically served with a red wine sauce."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_0ea808e2cdd00f246cdbd54292ef4a6a",
@@ -12033,7 +12122,8 @@
         "quantity": 1918.6957251000001,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Beef Brisket Pot Roast"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_2aa6ade1e9af82d2304398e82433f9b9",
@@ -12139,7 +12229,8 @@
         "quantity": 63.78642703125001,
         "unit": "mg"
       }
-    }
+    },
+    "description": "A Roast Beef Sandwich is a classic and delicious sandwich made with thinly sliced roast beef, piled high on a soft and toasted hoagie roll. It is typically served with melted cheese, lettuce, tomato, onion, and horseradish sauce. The roast beef is usually cooked to perfection, tender and juicy, and the combination of flavors and textures in this sandwich makes it a satisfying and enjoyable meal."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_cdccdf512c73703a2fa3236044e29ff0",
@@ -12214,7 +12305,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 285.7631931, "unit": "mg" }
-    }
+    },
+    "description": "Beef jerky is a dried, seasoned meat snack made from beef. It is typically made by marinating thin strips of beef in a salty, flavorful sauce, then drying them until they are hard and chewy. Beef jerky can be made with a variety of different seasonings, including salt, pepper, garlic, paprika, and chili powder. It is a popular snack food and can be enjoyed on its own or as part of a meal."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_cf463d8bc8c44d57b55cd0fe46f174a1",
@@ -12306,7 +12398,8 @@
       },
       "PROCNT": { "label": "Protein", "quantity": 398.23142, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 1560, "unit": "mg" }
-    }
+    },
+    "description": "Tender roast beef sirloin steak is smothered in a luscious oyster sauce gravy made with oyster sauce, soy sauce, brown sugar, and garlic."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_f1ed1c4f8355493a9c90c9098ba1db0c",
@@ -12445,7 +12538,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 516.1243376, "unit": "mg" }
-    }
+    },
+    "description": "Sizzling beef and fluffy eggs tossed in a savory sauce, nestled atop crisp Boston lettuce cups for a quick and flavorful meal."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_01d94f65a14e4ebfaa6c8efcadc4af1d",
@@ -12623,7 +12717,8 @@
         "quantity": 481.94189312500004,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Dad's Beef Stroganoff is a hearty and flavorful dish that is perfect for a quick and easy weeknight meal. It is made with tender beef, creamy mushrooms, and a rich, savory sauce."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_efb2ffa86d0c11444b7fa5b66fdf658d",
@@ -12801,7 +12896,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 566.318, "unit": "mg" }
-    }
+    },
+    "description": " Rib eye  Strip loin  Tenderloin  T-bone  Porterhouse  Flank steak  Skirt steak  Hanger steak  Brisket  Chuck roast  Ground beef"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_d7eed9b2c7426e160d3716393e85195b",
@@ -12948,7 +13044,8 @@
         "quantity": 2338.2535145,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Beef Wellington is a classic dish made from a beef tenderloin wrapped in pâté, prosciutto, and puff pastry. It is usually served with a red wine sauce."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_d92e099e218f4aa1b44c94bf1a3f46c3",
@@ -13088,7 +13185,8 @@
         "quantity": 551.481169792,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Tender boiled beef smothered in a creamy, tangy horseradish sauce, perfect for a satisfying and flavorful meal."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_c3ed9f35b6194589922ad7bf8197a989",
@@ -13269,7 +13367,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 813.97, "unit": "mg" }
-    }
+    },
+    "description": "Savor the tantalizing flavors of our Roast Beef Hash, a hearty and comforting dish. Tender cubes of succulent roast beef are nestled amidst golden-brown crispy potatoes, onions, and peppers. Each bite offers a symphony of textures, from the tender meat to the crunchy vegetables. Seasoned to perfection with aromatic herbs and spices, this classic breakfast or brunch staple is sure to satisfy your cravings and warm you from the inside out."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_a55d00c5cff3679f8f6cc996a226196e",
@@ -13408,7 +13507,8 @@
         "quantity": 186.57500000000002,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Tender salt beef, tangy gherkins and creamy horseradish sauce, all held together by a warm and doughy bagel."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_00eda97a288ef27389f6fe82ae9c7c69",
@@ -13569,7 +13669,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 126, "unit": "mg" }
-    }
+    },
+    "description": "Beef goulash soup"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_b9d3e19fab7c49e4843333276e6f2527",
@@ -13778,7 +13879,8 @@
         "quantity": 804.0000319480896,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Authentic Mexican braised beef tacos, slow-cooked until fall-apart tender and packed with authentic Mexican flavors. Served on warm corn tortillas with your choice of toppings."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_972b986e1ce52639312dae9b88df6d49",
@@ -13919,7 +14021,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 52.16312255, "unit": "mg" }
-    }
+    },
+    "description": "Coffee Crusted Roast Beef is a flavorful and unique dish that combines the rich taste of coffee with tender and juicy roast beef. The coffee crust adds a delicious and slightly bitter flavor to the beef, creating a perfect balance of flavors. This dish is perfect for a special occasion or a weekend dinner."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_9f6b0cd61f4bd97e0da1075724cc2753",
@@ -14120,7 +14223,8 @@
         "quantity": 468.00001859664917,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Beef ragout"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_4fa62b50706f539d9a784f15c6078584",
@@ -14275,7 +14379,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 0, "unit": "mg" }
-    }
+    },
+    "description": "Rich, savory, and aromatic Roast Beef Stock made from roasted beef bones, vegetables, and herbs. Perfect for soups, stews, sauces, and gravies."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_14c68e61108cc0829ee6ef279f79b860",
@@ -14410,7 +14515,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 285.7631931, "unit": "mg" }
-    }
+    },
+    "description": "Savory and hearty beef stew, cooked low and slow with tender beef, earthy portobello mushrooms, and an array of vegetables in a rich and flavorful broth."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_426667e7d01a5890f5df28aab40b7a4a",
@@ -14604,7 +14710,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 285.7631931, "unit": "mg" }
-    }
+    },
+    "description": "Warm up with a hearty bowl of Coconut Beef Stew, a flavorful dish bursting with tender beef, aromatic spices, and creamy coconut milk."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_4be62494e40e04700fd511fc1b06ccc5",
@@ -14773,7 +14880,8 @@
         "quantity": 561.145587925,
         "unit": "mg"
       }
-    }
+    },
+    "description": "This beef stew recipe uses porter beer, onions, and root vegetables for a rich and flavorful dish. Perfect for a Sunday supper or any cold night."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_eaad7b20af7722bbe6958b06889fe23a",
@@ -14953,7 +15061,8 @@
         "quantity": 1503.0304657625002,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Beef Stroganoff is a Russian dish of sautéed beef strips served in a sauce made from sour cream. The beef is typically cut into thin strips and cooked in a rich, flavorful sauce made with onions, mushrooms, and paprika. The sauce is thickened with sour cream and sometimes flour or cornstarch. Beef Stroganoff is typically served over egg noodles, mashed potatoes, or rice."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_e0991c9e1094fcd02f93243a960f00dc",
@@ -15148,7 +15257,8 @@
         "quantity": 322.05058270000006,
         "unit": "mg"
       }
-    }
+    },
+    "description": "This Whole Beef Chili is a hearty and flavorful dish that is perfect for a cold winter night. It is made with ground beef, onions, peppers, tomatoes, and a variety of spices. It is also gluten-free, dairy-free, and paleo-friendly."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_8889ba99c2e1695a0acc538c4e671520",
@@ -15303,7 +15413,8 @@
         "quantity": 82.73524828800001,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Basic beef stock is a flavorful liquid made from simmering beef bones, vegetables, and herbs in water. It is used as a base for soups, stews, sauces, and other dishes."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_ccf3a1599bfbbb08a4a07b4bb5c64f23",
@@ -15476,7 +15587,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 571.5263862, "unit": "mg" }
-    }
+    },
+    "description": "Tender chunks of beef and hearty vegetables simmered in a rich, flavorful broth. A comforting and budget-friendly meal that's perfect for cold nights."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_976c226d8f64e169829a45ad4c323040",
@@ -15596,7 +15708,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 945, "unit": "mg" }
-    }
+    },
+    "description": "Serve the steak with your favorite sides, such as mashed potatoes, roasted vegetables, or a salad."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_552d62b578c9e13d3a3ef6bc7132ce88",
@@ -15739,7 +15852,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 514.96, "unit": "mg" }
-    }
+    },
+    "description": "Indulge in a hearty and comforting minced beef pie, filled with tender ground beef, savory gravy, and a flaky, golden-brown crust. Perfect for a satisfying meal on a chilly evening."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_698f00b60581ee15cad7350f7a1d8d9e",
@@ -15847,7 +15961,8 @@
         "quantity": 969.553690875,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Savory beef stew with tender chunks of beef, hearty vegetables, and a zesty kick from freshly grated horseradish."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_b7ea4a8ac2aa4afb3f70e676e24bacdd",
@@ -15967,7 +16082,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 945, "unit": "mg" }
-    }
+    },
+    "description": "Serve the steak with your favorite sides, such as mashed potatoes, roasted vegetables, or a salad."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_3905f4f192de4560922cbab176d1ab71",
@@ -16205,7 +16321,8 @@
         "quantity": 1156.6605435000001,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Beef Tenderloin"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_854dca0dddf43da5abc4eff6b7b56412",
@@ -16390,7 +16507,8 @@
         "quantity": 736.00798275,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Savory and hearty, this classic beef stew is packed with tender beef, flavorful vegetables, and a rich, velvety broth. Slow-cooked to perfection, it's the ultimate comfort food that will warm you from the inside out."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_2a3140ffa495c8acb7879c7e6bdbea9c",
@@ -16468,7 +16586,8 @@
       },
       "PROCNT": { "label": "Protein", "quantity": 68.7918752675, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 186, "unit": "mg" }
-    }
+    },
+    "description": "Flaky, golden brown hand pies filled with tender, flavorful beef and seasoned vegetables, perfect for a quick and satisfying meal or snack."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_78966f98433aebd97755474df39aef52",
@@ -16664,7 +16783,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 510, "unit": "mg" }
-    }
+    },
+    "description": "Chinese braised beef, also known as \"hong shao niu rou\", is a classic and flavorful dish in Chinese cuisine. It is typically made with beef shank or brisket, which is braised in a savory sauce made with soy sauce, sugar, spices, and aromatics such as ginger, garlic, and scallions. The beef is cooked until tender and fall-off-the-bone, and the sauce becomes rich and flavorful. Chinese braised beef is often served over rice or noodles, and can be garnished with fresh cilantro or scallions."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_4ecb0886b15e38340ae2173d4830f28c",
@@ -16827,7 +16947,8 @@
         "quantity": 660.5248288169246,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Seared beef medallions flamed in whiskey, served with a rich whiskey cream sauce."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_d64e650a5d2be8957b4b84fe0630955c",
@@ -16994,7 +17115,8 @@
         "quantity": 555.1970608800001,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Savor the robust flavors of tender beef and earthy wild mushrooms in this delectable dish. Perfectly seasoned and cooked to perfection, each bite bursts with umami and umami."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_807509c2eb794b2881efc86db88a1a42",
@@ -17204,7 +17326,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 630, "unit": "mg" }
-    }
+    },
+    "description": "Pulled beef brisket is a barbecue dish made from beef brisket that is smoked and then braised in a flavorful liquid until it becomes tender and can be pulled apart. It is a popular dish in the United States, especially in Texas, and is often served with barbecue sauce and sides such as potato salad and coleslaw."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_5582b5597301b523e520543558d63791",
@@ -17386,7 +17509,8 @@
         "quantity": 411.309999999581,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Succulent beef strips sautéed with rich mushrooms and tender onions, enveloped in a luxurious creamy sauce infused with aromatic herbs. Served atop a bed of perfectly cooked pasta, this classic dish delivers a symphony of flavors that will tantalize your taste buds."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_c5f1aa1065251cdcbf0adcf974922fde",
@@ -17686,7 +17810,8 @@
         "quantity": 3380.4589182,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Traditional Beef Pho"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_a2013f0fe66e47609bae49ba8d21be86",
@@ -17858,7 +17983,8 @@
         "quantity": 689.4604024000001,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Cherry Pie Beef Ribs"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_9f1defb6a865b500bce3f81a0cd74126",
@@ -17975,7 +18101,8 @@
         "quantity": 1461.6041817275002,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Tender and juicy mustard-roasted beef tenderloin with a flavorful herb crust, perfect for a special occasion or romantic dinner."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_a14a310e4bc700f5c5014c583ab26fc1",
@@ -18146,7 +18273,8 @@
         "quantity": 714.40798275,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Indulge in the hearty and comforting flavors of our Beef and Mushroom Stew, where tender beef cubes and earthy mushrooms simmer in a rich, savory broth. This classic dish is perfect for a cozy evening meal or a special occasion."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_e410879a046d10951dd0487d3206df51",
@@ -18283,7 +18411,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 271.925, "unit": "mg" }
-    }
+    },
+    "description": "Tender, juicy, and flavorful marinated beef tenderloin that is perfect for a special occasion or a romantic dinner."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_92ebdc602c2c674db3a7af57024c96cb",
@@ -18461,7 +18590,8 @@
         "quantity": 1918.6957251000001,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Tender and juicy beef brisket braised low and slow in a flavorful broth with vegetables, creating a comforting and hearty dish perfect for a special occasion or family gathering."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_0802605e0c504e20bcd83d3db125839a",
@@ -18705,7 +18835,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 652, "unit": "mg" }
-    }
+    },
+    "description": "Beef ragu is a hearty and flavorful Italian meat sauce that is typically served over pasta. It is made with ground beef, tomatoes, onions, garlic, and herbs. The sauce is simmered for several hours, allowing the flavors to meld and develop. Beef ragu is a classic Italian dish that is sure to please everyone at the table."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_7109cdaca5d6ffc202fd5fc204542037",
@@ -18874,7 +19005,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 315, "unit": "mg" }
-    }
+    },
+    "description": "- Ground beef - Steak - Brisket - Roast - Ribs - Tenderloin - Flank steak - Skirt steak - Chuck roast - Short ribs - Oxtail"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_715a0fb136d404816d0a3f0d2e3c8a90",
@@ -19009,7 +19141,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 1378.95, "unit": "mg" }
-    }
+    },
+    "description": "Savory beef stew topped with fluffy horseradish dumplings, a hearty and flavorful comfort food perfect for chilly days."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_5990a4a08bfda58fc1de2a5a8760cff2",
@@ -19224,7 +19357,8 @@
         "quantity": 290.29911680000004,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Crockpot Beef Stew"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_3ec5b1a5b87a403fae22a160d8d5dca9",
@@ -19347,7 +19481,8 @@
         "quantity": 1495.94763626,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Tender and juicy oven-roasted beef fillet with a crispy, flavorful crust. Perfect for special occasions or a luxurious dinner."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_e9a2fe727fcd434a92abffb1e7c4c7f0",
@@ -19482,7 +19617,8 @@
         "quantity": 2068.3812072,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Coffee Rubbed Beef Ribs"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_b3eca10e2f909600ab22b33790d9c3e9",
@@ -19643,7 +19779,8 @@
         "quantity": 140.245090899375,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Isan grilled beef salad is a popular dish from Thailand. It is made with grilled beef, vegetables, and a spicy dressing. The beef is usually marinated in a flavorful blend of spices and herbs, then grilled to perfection. The vegetables are typically fresh and crisp, and include things like cucumbers, tomatoes, onions, and peppers. The dressing is usually made with a combination of lime juice, fish sauce, sugar, and chili peppers. Isan grilled beef salad is a delicious and refreshing dish that is perfect for a summer meal."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_51e76e52b78e46edb34475c6d4d14a3e",
@@ -19796,7 +19933,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 690, "unit": "mg" }
-    }
+    },
+    "description": "A comforting and hearty dish, beef bourguignon cottage pie features a rich and flavorful beef bourguignon filling topped with a creamy and cheesy mashed potato topping. Savor the tender beef cooked in a robust red wine sauce, aromatic vegetables, and earthy mushrooms, all encased in a crispy and golden-brown potato crust. Perfect for a cozy family meal or a special occasion dinner."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_80baa47d3b350cd740b3c0c92a28bc81",
@@ -19976,7 +20114,8 @@
         "quantity": 646.3503318500001,
         "unit": "mg"
       }
-    }
+    },
+    "description": "A classic British pastry filled with tender beef and creamy Stilton cheese, seasoned with pepper and parsley."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_064724fb3da92ed7c0d36feb08885af0",
@@ -20089,7 +20228,8 @@
       },
       "PROCNT": { "label": "Protein", "quantity": 120.0173, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 150.45, "unit": "mg" }
-    }
+    },
+    "description": "Tender and savory Jamaican jerk beef served on crispy plantain chips for a delightful and flavorful snack or appetizer."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_6c56be31c9f3478bb6fa09ef57115246",
@@ -20258,7 +20398,8 @@
         "quantity": 601.6505827000001,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Crispy samosas filled with a savory mixture of ground beef, pine nuts, aromatic spices, and fresh herbs, served with a tangy dipping sauce."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_3cfba4e01db6e203abda1fa0c0c1da97",
@@ -20406,7 +20547,8 @@
         "quantity": 90.65039913749999,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Chipped Beef Gravy is an easy and flavorful dish made with chipped beef, also known as dried beef, in a creamy gravy. It's a classic comfort food that can be served over biscuits, toast, or potatoes."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_f83f1be2d2f843148051656437912eb4",
@@ -20632,7 +20774,8 @@
         "quantity": 673.3628220500001,
         "unit": "mg"
       }
-    }
+    },
+    "description": "A hearty and flavorful chili made with ground beef, beans, tomatoes, and spices, perfect for a cold day or a casual gathering."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_252f112391a82123c98a0f699576a424",
@@ -20739,7 +20882,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 435.4486752, "unit": "mg" }
-    }
+    },
+    "description": "Tangy Beef Soup"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_161b53055346f1c6ed4f24ed382a5c1b",
@@ -20894,7 +21038,8 @@
         "quantity": 1134.6252150448136,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Tender, juicy beef tenderloin is paired with a smoky paprika mayonnaise for a flavorful and elegant dish."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_6f93743a76b34a4ab4382a5dc5852c39",
@@ -21031,7 +21176,8 @@
         "quantity": 1110.3941217600002,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Tender and juicy 4-Way Beef Roast cooked to perfection. Made with a savory blend of spices and slow-roasted for hours to achieve maximum flavor and tenderness. Perfect for any occasion, this classic dish will impress your guests."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_6f1184318e499a404b97d6da3d530e3f",
@@ -21153,7 +21299,8 @@
         "quantity": 215.97500000000002,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Corned beef hash is a traditional Irish-American breakfast dish made from chopped corned beef, potatoes, and onions, and sometimes other vegetables. It is typically served with eggs and toast."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_0bb69b516923630cf8b8e1d532ab2e79",
@@ -21256,7 +21403,8 @@
       "CHOCDF": { "label": "Carbs", "quantity": 105.703, "unit": "g" },
       "PROCNT": { "label": "Protein", "quantity": 103.765, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 292.4, "unit": "mg" }
-    }
+    },
+    "description": "Corned beef hash is a dish made from chopped corned beef, potatoes, and onions, which may be fried or baked. It is a popular breakfast food in the United States, Canada, and the United Kingdom. Corned beef hash is typically served with eggs, toast, or biscuits."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_da25e6b33a4d421782414c70a5b402ef",
@@ -21449,7 +21597,8 @@
         "quantity": 1088.6216880000002,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Hawaiian Cowboy Beef Stew is a hearty and flavorful dish that combines the flavors of Hawaii and the American West. This stew is made with beef, potatoes, carrots, onions, and celery, and is simmered in a savory broth made with soy sauce, ginger, garlic, and brown sugar. The result is a delicious and comforting stew that is perfect for a cold night."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_4a7d60a10d19433d8614d431e1ef5753",
@@ -21573,7 +21722,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 54.4310844, "unit": "mg" }
-    }
+    },
+    "description": "DIY Spicy Kimchi Beef Instant Noodles"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_ecdf3b80c48b07eaa11ad48ef79475a2",
@@ -21706,7 +21856,8 @@
         "quantity": 2820.2648170750003,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Indulge in bite-sized elegance with our Mini Beef Wellingtons! Tenderloin wrapped in savory mushroom duxelles, enveloped in flaky puff pastry, and finished with a golden brown crust. Perfect for parties, appetizers, or a special treat."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_5cff482725f6488eb78e6ebcb1d6fa21",
@@ -21874,7 +22025,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 744.96, "unit": "mg" }
-    }
+    },
+    "description": "A hearty and comforting pie made with tender beef shin, slow-cooked in a rich gravy, topped with a golden puff pastry crust."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_03d67ad86e3a4a5da47da949ef4c56ad",
@@ -22092,7 +22244,8 @@
         "quantity": 483.07587405000004,
         "unit": "mg"
       }
-    }
+    },
+    "description": "A flavorful and hearty dish featuring tender beef braised in a rich tomato sauce, complemented by the sweetness of roasted pumpkin, all served over your favorite pasta."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_5418875aa5144b4d9dc6d4d01dd79425",
@@ -22265,7 +22418,8 @@
         "quantity": 2266.0496394,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Corned beef hash is a dish made from chopped corned beef, potatoes, and onions. It is typically served as a breakfast food, but can also be eaten for lunch or dinner. Corned beef hash is a popular dish in the United States, Ireland, and the United Kingdom."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_7e8dc94a4100205d68910a9e309cf0de",
@@ -22422,7 +22576,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 285.7631931, "unit": "mg" }
-    }
+    },
+    "description": "Beef Tendon is a naturally occurring source of collagen, which is essential for healthy skin, hair, and nails. It is also a good source of protein and essential amino acids. Beef Tendon is a great addition to any healthy diet and can be enjoyed in a variety of ways. Here are some of the benefits of eating Beef Tendon:  Supports healthy skin, hair, and nails  Provides essential protein and amino acids  Supports joint health  Helps with weight loss  Improves digestion If you are looking for a healthy and delicious way to add collagen to your diet, Beef Tendon is a great option. It is a versatile ingredient that can be added to soups, stews, salads, and more."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_0df7ef7461827d0fba748b8ffcce6596",
@@ -22588,7 +22743,8 @@
         "quantity": 452.46000000000004,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Introducing the fiery delight that will tantalize your taste buds - our Spicy Beef Burger! 🍔🌶️🔥 This mouthwatering creation features a juicy, flame-grilled beef patty generously seasoned with bold spices, promising an explosion of flavor in every bite. Paired with crisp lettuce, ripe tomatoes, and fresh onions, all nestled in a toasted bun, it's a symphony of tastes that will leave you craving for more!"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_725bdf6630c28fb1e97c7a91b6bc2a35",
@@ -22610,7 +22766,7 @@
       "Mollusk-Free"
     ],
     "ingredientLines": [
-      "1 tablespoon coarsely ground peppercorn melange* or black pepper",
+      "1 tablespoon coarsely ground peppercorn melange or black pepper",
       "3 8-ounce beef tenderloin steaks",
       "3 tablespoons olive oil, divided",
       "8 ounces crimini (baby bella) mushrooms, halved or quartered if large",
@@ -22623,7 +22779,7 @@
     ],
     "ingredients": [
       {
-        "text": "1 tablespoon coarsely ground peppercorn melange* or black pepper",
+        "text": "1 tablespoon coarsely ground peppercorn melange or black pepper",
         "quantity": 1,
         "measure": "tablespoon",
         "food": "black pepper",
@@ -22746,7 +22902,8 @@
         "quantity": 903.1850430795836,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Tender strips of seasoned beef sautéed with mushrooms and onions in a creamy sauce served over egg noodles."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_5654cf49386d9e00a5ace93b2c3c7b52",
@@ -22876,7 +23033,8 @@
         "quantity": 299.37096420000006,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Savory and comforting, this Japanese-inspired noodle soup features tender beef slices, springy noodles, and a rich, umami-packed miso broth."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_575fd30b9679f3374d70f3a1ef2b6374",
@@ -22986,7 +23144,8 @@
         "quantity": 74.26124999980962,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Classic New York deli sandwich featuring thinly sliced corned beef piled high on rye bread and topped with a tangy mustard sauce."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_966dd6c825384a49b8f8176643f8fafc",
@@ -23132,7 +23291,8 @@
         "quantity": 822.243509376,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Slow Cooker Shredded Balsamic Beef"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_83cad4ac95774b89a9c5b85893c593c2",
@@ -23305,7 +23465,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 428.4, "unit": "mg" }
-    }
+    },
+    "description": "Nigerian Beef Stew"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_6b7766014d9c4938901bfd2faf676aca",
@@ -23488,7 +23649,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 558.144, "unit": "mg" }
-    }
+    },
+    "description": "Savory and comforting, this versatile beef stew is packed with tender beef, hearty vegetables, and a rich, flavorful broth. Perfect for a cozy meal on a chilly day."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_4836c362709c46f1ad8de1b2cf6b49e2",
@@ -23625,7 +23787,8 @@
         "quantity": 322.05058270000006,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Tender beef cubes marinated in a savory blend of garlic, chipotle, and spices, grilled to perfection on skewers."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_bfefb8a925cbdf48c93d0f1892a92f87",
@@ -23747,7 +23910,8 @@
         "quantity": 215.97500000000002,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Corned beef hash is a traditional Irish dish made from chopped corned beef, potatoes, and onions. It is typically served for breakfast or lunch."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_c1ca7f71a41a43519b625cefda25871e",
@@ -23861,7 +24025,8 @@
         "quantity": 353.80204860000003,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Indulge in the authentic flavors of Taiwan with this easy-to-make Instant Pot Taiwanese Beef Noodle Soup. Tender beef, savory broth, and springy noodles come together in perfect harmony. Enjoy the comforting and flavorful taste of this beloved Taiwanese dish in the convenience of your own home."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_1b775fd6baab7ae7a8cc2b070953dc9a",
@@ -23989,7 +24154,8 @@
         "quantity": 74.43108439864744,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Whip up a bowl of delicious and spicy kimchi beef instant noodles with this easy-to-follow recipe. Using instant ramen as a base and adding kimchi, beef, and a few other ingredients, you can create a flavorful and satisfying meal in minutes. Perfect for a quick lunch, dinner, or late-night snack, this DIY kimchi beef instant noodles recipe will surely hit the spot."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_34671adf571a0ad86670df75afe1893c",
@@ -24122,7 +24288,8 @@
         "quantity": 1682.9410907925003,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Tenderloin of beef is one of the most tender cuts of beef, and when cooked properly, it is melt-in-your-mouth delicious. This recipe for beef tenderloin with mushrooms and thyme is a classic combination that is sure to please everyone at the table. The beef is seared in a hot skillet to create a flavorful crust, then roasted in the oven until it is cooked to perfection. The mushrooms and thyme add a rich, earthy flavor to the dish, and the creamy sauce is the perfect finishing touch."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_f386b90591354ecc9aeea38c7ae80178",
@@ -24270,7 +24437,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 258.5476509, "unit": "mg" }
-    }
+    },
+    "description": "Delectable shredded beef empanadas bursting with savory, tender beef filling encased in a golden-brown, flaky pastry. Perfect for any occasion, these empanadas offer a delightful blend of flavors and textures."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_6f4ae344d5fa1c4c585e7a382b9bbc9f",
@@ -24429,7 +24597,8 @@
         "quantity": 1370.2612499998097,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Savory roast beef gets a bright, tangy lift from a celery root-horseradish remoulade in this classic sandwich."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_75cf0c8d96d8431fac4067d8146aeb2e",
@@ -24527,7 +24696,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 1608.15, "unit": "mg" }
-    }
+    },
+    "description": "Tender and juicy beef rib roast seasoned with garlic, rosemary, salt, and pepper. Perfect for a special occasion or holiday meal."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_bcf466b89b3f4d6d217cef98105895d9",
@@ -24683,7 +24853,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 1260.288, "unit": "mg" }
-    }
+    },
+    "description": "Tender roast beef smothered in a rich and flavorful caramelized onion gravy. A classic and comforting dish perfect for any occasion."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_95d2faa6ad433bcb9aff476a1f9e8dce",
@@ -24872,7 +25043,8 @@
         "quantity": 322.05058270000006,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Savory and juicy beef patties made with 100% pure ground beef seasoned to perfection. A delicious and versatile ingredient for burgers, sandwiches, and more."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_61a05d8427bbe7542d45d71b8d189e30",
@@ -25035,7 +25207,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 977.5, "unit": "mg" }
-    }
+    },
+    "description": "Let beef fillet rest for 10 minutes before slicing and serving with horseradish sauce."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_1d03deea6ec34a2caf17a55662a3d1c7",
@@ -25173,7 +25346,8 @@
         "quantity": 222.04000000000002,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Rusty's Basted Beef Biscuits are a delicious and easy-to-make treat for your dog. Made with only three ingredients - ground beef, water, and flour - these biscuits are a great source of protein and fiber. They're also a great way to use up leftover ground beef. To make Rusty's Basted Beef Biscuits, simply combine the ground beef, water, and flour in a bowl and mix until well combined. Then, roll out the dough to a thickness of about 1/4 inch and cut into biscuits. Place the biscuits on a baking sheet and bake at 350 degrees Fahrenheit for about 15 minutes, or until golden brown. Once the biscuits are done baking, remove them from the oven and let them cool slightly before serving. You can serve them plain or with your dog's favorite gravy or topping. Here are the benefits of Rusty's Basted Beef Biscuits:  Made with only three ingredients - ground beef, water, and flour  A great source of protein and fiber  A great way to use up leftover ground beef  Easy to make and bake  Can be served plain or with your dog's favorite gravy or topping So next time you're looking for a tasty and healthy treat for your dog, give Rusty's Basted Beef Biscuits a try!"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_3e9333078f5b4ef3a9670f50682e2be5",
@@ -25321,7 +25495,8 @@
         "quantity": 1034.1906036,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Beef short ribs are a flavorful and tender cut of meat that is perfect for slow-cooking. They are typically braised or roasted, and can be served with a variety of sides. Short ribs are a great source of protein and iron, and are also a good source of collagen, which can help to improve skin and joint health."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_b8b3c5f04a87db5246f0658e22fe4e41",
@@ -25461,7 +25636,8 @@
         "quantity": 428.64478965,
         "unit": "mg"
       }
-    }
+    },
+    "description": "A comforting and flavorful beef stew made with tender chunks of beef, hearty vegetables, and a rich savory broth. Perfect for a cold winter night or any time you need a comforting and satisfying meal."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_f518d39e1ce29f31082915941d94a5c1",
@@ -25660,7 +25836,8 @@
         "quantity": 418.263991375,
         "unit": "mg"
       }
-    }
+    },
+    "description": "A hearty and flavorful beef stew made with tender chunks of beef, slow-cooked in a rich broth with vegetables like carrots, celery, onions, and potatoes."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_1f21cd1cc972485ebd8417528b4dc1d9",
@@ -25778,7 +25955,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 76.84, "unit": "mg" }
-    }
+    },
+    "description": "Jamaican beef patties are savory pastries filled with a flavorful mixture of ground beef, onions, bell peppers, Scotch bonnet peppers, and a blend of Caribbean spices. Enclosed in a flaky, golden-brown crust, these patties are a beloved street food and a staple of Jamaican cuisine."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_0702e589d9d5f5f18a106b840fa23bf0",
@@ -25893,7 +26071,8 @@
         "quantity": 742.757505875,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Irish Channel Corned Beef and Cabbage is a classic dish that is often served on St. Patrick's Day. It is made with corned beef, cabbage, potatoes, and carrots, and is typically cooked in a slow cooker or Dutch oven. The corned beef is brined in a mixture of water, salt, sugar, and spices, and then cooked until it is tender. The cabbage, potatoes, and carrots are added to the pot and cooked until they are tender as well. The dish is typically served with a side of horseradish sauce or mustard."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_3f574bd1dfc04eb19363642b96c25d4b",
@@ -25994,7 +26173,8 @@
         "quantity": 72.91866666666667,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Bauru (Brazilian Roast Beef Sandwich)"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_1f0cb63d008f4dcea1fd24a4ef415199",
@@ -26101,7 +26281,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 490.2, "unit": "mg" }
-    }
+    },
+    "description": "To make the salad ahead of time, simply combine all of the ingredients and refrigerate for up to 2 days. When ready to serve, bring to room temperature and toss again. Enjoy!"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_1eb3e48e40be495fbc0cde5270e4ce22",
@@ -26276,7 +26457,8 @@
         "quantity": 426.37682780000006,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Boeuf Bourguignon"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_1450c52531bf45d0a029e00fffd74a8a",
@@ -26432,7 +26614,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 381, "unit": "mg" }
-    }
+    },
+    "description": "Beef and Ale Pie"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_783f72ebca9b4281b4816cde1fd8ae67",
@@ -26568,7 +26751,8 @@
         "quantity": 1316.8155226,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Corned beef hash is a traditional Irish dish made from chopped corned beef, potatoes, and onions, that are typically fried until crispy. It is often served with eggs and toast for breakfast or brunch."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_afef4a742cc44232a33c1f632fdee63d",
@@ -26751,7 +26935,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 285.7631931, "unit": "mg" }
-    }
+    },
+    "description": "Ranchero Beef Stew is a hearty and flavorful dish that is perfect for a cold winter day. It is made with tender beef, fresh vegetables, and a savory ranchero sauce. This stew is sure to warm you up and fill you up."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_010cc91e56674c849611899ac26103d0",
@@ -26894,7 +27079,8 @@
       },
       "PROCNT": { "label": "Protein", "quantity": 42.4975, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 108.5, "unit": "mg" }
-    }
+    },
+    "description": "Savory stir-fried sesame beef with tender-crisp vegetables, wrapped in soft tortillas and drizzled with a sweet and tangy sauce."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_4cbd8cc98c8b80e2f4354682e95775de",
@@ -27020,7 +27206,8 @@
       },
       "PROCNT": { "label": "Protein", "quantity": 409.8138, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 1560, "unit": "mg" }
-    }
+    },
+    "description": "Let roast rest for 15 minutes before slicing and serving. Enjoy!"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_a48bec716f6714d8af775973a97d9ccf",
@@ -27137,7 +27324,8 @@
         "quantity": 1387.9926522,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Tender beef cubes are braised in a flavorful beer and onion broth until fall-apart tender. Perfect for a hearty and comforting meal."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_487b689287e814382bd95526f7fc5dd5",
@@ -27270,7 +27458,8 @@
         "quantity": 1682.9410907925,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Tender beef tenderloin cooked to perfection, smothered in a rich mushroom and thyme sauce."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_520b9598471e188ee42b5f1790abf761",
@@ -27415,7 +27604,8 @@
         "quantity": 1091.524679168,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Tender, melt-in-your-mouth beef ragu made effortless in your slow-cooker. A rich and flavorful sauce slowly simmers all day, creating the perfect comfort food for a cozy night in."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_5f419e552889e6dbb31d8e96c61de940",
@@ -27607,7 +27797,8 @@
         "quantity": 1006.9750614000001,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Beef Bourguignon is a classic French beef stew made with red wine, mushrooms, pearl onions, and bacon. It is typically cooked in a Dutch oven or slow cooker and served over mashed potatoes or egg noodles. The beef is braised until it is fall-off-the-bone tender and the sauce is rich and flavorful."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_41c59533570f4eb791753e2cbb66a109",
@@ -27735,7 +27926,8 @@
         "quantity": 809.03381813,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Tender and juicy beef tenderloin seasoned with aromatic rosemary and roasted to perfection. A simple yet elegant dish perfect for special occasions or a luxurious weeknight meal."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_d51e6b98ae754cc493eed45efcec3e16",
@@ -27904,7 +28096,8 @@
         "quantity": 147.41752025,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Introducing our tantalizing Dijon Mustard Angus Beef Stew, a culinary masterpiece crafted with succulent Angus beef, aromatic vegetables, and a tangy Dijon mustard sauce. Each bite bursts with bold flavors and fall-off-the-bone tenderness, transporting you to a cozy winter evening by the fireplace. Indulge in the ultimate comfort food experience!"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_e5a606872d6a3c1a992e0dee4f3025af",
@@ -28029,7 +28222,8 @@
         "quantity": 91.85245492500002,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Savory roast beef and melted cheddar cheese come together on a toasted hoagie roll for a classic and satisfying sandwich."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_1b75df3e58fd4de0b4131be028f641dc",
@@ -28184,7 +28378,8 @@
         "quantity": 156.48936765000002,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Homemade Beef Jerky: A Savory, Protein-Packed Treat"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_349e24a1d9a1a5c2e8458cdb2c382e62",
@@ -28369,7 +28564,8 @@
         "quantity": 1357.88658175,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Tender and juicy beef meatballs made with a blend of ground beef, breadcrumbs, herbs, and spices, cooked to perfection in a flavorful sauce."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_a4ec2bd784d14cb290b7c1a6ad48e7ac",
@@ -28668,7 +28864,8 @@
         "quantity": 3380.4589182,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Savory and aromatic Vietnamese beef noodle soup with tender beef slices, flavorful broth, and slurp-worthy noodles."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_21e46684defd7316c62c2919502ac26d",
@@ -28833,7 +29030,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 0, "unit": "mg" }
-    }
+    },
+    "description": "Savor the perfect blend of tender rice, savory beef jerky, crisp vegetables, and a tangy sauce in our Rice and Beef Jerky Bowl. This hearty and flavorful dish is a satisfying meal for any occasion."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_9cfce2c43ac64548bb31a312367e2abc",
@@ -28983,7 +29181,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 569.1535145, "unit": "mg" }
-    }
+    },
+    "description": "Thinly sliced beef tenderloin is topped with fresh arugula, shaved Parmesan cheese, and a tangy lemon-olive oil dressing in this easy and elegant appetizer."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_fcd967e8a48044528e655ea86c0e884f",
@@ -29091,6 +29290,7 @@
         "quantity": 995.4803991375,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Tender shredded dried beef and fluffy scrambled eggs come together in this quick and flavorful breakfast skillet. Perfect for a hearty and satisfying start to your day."
   }
 ]

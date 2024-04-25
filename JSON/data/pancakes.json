@@ -171,7 +171,8 @@
         "quantity": 227.09188258407056,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Delicious savory pancakes filled with spiced paneer. Can be enjoyed with dips or chutneys."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_f54fbcef1f924d72870df9676744bfff",
@@ -356,11 +357,12 @@
         "quantity": 523.6812499998637,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Fluffy Banana Oat Pancakes: A delightful fusion of ripe bananas and wholesome oats, creating a hearty and flavorful breakfast treat that will energize your mornings."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_2118c5dcfcec0ec62d6fc123f806518b",
-    "label": "\\m/ Coconutty-Pear Pancakes with Massacre Sauce \\m/",
+    "label": "Coconutty-Pear Pancakes with Massacre Sauce",
     "image": "https://raw.githubusercontent.com/Freezer9/My-Dataset/main/JSON/images/pancakes/2_pancakes.jpg",
     "dietLabels": ["Low-Fat", "Low-Sodium"],
     "healthLabels": [
@@ -512,7 +514,8 @@
         "quantity": 161.10840874601135,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Indulge in a tropical delight with Coconutty-Pear Pancakes drizzled in the tantalizing Massacre Sauce. These fluffy pancakes burst with the sweet flavors of coconut and pear, while the sauce adds a thrilling kick of heat. Prepare to savor a symphony of flavors that will leave your taste buds dancing."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_754082740806456e9b304824ae0ddf75",
@@ -699,7 +702,8 @@
         "quantity": 262.48731968743584,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Bread Pudding Pancakes are a delicious and easy-to-make breakfast or brunch dish. They are made with bread cubes, milk, eggs, sugar, and spices, and are cooked on a griddle or in a frying pan. Bread Pudding Pancakes are similar to regular pancakes, but they have a denser texture and a richer flavor. They are also a great way to use up leftover bread."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_251aa5b7e54a4a008de688e3a7be18bd",
@@ -904,7 +908,8 @@
         "quantity": 1646.8063081676924,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Neil's Pancakes is a breakfast and brunch restaurant located in the heart of downtown. We offer a variety of pancakes, waffles, omelets, and other breakfast and lunch items. Our pancakes are made from scratch using our own secret recipe, and they're always fluffy and delicious. We also offer a variety of toppings and syrups to choose from, so you can customize your pancakes to your liking. Whether you're looking for a quick bite to eat or a leisurely breakfast with friends, Neil's Pancakes is the perfect place for you."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_d0ae9d822d4cd7caad117226406b6a5a",
@@ -1113,7 +1118,8 @@
         "quantity": 241.7962975618948,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Introducing the pancake mix that will revolutionize your breakfast game! Our unique blend of premium ingredients creates pancakes that are fluffy on the inside, crispy on the outside, and bursting with flavor. With just a few simple steps, you can enjoy a stack of perfect pancakes that will satisfy your cravings and leave you wanting more."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_e7aeb2068b460ccee66e31f496f2f55a",
@@ -1180,7 +1186,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 90.86, "unit": "mg" }
-    }
+    },
+    "description": "Cranberry Pancakes are a delicious and festive breakfast option that is perfect for the holiday season. They are made with fresh cranberries, which give them a tart and tangy flavor. The pancakes are also fluffy and light, and they are topped with a sweet and tangy cranberry sauce."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_03d48ec407d8bbbfa507d75695a8ac50",
@@ -1286,7 +1293,8 @@
         "quantity": 293.23599425000003,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Fluffy buttermilk pancakes infused with savory breakfast sausage and a hint of maple syrup flavor, topped with a sweet and tangy blueberry compote."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_1b94270be9327d617aae2d6b4b213b8a",
@@ -1419,11 +1427,12 @@
         "quantity": 394.28142692726396,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Pancake Day: A Bite of Britain"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_90486656f3d14c7d91dffd1d9b210667",
-    "label": "Pancakes with Apricot-Bourbon Sauce Recipe",
+    "label": "Pancakes with Apricot-Bourbon Sauce ",
     "image": "https://raw.githubusercontent.com/Freezer9/My-Dataset/main/JSON/images/pancakes/9_pancakes.jpg",
     "dietLabels": [],
     "healthLabels": [
@@ -1612,11 +1621,12 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 518.335, "unit": "mg" }
-    }
+    },
+    "description": "Fluffy buttermilk pancakes topped with a sweet and tangy apricot-bourbon sauce made with fresh apricots, bourbon, maple syrup, and spices."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_317b5a1c68b84a87b3c9191747418fb8",
-    "label": "Whole Wheat Oatmeal Pancakes with Maple Roast Rhubarb Recipe",
+    "label": "Whole Wheat Oatmeal Pancakes with Maple Roast Rhubarb ",
     "image": "https://raw.githubusercontent.com/Freezer9/My-Dataset/main/JSON/images/pancakes/10_pancakes.jpg",
     "dietLabels": ["Balanced"],
     "healthLabels": [
@@ -1809,7 +1819,8 @@
         "quantity": 372.44500000000005,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Indulge in fluffy whole wheat oatmeal pancakes topped with a sweet and tangy roasted rhubarb compote drizzled in maple syrup. A wholesome and delectable breakfast treat!"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_9f0c5a0411544699bedee7d930dff547",
@@ -1966,7 +1977,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 186, "unit": "mg" }
-    }
+    },
+    "description": "Fluffy, hearty, and packed with protein, these Tofu-Oatmeal Pancakes are the perfect way to start your day. Made with simple, wholesome ingredients, they're a delicious and nutritious breakfast option that will keep you feeling full and satisfied for hours."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_534b232859984e66a04f4c7dea12d53c",
@@ -2136,7 +2148,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 200.8, "unit": "mg" }
-    }
+    },
+    "description": "Fluffy gluten-free spinach pancakes made with almond flour, coconut flour, and spinach. A healthy and delicious breakfast or brunch option that is also paleo and low-carb."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_a582229c46cb36f3a51b24585b0524be",
@@ -2295,7 +2308,8 @@
         "quantity": 525.8715310068893,
         "unit": "mg"
       }
-    }
+    },
+    "description": "* Altenburger Ziegenkäse\n* Allgäuer Emmentaler\n* Bergkäse\n* Harzer Käse\n* Limburger\n* Münsterkäse\n* Obatzda\n* Quark\n* Roquefort\n* Tilsiter"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_804921eebaf04ee5d28edab44b8d5355",
@@ -2474,7 +2488,8 @@
         "quantity": 426.60984374907673,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Zucchini Pancakes, Greek Style"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_225211f0c62770a3e94ac31a063d9d09",
@@ -2711,7 +2726,8 @@
         "quantity": 720.7749609895883,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Fluffy ricotta pancakes studded with bright lemon zest and crunchy poppy seeds, topped with a drizzle of sweet maple syrup and a pat of butter."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_5e3cf52d26f6b7030c554885ba17d3cc",
@@ -2874,11 +2890,12 @@
         "quantity": 562.1615292969138,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Fluffy cottage cheese pancakes topped with a sweet and tangy strawberry maple syrup, perfect for a delicious and satisfying breakfast or brunch."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_1c4e56f652699befcd1388ac0ca8cbc2",
-    "label": "Vegan Pancakes Made With Aquafaba Recipe",
+    "label": "Vegan Pancakes Made With Aquafaba ",
     "image": "https://raw.githubusercontent.com/Freezer9/My-Dataset/main/JSON/images/pancakes/17_pancakes.jpg",
     "dietLabels": ["Low-Sodium"],
     "healthLabels": [
@@ -3057,7 +3074,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 0, "unit": "mg" }
-    }
+    },
+    "description": "Fluffy vegan pancakes made with aquafaba (chickpea brine) instead of eggs. They're easy to make, delicious, and perfect for a plant-based breakfast or brunch."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_8a6a05213f6c4f26968fde001fc52423",
@@ -3251,7 +3269,8 @@
         "quantity": 272.72942743588845,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Orna"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_c02025f43d588a5ad7a12a5208980bbd",
@@ -3402,11 +3421,12 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 319.92, "unit": "mg" }
-    }
+    },
+    "description": "Mushroom Pancakes are a savory and delicious twist on the classic pancake breakfast. Made with a blend of sautéed mushrooms, pancake mix, and spices, these pancakes are packed with umami flavor and a hint of earthy goodness. They're perfect for a hearty breakfast, brunch, or lunch, and can be topped with your favorite savory or sweet toppings."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_050d77d963820ed92b033265d7b55328",
-    "label": "Serious Heat: Santa Fe-Style Green Chile Pancakes Recipe",
+    "label": "Serious Heat: Santa Fe-Style Green Chile Pancakes ",
     "image": "https://raw.githubusercontent.com/Freezer9/My-Dataset/main/JSON/images/pancakes/20_pancakes.jpg",
     "dietLabels": [],
     "healthLabels": [
@@ -3616,7 +3636,8 @@
         "quantity": 640.1061115749999,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Spicy and savory, these green chile pancakes are a unique and flavorful breakfast option. Made with roasted green chiles, cornmeal, and spices, they're perfect for a hearty start to your day."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_6e76f658f934503ee4d18e76eed80150",
@@ -3779,7 +3800,8 @@
         "quantity": 141.18999999996873,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Fluffy buttermilk pancakes studded with sliced bananas and crunchy walnuts, drizzled with sweet maple syrup. A classic breakfast treat that's easy to make and always a crowd-pleaser."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_dbb1dd57d2e0452291d565bd73814397",
@@ -3962,7 +3984,8 @@
         "quantity": 373.20000000000005,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Japanese-style pancakes, also known as soufflé pancakes, are a type of pancake that is popular in Japan. They are characterized by their light and fluffy texture, and are often served with a variety of toppings such as butter, syrup, and fruit. Japanese-style pancakes are made with a batter that is made with eggs, flour, sugar, and milk. The batter is then cooked in a pan with a little bit of oil. The pancakes are cooked until they are golden brown on both sides."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_a092d6e124d84575b4910fac22638ba6",
@@ -4149,7 +4172,8 @@
         "quantity": 540.4300000000001,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Fluffy chickpea flour pancakes topped with a tangy Greek yogurt caper sauce, perfect for a savory and satisfying breakfast or brunch."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_339caa398deccf4b9aafbbdc35e0a291",
@@ -4262,7 +4286,8 @@
       },
       "PROCNT": { "label": "Protein", "quantity": 18.4670197805, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 264.69, "unit": "mg" }
-    }
+    },
+    "description": "Fluffy whole-wheat pancakes bursting with the sweet and tart flavor of cherries. A delicious and healthy breakfast option that's perfect for any day of the week."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_490bd4ab1c2044b9a5b37a1f564cfaaa",
@@ -4358,7 +4383,8 @@
       "CHOCDF": { "label": "Carbs", "quantity": 770.221, "unit": "g" },
       "PROCNT": { "label": "Protein", "quantity": 133.37464, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 1715.42, "unit": "mg" }
-    }
+    },
+    "description": "Tantalizingly fluffy pancakes infused with the delectable flavors of creamy vanilla pudding and a hint of nutmeg, topped with a luscious chocolate ganache that will transport you to pastry paradise."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_7dcb952528889fbb3b4ede2510975428",
@@ -4512,11 +4538,12 @@
       },
       "PROCNT": { "label": "Protein", "quantity": 66.0611, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 709.1, "unit": "mg" }
-    }
+    },
+    "description": "Fluffy, tender, and impossibly tall, these buttermilk pancakes are a breakfast dream. Made with simple ingredients and cooked to perfection, they're the perfect way to start your day."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_e2ae298927b38a6d75ac67e254f974ed",
-    "label": "Celeriac Potato Pancakes with Apple Crème Fraîche Recipe",
+    "label": "Celeriac Potato Pancakes with Apple Crème Fraîche ",
     "image": "https://raw.githubusercontent.com/Freezer9/My-Dataset/main/JSON/images/pancakes/27_pancakes.jpg",
     "dietLabels": [],
     "healthLabels": [
@@ -4739,7 +4766,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 292.12, "unit": "mg" }
-    }
+    },
+    "description": "Crispy, savory pancakes made with grated celeriac and potato, topped with a tangy and creamy apple crème fraîche."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_22e87c356489466d8d7c8859c2b266b7",
@@ -4991,7 +5019,8 @@
         "quantity": 525.9047708337469,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Indulge in a delightful fusion of Italian and American flavors with our irresistible Orange Cannoli Pancakes. Fluffy buttermilk pancakes are infused with the vibrant zest of fresh oranges, creating a tantalizing aroma that will awaken your senses. Topped with a sweet and creamy cannoli filling, each bite is a symphony of flavors that will transport you to the heart of Sicily. Drizzle with chocolate sauce or sprinkle with powdered sugar for an extra touch of decadence."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_d5b1126eea3f47759b32641afb6f4c52",
@@ -5228,11 +5257,12 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 451.54, "unit": "mg" }
-    }
+    },
+    "description": "Fluffy buttermilk-ricotta pancakes topped with a sweet and boozy compote of maple-infused apricots and crunchy pistachios."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_9b1ae55bf8ded56656992e1bdb57e0a7",
-    "label": "Lemon Cream Cheese Pancakes with Blueberry Maple Syrup recipes",
+    "label": "Lemon Cream Cheese Pancakes with Blueberry Maple Syrup ",
     "image": "https://raw.githubusercontent.com/Freezer9/My-Dataset/main/JSON/images/pancakes/30_pancakes.jpg",
     "dietLabels": [],
     "healthLabels": [
@@ -5332,7 +5362,8 @@
         "quantity": 191.92000000000002,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Indulge in fluffy Lemon Cream Cheese Pancakes drizzled with a burst of Blueberry Maple Syrup. Tangy lemon zest and creamy cheese filling create a delightful contrast in each bite, while the vibrant blueberry syrup adds a sweet and fruity touch."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_902b2ad1a450d22a31988d5061419970",
@@ -5502,7 +5533,8 @@
         "quantity": 1045.5241573033256,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Savory pancakes filled with a ricotta and spinach mixture, then baked in a tomato sauce."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_9ef54202adb34a408d8228c8662f6c4a",
@@ -5690,7 +5722,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 716.4, "unit": "mg" }
-    }
+    },
+    "description": "Fluffy coconut banana pancakes topped with crispy bacon and a medley of fresh berries, drizzled with sweet maple syrup."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_f73fb9921d220879f4e2e8d7aaefc47e",
@@ -5843,11 +5876,12 @@
       "CHOCDF": { "label": "Carbs", "quantity": 204.029, "unit": "g" },
       "PROCNT": { "label": "Protein", "quantity": 64.91326, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 774.17, "unit": "mg" }
-    }
+    },
+    "description": "Fluffy pancakes bursting with the sweet flavors of strawberries and bananas, topped with whipped cream and drizzled with maple syrup."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_963c588ba6a7e398145c721bd2e6f56e",
-    "label": "Carrot Cake Pancakes With Sweet Orange Cream Recipe",
+    "label": "Carrot Cake Pancakes With Sweet Orange Cream ",
     "image": "https://raw.githubusercontent.com/Freezer9/My-Dataset/main/JSON/images/pancakes/34_pancakes.jpg",
     "dietLabels": [],
     "healthLabels": [
@@ -6084,7 +6118,8 @@
         "quantity": 425.512073425,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Fluffy carrot cake pancakes topped with a sweet orange cream sauce for a delightful and flavorful breakfast treat."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_ececbeb2bc89a303c3f552ce698e5c79",
@@ -6297,7 +6332,8 @@
         "quantity": 338.28000000000003,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Fluffy and flavorful pancakes made with mashed butternut squash, warm spices, and a hint of maple syrup. Perfect for a cozy fall breakfast or brunch."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_a4b247aafa4e6dfbbfca7f6d752ac9c2",
@@ -6544,7 +6580,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 451.54, "unit": "mg" }
-    }
+    },
+    "description": "Fluffy ricotta pancakes cooked in nutty brown butter and topped with a sweet and boozy maple-bourbon apricot compote."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_d8f48d2f733a42d12833ac7cf9162b8c",
@@ -6787,7 +6824,8 @@
         "quantity": 612.5520312501857,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Fluffy and flavorful Butternut Squash Pancakes topped with a decadent Maple Butter, made from scratch with real maple syrup and butter. A delicious and cozy fall breakfast or brunch recipe."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_f803780f3723c1f95209139790534064",
@@ -6977,7 +7015,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 0, "unit": "mg" }
-    }
+    },
+    "description": "Crispy, golden brown scallion pancakes made with gluten-free flour, perfect for a savory breakfast or appetizer."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_f21a556a39839d21bd24c5bbdde870d6",
@@ -7129,7 +7168,8 @@
       "CHOCDF": { "label": "Carbs", "quantity": 433.299798206, "unit": "g" },
       "PROCNT": { "label": "Protein", "quantity": 52.475239585, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 753.9085715, "unit": "mg" }
-    }
+    },
+    "description": "Fluffy pumpkin pancakes with a hint of cornmeal, perfect for a fall breakfast."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_ccb9fd53f6f94dc7b7f622523ec67c1c",
@@ -7327,7 +7367,8 @@
         "quantity": 407.20500000000004,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Bananas Foster Pancakes are a decadent breakfast or brunch dish that combines the classic flavors of Bananas Foster with fluffy pancakes. The pancakes are made with a sweet batter and topped with a rich and flavorful Bananas Foster sauce made from bananas, butter, brown sugar, cinnamon, and rum. The pancakes are often served with whipped cream or ice cream for an extra indulgent touch."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_7f5cc6220ee84dd4b6a3dccf9cff014c",
@@ -7543,7 +7584,8 @@
         "quantity": 250.45746879050412,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Fluffy chocolate chip pancakes drizzled with a sweet and tangy raspberry sauce, making for a delightful and indulgent breakfast or brunch treat."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_13633ee4c63105cb38a97ef8b515e46b",
@@ -7751,11 +7793,12 @@
         "quantity": 278.07856950000024,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Fluffy pancakes infused with warm holiday spices and topped with a sweet and creamy egg nog glaze, perfect for a festive breakfast or brunch."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_715c67b95cd9f16fe281cd31222c6c79",
-    "label": "Buckwheat Pancakes recipes",
+    "label": "Buckwheat Pancakes ",
     "image": "https://raw.githubusercontent.com/Freezer9/My-Dataset/main/JSON/images/pancakes/43_pancakes.jpg",
     "dietLabels": ["Balanced"],
     "healthLabels": [
@@ -7904,7 +7947,8 @@
         "quantity": 271.2255344596349,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Classic Buckwheat Pancakes:"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_e0e5ffe54394e03b8ff4ef839c9a1704",
@@ -8081,7 +8125,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 543.115, "unit": "mg" }
-    }
+    },
+    "description": "Pancakes"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_d9541371090d5d1df2f755b53a49e6ff",
@@ -8185,11 +8230,12 @@
         "quantity": 1199.3348569375,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Crispy Duck is a dish made with duck meat that has been roasted or fried until the skin is crispy and the meat is tender and juicy. It is often served with a dipping sauce, such as hoisin sauce or plum sauce. Crispy Duck is a popular dish in many Asian cuisines, including Chinese, Vietnamese, and Thai."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_1b9794df9596fb8a060fb52029db63b0",
-    "label": "Easy Vegetable Pancakes Recipe",
+    "label": "Easy Vegetable Pancakes ",
     "image": "https://raw.githubusercontent.com/Freezer9/My-Dataset/main/JSON/images/pancakes/46_pancakes.jpg",
     "dietLabels": [],
     "healthLabels": [
@@ -8400,7 +8446,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 186, "unit": "mg" }
-    }
+    },
+    "description": "Easy Vegetable Pancakes - a quick and easy vegetarian recipe made with shredded zucchini, carrots and potatoes!"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_fdd5670766c54a91aacac32d0667fb56",
@@ -8628,11 +8675,12 @@
         "quantity": 1628.8008839746021,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Indulge in fluffy gluten-free almond pancakes topped with a tantalizing combination of honeyed oranges and crunchy pistachios, creating a delightful symphony of flavors and textures."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_48d33a479563d7e7330058aad5c9043b",
-    "label": "Potato Pancakes With Oven-Roasted Thyme Applesauce, Sour Cream, and Poached Eggs Recipe",
+    "label": "Potato Pancakes With Oven-Roasted Thyme Applesauce, Sour Cream, and Poached Eggs ",
     "image": "https://raw.githubusercontent.com/Freezer9/My-Dataset/main/JSON/images/pancakes/48_pancakes.jpg",
     "dietLabels": ["High-Fiber"],
     "healthLabels": [
@@ -8836,7 +8884,8 @@
         "quantity": 775.5400000000001,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Crispy potato pancakes topped with sweet and savory thyme applesauce, tangy sour cream, and perfectly poached eggs."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_bef634b76614b29c94adf48f7dcd421a",
@@ -9052,11 +9101,12 @@
         "quantity": 285.592073425,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Fluffy carrot cake pancakes topped with a tangy orange cream cheese glaze, perfect for a sweet and indulgent breakfast or brunch."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_56a10a28347686d5908155bb1c64ce14",
-    "label": "Savory Coconut Pancakes recipes",
+    "label": "Savory Coconut Pancakes ",
     "image": "https://raw.githubusercontent.com/Freezer9/My-Dataset/main/JSON/images/pancakes/50_pancakes.jpg",
     "dietLabels": ["Low-Carb", "Low-Sodium"],
     "healthLabels": [
@@ -9153,7 +9203,8 @@
         "quantity": 510.40999999999997,
         "unit": "mg"
       }
-    }
+    },
+    "description": "These easy coconut pancakes are soft, fluffy, and full of coconutty flavor, with a hint of sweetness. They're the perfect way to start your day or enjoy as a special treat."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_da1779cabd864da18ae857d3c5a82bbb",
@@ -9429,7 +9480,8 @@
         "quantity": 559.47109321875,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Fluffy gingerbread pancakes topped with sweet and juicy caramelized pears, perfect for a festive breakfast or brunch."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_a3b6fe0ef846308e7d60ff6fd2268331",
@@ -9523,7 +9575,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 239.8, "unit": "mg" }
-    }
+    },
+    "description": "Indulge in a taste of the forest with our Black Forest Pancake Ice Cream Sandwiches! Fluffy buttermilk pancakes embrace luscious layers of sweet cherry ice cream and rich chocolate sauce, creating a symphony of flavors that will tantalize your taste buds."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_af3560053b3a467db4192bab7ff717fc",
@@ -9797,7 +9850,8 @@
         "quantity": 624.2440188837767,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Fluffy oat and flax pancakes topped with a warm, aromatic spiced apple compote, providing a hearty and delicious breakfast or brunch option."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_2afe273966f040c3af056da7ec4ec2ae",
@@ -9903,7 +9957,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 210.4, "unit": "mg" }
-    }
+    },
+    "description": "Fluffy Pancakes are the perfect breakfast food. They are soft, fluffy, and delicious. They can be served with a variety of toppings, such as butter, syrup, fruit, or whipped cream. Fluffy Pancakes are a great way to start your day!"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_05595fa082c9d869474746fdfdf01c11",
@@ -10050,7 +10105,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 0, "unit": "mg" }
-    }
+    },
+    "description": "Fluffy buckwheat pancakes studded with sweet banana slices and drizzled with maple syrup. A hearty and delicious breakfast or brunch option that is also gluten-free."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_da774b873d782bb6cd7ca3de8fae12fe",
@@ -10181,7 +10237,8 @@
       },
       "PROCNT": { "label": "Protein", "quantity": 42.09903, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 295.6975, "unit": "mg" }
-    }
+    },
+    "description": "Apple Blintz Pancakes are a delicious and easy-to-make breakfast or brunch dish. They are made with thin pancakes that are filled with a sweet apple filling and then folded over and cooked until golden brown. Apple Blintz Pancakes are often served with a dusting of powdered sugar or a drizzle of maple syrup."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_c5b33b869241408eaf75d4e0de5978c8",
@@ -10490,7 +10547,8 @@
         "quantity": 783.8659962263954,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Indulge in the delightful flavors of carrot cake in fluffy pancake form! These Carrot Cake Pancakes are a perfect blend of sweet and savory, with a hint of warm spices and the crunch of walnuts and raisins. Topped with a luscious cream cheese glaze, they're a breakfast or brunch treat that will brighten up your day."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_b67104b7d35240a08db61a602d77c6d9",
@@ -10737,7 +10795,8 @@
         "quantity": 378.2570602933512,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Fluffy banana pancakes topped with a sweet and tangy blueberry sauce, perfect for a delicious breakfast or brunch."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_a4ff2e2051fdbd0049152120dabf1ccd",
@@ -10848,7 +10907,8 @@
         "quantity": 555.2945000000001,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Fluffy and delicious, these buttery whole-grain pancakes are the perfect way to start your day. Made with whole-wheat flour, oats, and buttermilk, they're packed with flavor and fiber. Plus, they're easy to make and can be topped with your favorite fruit, syrup, or whipped cream."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_0ec936caf216eaefc93af9e0d07cf4de",
@@ -11055,7 +11115,8 @@
         "quantity": 401.3118974999499,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Indulge in a delightful breakfast or brunch with our Lemon Blueberry Pancakes! Fluffy pancakes are bursting with fresh blueberries and a hint of zesty lemon flavor. Topped with a sweet lemon glaze, these pancakes are a perfect balance of tart and sweet, making them an irresistible treat."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_51aa982eb6c826ef9b35e4ece832c79c",
@@ -11216,7 +11277,8 @@
         "quantity": 163.52749999999767,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Berry Delicious and Easy Wheat Germ Pancakes are a great way to start your day. They are packed with flavor and nutrients, and they are so easy to make."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_23bee8033f094b3f8f1c482551fc322c",
@@ -11349,7 +11411,8 @@
         "quantity": 526.9067952916807,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Hungarian Crepes: Palacsinta"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_20ce0d52a42aea306e99b60bd1d8c017",
@@ -11414,7 +11477,8 @@
       "CHOCDF": { "label": "Carbs", "quantity": 198.8, "unit": "g" },
       "PROCNT": { "label": "Protein", "quantity": 35.84, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 0, "unit": "mg" }
-    }
+    },
+    "description": "Fiber One Pancakes are a delicious and healthy way to start your day. Made with whole grain oats and containing 18g of fiber per serving, these pancakes will help you feel full and satisfied all morning long. They're also a good source of protein and iron, and they're low in sugar and calories. So, whether you're looking for a quick and easy breakfast or a healthy snack, Fiber One Pancakes are the perfect choice."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_da3bbd96f17a0838bafff96bead810e5",
@@ -11536,11 +11600,12 @@
         "quantity": 22.831624044074996,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Sure, here's your requested information:\nApple Buckwheat Pancakes is a 1946 one-reel animated cartoon and is part of the Merrie Melodies series. Released on April 20, 1946, the cartoon was directed by Friz Freleng and written by Tedd Pierce. The voice cast includes Mel Blanc as Bugs Bunny, Porky Pig, and Elmer Fudd; Bea Benaderet as Granny; and Arthur Q. Bryan as Elmer Fudd.\nThe short begins with Bugs Bunny sitting on a fence, reading a newspaper. He comes across an ad for Apple Buckwheat Pancakes in a local newspaper and decides to pay a visit to the restaurant after Granny refuses to cook him breakfast. Bugs arrives at the restaurant and is greeted by Porky Pig, who is the waiter. Bugs orders a stack of pancakes, and Porky brings them to him. Bugs takes one bite and immediately falls in love with the taste. He eats the entire stack in seconds.\nPorky then brings Bugs another stack of pancakes, but this time, Elmer Fudd is hiding inside the stack. Elmer jumps out and tries to shoot Bugs, but Bugs is too fast for him. Bugs runs around the restaurant, with Elmer in hot pursuit. Finally, Bugs outsmarts Elmer and traps him in a flour bin.\nBugs then sits down to enjoy his pancakes, but Elmer emerges from the flour bin, covered in white powder. Elmer tries to shoot Bugs again, but Bugs uses a pancake to deflect the bullet. Elmer is finally defeated, and Bugs is able to finish his breakfast in peace.\nApple Buckwheat Pancakes is a classic Merrie Melodies cartoon that is full of laughs and action. The animation is top-notch, and the voice cast is excellent. The short is a great example of the golden age of animation, and it is still enjoyed by audiences today."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_617949bddd71e7e769014f65da57a4f7",
-    "label": "Peking Duck with Mandarin Pancakes and Plum Sauce Recipe",
+    "label": "Peking Duck with Mandarin Pancakes and Plum Sauce ",
     "image": "https://raw.githubusercontent.com/Freezer9/My-Dataset/main/JSON/images/pancakes/65_pancakes.jpg",
     "dietLabels": [],
     "healthLabels": [
@@ -11774,7 +11839,8 @@
         "quantity": 992.8229794560001,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Beijing roast duck, also known as Peking duck, is a dish from Beijing that has been prepared since the imperial era. The meat is prized for its thin, crisp skin, with authentic versions of the dish serving mostly the skin and little meat, sliced in front of the diners by the chef. Duck meat is rich in protein and contains several essential amino acids and vitamins. This version includes duck confit, hoisin sauce, scallions and cucumbers."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_31e085d2903724238c329a357c2078bf",
@@ -11937,7 +12003,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 261.35, "unit": "mg" }
-    }
+    },
+    "description": "Fluffy granola pancakes topped with a sweet and tangy fruit sauce made with fresh berries, citrus, and honey. A delicious and nutritious breakfast or brunch option."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_11f1b9c4e27b459dab5305e3c80c5330",
@@ -12079,7 +12146,8 @@
         "quantity": 159.11707873718666,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Fluffy ricotta pancakes made with creamy ricotta cheese, perfect for a delicious and satisfying breakfast or brunch."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_cb12e0a979b79d1010932a6bcbdd6472",
@@ -12223,7 +12291,8 @@
         "quantity": 1978.0953279999999,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Chocolate Chip Pancake Casserole is a decadent breakfast casserole made with layers of fluffy buttermilk pancakes, chocolate chips, and a sweet cream cheese filling. It's perfect for a special occasion or a lazy weekend morning."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_4a6b72446ff2767db1903c5186762f81",
@@ -12405,7 +12474,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 0, "unit": "mg" }
-    }
+    },
+    "description": "Scallion and Ginger Pancakes are a popular Chinese street food. They are made with a simple dough of flour, water, and salt, which is then rolled out and filled with a mixture of scallions, ginger, and other seasonings. The pancakes are then pan-fried until golden brown and crispy. They can be served with a variety of dipping sauces, such as soy sauce, vinegar, or chili oil."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_95b6ca48013a4bee93231e70503bb0b2",
@@ -12549,7 +12619,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 1960.637428, "unit": "mg" }
-    }
+    },
+    "description": "Fluffy buttermilk pancakes are layered with melty chocolate chips and baked until golden brown in this indulgent breakfast casserole. Perfect for lazy weekend mornings, it's easy to make and oh-so-delicious!"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_11f5fdabbd255db96ca0308ac8a3a541",
@@ -12778,7 +12849,8 @@
         "quantity": 735.129504289609,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Indulge in a culinary delight with our Smoked Salmon Omelet, a fluffy masterpiece filled with savory smoked salmon and creamy cheese. Accompanied by Apple Potato Pancakes, crispy on the outside and tender on the inside, infused with the sweet crunch of apples, this breakfast or brunch duo is a harmonious blend of flavors that will tantalize your taste buds."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_3529c49749b2c4a2455aff0d5b6edef4",
@@ -12923,11 +12995,12 @@
         "quantity": 726.0999999999999,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Ingredients:"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_b97b0e9845fe3054eef77a00db01fcda",
-    "label": "Lemon Blueberry Pancakes recipes",
+    "label": "Lemon Blueberry Pancakes ",
     "image": "https://raw.githubusercontent.com/Freezer9/My-Dataset/main/JSON/images/pancakes/73_pancakes.jpg",
     "dietLabels": ["Balanced"],
     "healthLabels": [
@@ -13130,7 +13203,8 @@
         "quantity": 401.3118974999499,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Fluffy lemon blueberry pancakes made with fresh lemon juice and zest, plump blueberries, and a touch of sweetness. Perfect for a delicious and vibrant breakfast or brunch."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_e060b38a96be4ea381ba4a09fde0681b",
@@ -13231,7 +13305,8 @@
         "quantity": 350.85983077218634,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Fluffy, golden-brown pancakes made with simple ingredients like flour, milk, eggs, and butter. Perfect for a delicious breakfast or brunch."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_7ee1d568e8253cd9b404c489838c5c2b",
@@ -13343,7 +13418,8 @@
         "quantity": 350.85983077218634,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Fluffy, golden-brown pancakes made with simple ingredients. Perfect for a delicious breakfast or brunch."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_f4a94cb2734ed7fd03f0c0c023661f95",
@@ -13430,7 +13506,8 @@
       },
       "PROCNT": { "label": "Protein", "quantity": 27.8129, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 319.92, "unit": "mg" }
-    }
+    },
+    "description": "Savory and delicious, these vegan squash pancakes are made with grated zucchini, shredded carrots, and a blend of warm spices. They're perfect for a healthy and satisfying breakfast or brunch."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_c338b7dc03604459828d870c8c6e07ca",
@@ -13530,7 +13607,8 @@
         "quantity": 159.90367999999998,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Fluffy pancakes are a type of pancake that is made with a batter that contains baking powder or baking soda. This causes the pancakes to rise and become fluffy when cooked. Fluffy pancakes are often served with butter, syrup, or fruit."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_61867ce23f2887f77bd913523b34d640",
@@ -13631,7 +13709,8 @@
         "quantity": 599.3631977416447,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Fluffy, golden-brown pancakes made with simple ingredients and ready in minutes. Perfect for a quick and delicious breakfast or brunch."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_ed2bb0f52419e9f0287d89b4517f2830",
@@ -13721,7 +13800,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 0, "unit": "mg" }
-    }
+    },
+    "description": "Easy Apple Pancakes are a delicious and fluffy breakfast treat that is perfect for a weekend brunch or a quick weekday meal. Made with simple ingredients like flour, sugar, baking powder, milk, eggs, and apples, these pancakes are incredibly easy to make and can be customized to your liking. Serve them with your favorite toppings, such as butter, syrup, or fruit, and enjoy a warm and satisfying breakfast or brunch."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_25eeca701e146343c282a28e8c747c3e",
@@ -13861,7 +13941,8 @@
         "quantity": 746.4799999999999,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Indulge in the delightful harmony of Lemon Ricotta Pancakes! These fluffy pancakes are infused with the vibrant zest of lemon and the creamy richness of ricotta cheese, creating a tantalizing treat that will brighten your mornings. Each bite offers a perfect balance of citrusy tang and velvety softness, making these pancakes an irresistible way to start your day or satisfy your sweet cravings."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_d32c99082482408098a5ce05cf37703c",
@@ -13962,7 +14043,8 @@
         "quantity": 140.33013946875,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Scallion pancake bread"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_e7ca274815614f03887cb79b5c8331fd",
@@ -14186,7 +14268,8 @@
         "quantity": 685.06185785,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Korean Green Onion and Shrimp Pancakes, also known as Pajeon, are a popular Korean savory pancake made with a batter of wheat flour, eggs, and water, and filled with green onions and shrimp. They are often served as an appetizer or side dish, and can be enjoyed with a dipping sauce of your choice."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_af23eddc89abde66d43d7394a292610e",
@@ -14304,7 +14387,8 @@
         "quantity": 194.13333333333333,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Fluffy and delicious corn pancakes made with fresh corn kernels, buttermilk, and a touch of sweetness. Perfect for a hearty breakfast or brunch."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_30e15f063c66cecae2395b3c6aae6717",
@@ -14422,7 +14506,8 @@
         "quantity": 402.9398307721863,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Easy Pancakes"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_5568082da5984437b4693ea866d5e1e0",
@@ -14573,7 +14658,8 @@
         "quantity": 380.21909633332297,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Soufflé Pancakes"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_0c5fb893312ce4174d3a5950b14b7d12",
@@ -14693,7 +14779,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 1002.46, "unit": "mg" }
-    }
+    },
+    "description": "Apple pancakes are a delicious and easy-to-make breakfast option. They are made with apples, flour, milk, eggs, and butter. The apples give the pancakes a sweet and slightly tart flavor, and the cinnamon adds a warm and inviting spice. Apple pancakes are perfect for a weekend breakfast or brunch, and they can be served with a variety of toppings, such as butter, syrup, or whipped cream."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_202286ea94dbbc5f4d8fa63af84db4a1",
@@ -14809,7 +14896,8 @@
         "quantity": 237.03407865166278,
         "unit": "mg"
       }
-    }
+    },
+    "description": "A cheesy and savory quesadilla filled with melted cheese, flavorful ham, and your choice of salsa and sour cream for dipping."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_1a178a78bb8fcc1ad12e9acd718d01d5",
@@ -14959,11 +15047,12 @@
         "quantity": 239.58059870625,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Kimchi pancakes, or kimchijeon (김치전) in Korean, are a crispy and flavorful Korean pancake made with kimchi, flour, and eggs. The kimchi provides a spicy and tangy flavor to the pancakes, which are often served as an appetizer or side dish. Kimchi pancakes are easy to make and can be enjoyed by people of all ages."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_e821edcaf4a5135b627ebaf10632d743",
-    "label": "Oatmeal Almond Pancakes recipes",
+    "label": "Oatmeal Almond Pancakes ",
     "image": "https://raw.githubusercontent.com/Freezer9/My-Dataset/main/JSON/images/pancakes/89_pancakes.jpg",
     "dietLabels": [],
     "healthLabels": [
@@ -15058,7 +15147,8 @@
       },
       "PROCNT": { "label": "Protein", "quantity": 42.793385, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 212.74, "unit": "mg" }
-    }
+    },
+    "description": "Fluffy oatmeal almond pancakes made with heart-healthy rolled oats, almond flour, almond milk, and a touch of honey for sweetness. These pancakes are gluten-free, dairy-free, and refined sugar-free, making them a great option for those with dietary restrictions or allergies. They're also packed with protein and fiber, making them a filling and satisfying breakfast or brunch option."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_bcd0f5fed2ad4b03927146232621edb0",
@@ -15188,11 +15278,12 @@
         "quantity": 632.3765538481242,
         "unit": "mg"
       }
-    }
+    },
+    "description": "American pancakes, also known as flapjacks, are a type of pancake that is thicker and fluffier than traditional European pancakes. They are typically made with a batter that includes flour, sugar, baking powder, baking soda, salt, milk, eggs, and butter. American pancakes are often served with butter and maple syrup, but they can also be topped with fruit, whipped cream, or other toppings."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_3b4b9cc88b67cae8f3c71ab86a080aac",
-    "label": "Chive Pancakes recipes",
+    "label": "Chive Pancakes ",
     "image": "https://raw.githubusercontent.com/Freezer9/My-Dataset/main/JSON/images/pancakes/91_pancakes.jpg",
     "dietLabels": ["Balanced"],
     "healthLabels": [
@@ -15332,7 +15423,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 1116, "unit": "mg" }
-    }
+    },
+    "description": "Ingredients:"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_15d3324926e85f69b00db24a9ce331ef",
@@ -15424,7 +15516,8 @@
       },
       "PROCNT": { "label": "Protein", "quantity": 52.594778, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 616.5762, "unit": "mg" }
-    }
+    },
+    "description": "Indulge in the ultimate breakfast delight with our No-Brainer Pancakes! Crafted with whole-wheat flour for sustained energy, these fluffy pancakes are a breeze to make. Simply combine the dry ingredients, add milk and an egg, and sizzle away on a hot griddle. Top with your favorite fruits, whipped cream, or syrup for a tantalizing treat that will jump-start your day."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_e3367c3e5e8aa771d756425c0cdb8125",
@@ -15625,7 +15718,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 22.05, "unit": "mg" }
-    }
+    },
+    "description": "Fluffy and delicious Honey-Oat Pancakes made with wholesome oats, sweet honey, and buttermilk for a perfect start to your day."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_23b87905112142749fd00d122c2b719f",
@@ -15764,11 +15858,12 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 294.33, "unit": "mg" }
-    }
+    },
+    "description": "Blueberry pancakes are a type of pancake that contains blueberries. They are typically made with flour, milk, eggs, sugar, baking powder, and blueberries. Blueberry pancakes can be served with a variety of toppings, such as butter, syrup, fruit, or whipped cream."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_2c3f329cd400445dd8e2bcce001e468e",
-    "label": "Matzo Pancakes (Chremslach) Recipe",
+    "label": "Matzo Pancakes (Chremslach) ",
     "image": "https://raw.githubusercontent.com/Freezer9/My-Dataset/main/JSON/images/pancakes/95_pancakes.jpg",
     "dietLabels": ["Balanced"],
     "healthLabels": [
@@ -15867,7 +15962,8 @@
       },
       "PROCNT": { "label": "Protein", "quantity": 36.43633308, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 753.190132, "unit": "mg" }
-    }
+    },
+    "description": "Matzo pancakes, also known as chremslach, are a traditional Jewish dish made from matzo meal, eggs, and water. They are a popular breakfast or brunch food, and can be served with a variety of toppings such as butter, honey, or fruit."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_3c6136bd90f71eb828fdce7df72c6431",
@@ -16002,7 +16098,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 0, "unit": "mg" }
-    }
+    },
+    "description": "Date pancakes are a delicious and healthy way to start your day. Made with whole wheat flour, oats, and dates, they are packed with fiber and nutrients. They are also naturally sweetened with honey, so they are a great option for people with diabetes or who are looking to reduce their sugar intake.\nHere is a short description of date pancakes:\n* Fluffy and flavorful pancakes made with whole wheat flour, oats, and dates\n* Naturally sweetened with honey\n* Packed with fiber and nutrients\n* A great option for breakfast or brunch"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_de62d715503844d0bc19246ff195dd77",
@@ -16153,7 +16250,8 @@
         "quantity": 360.7632769240621,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Spinach pancakes are a delicious and healthy way to start your day. They are made with whole-wheat flour, spinach, eggs, and milk, and can be cooked in just a few minutes. Spinach pancakes are a good source of fiber, protein, and vitamins, and they can be served with a variety of toppings, such as fruit, yogurt, or syrup."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_e99ef42a91cd48f88a1e56e9815b711d",
@@ -16294,7 +16392,8 @@
         "quantity": 554.2565538481242,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Fluffy turmeric pancakes bursting with the vibrant flavors of the East, offering a delightful and nutritious start to your day."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_1824109e38694c8faaf0a2ca6c1f6a97",
@@ -16425,7 +16524,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 639.84, "unit": "mg" }
-    }
+    },
+    "description": "Fluffy, buttery keto pancakes made with almond flour and cream cheese, perfect for a low-carb breakfast or brunch."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_77d48064c0b54bbfa40aafd37518a5c0",
@@ -16516,7 +16616,8 @@
         "quantity": 30.529999999999998,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Fluffy buttermilk pancakes infused with the warm, comforting flavors of eggnog, nutmeg, and cinnamon, topped with a sweet maple syrup glaze."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_8b4ef6f140a9de3e0434b5cdbb2e415d",
@@ -16647,7 +16748,8 @@
         "quantity": 414.72999999999996,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Maine Pancakes are a type of pancake that is popular in the state of Maine in the United States. They are typically made with a combination of wheat flour, buckwheat flour, and cornmeal, and are often served with butter and maple syrup. Maine Pancakes are known for their light and fluffy texture, and are a popular breakfast food in the state."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_4f8c3ecaf4cda5c4b684325e9c49df13",
@@ -16814,7 +16916,8 @@
       },
       "PROCNT": { "label": "Protein", "quantity": 21.882153512, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 159.96, "unit": "mg" }
-    }
+    },
+    "description": "Indulge in the tantalizing flavors of Honey-Apple Pancakes, where fluffy buttermilk pancakes are adorned with tender apple slices caramelized in honey and cinnamon. Each bite is a delightful symphony of sweet and tangy notes, making these pancakes the perfect start to any day."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_aa2cc85905eededabd4ab7af2b456a4f",
@@ -16956,7 +17059,8 @@
         "quantity": 301.98999999999995,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Here's a short description you can use:"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_cb249c8a7cab41609e6c3e38b3bae968",
@@ -17103,7 +17207,8 @@
       },
       "PROCNT": { "label": "Protein", "quantity": 51.8725, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 490.99, "unit": "mg" }
-    }
+    },
+    "description": "Lemony pancakes are a delicious and easy-to-make breakfast treat. They are made with fresh lemon juice and zest, which gives them a bright and tangy flavor. The pancakes are also fluffy and moist, thanks to the addition of buttermilk. Serve them with your favorite toppings, such as butter, syrup, or fruit."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_05fe5c3b8c9f47329457752c745ed8a6",
@@ -17237,7 +17342,8 @@
         "quantity": 1267.3999999999999,
         "unit": "mg"
       }
-    }
+    },
+    "description": "German pancakes, also known as Dutch babies or Bismarck pancakes, are a type of large, fluffy pancake that is baked in a skillet or cast-iron pan. They are made with a batter that is similar to a crepe batter, but thicker, and they are typically cooked until the edges are golden brown and the center is still slightly soft and custardy. German pancakes can be served with a variety of toppings, such as fruit, whipped cream, or syrup."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_ef244d4e086e0b090e7dba5800ac03d7",
@@ -17381,7 +17487,8 @@
       },
       "PROCNT": { "label": "Protein", "quantity": 53.228840081, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 1076.52, "unit": "mg" }
-    }
+    },
+    "description": "Fluffy, golden-brown pancakes made with apples, perfect for a hearty and delicious breakfast or brunch."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_6a56b4c4b3694cf642479683c7d34013",
@@ -17547,7 +17654,8 @@
       },
       "PROCNT": { "label": "Protein", "quantity": 55.14565, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 633.315, "unit": "mg" }
-    }
+    },
+    "description": "English pancakes are a type of thin, flat pancake made from a batter of flour, milk, and eggs. They are typically cooked in a frying pan with a little bit of butter or oil, and can be served with a variety of toppings, such as fruit, syrup, or whipped cream. English pancakes are similar to American pancakes, but are thinner and have a slightly different flavor. They are a popular breakfast food in England, and are often served with bacon or sausage."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_7780118468f3024978f9f126d97bea7b",
@@ -17695,7 +17803,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 80.66, "unit": "mg" }
-    }
+    },
+    "description": "Fluffy whole grain pancakes topped with a sweet and tangy wild blueberry-maple syrup, made with real maple syrup and fresh wild blueberries. A delicious and nutritious breakfast or brunch option."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_1e365339c18f4848be7624a824736189",
@@ -17841,7 +17950,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 656.87, "unit": "mg" }
-    }
+    },
+    "description": "Fluffy buckwheat pancakes made with whole-wheat flour and buckwheat flour, perfect for a hearty and delicious breakfast or brunch. Enjoy with your favorite toppings like butter, syrup, fruit, or whipped cream."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_1d06246f44ae264a029b2ecd8eff55ff",
@@ -17991,7 +18101,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 551.77, "unit": "mg" }
-    }
+    },
+    "description": "Fluffy pancakes made with the sweet, tangy flavor of applesauce, perfect for a comforting and delicious breakfast or brunch."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_30d2de033642cfc84bbc5e27edf1450b",
@@ -18100,7 +18211,8 @@
         "quantity": 1007.4597461582795,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Fluffy pancakes topped with sweet and fruity jam, a classic breakfast or brunch treat."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_a9922903a473213d69a67db5a2b10f25",
@@ -18358,7 +18470,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 22.05, "unit": "mg" }
-    }
+    },
+    "description": "Fluffy and delicious oat pancakes made with wholesome rolled oats, perfect for a nutritious and satisfying breakfast or brunch."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_2b692058255049468577889e5a7fec3e",
@@ -18459,7 +18572,8 @@
       "CHOCDF": { "label": "Carbs", "quantity": 60.4979, "unit": "g" },
       "PROCNT": { "label": "Protein", "quantity": 22.0167, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 319.92, "unit": "mg" }
-    }
+    },
+    "description": "Zucchini pancakes are a delicious and easy way to use up extra zucchini. They are made with grated zucchini, flour, eggs, and seasonings. The pancakes are cooked in a pan until golden brown and crispy. They can be served with your favorite toppings, such as sour cream, applesauce, or syrup."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_0b54961bbc59485dbefd5435922ed6d7",
@@ -18544,7 +18658,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 0, "unit": "mg" }
-    }
+    },
+    "description": "Crispy shredded duck meat, spring onions and hoisin sauce wrapped in steamed pancakes."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_8963b639600b4170aa16e44811814cce",
@@ -18631,7 +18746,8 @@
       "CHOCDF": { "label": "Carbs", "quantity": 190.75, "unit": "g" },
       "PROCNT": { "label": "Protein", "quantity": 25.75, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 0, "unit": "mg" }
-    }
+    },
+    "description": "Mandarin pancakes, also known as jianbing guozi in Chinese, are a type of thin pancake made from wheat flour and water. They are typically filled with a variety of ingredients, such as eggs, vegetables, and meat. Mandarin pancakes are a popular street food in China and are often served with a dipping sauce."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_02b25394f338583e3e71100d579617d6",
@@ -18798,7 +18914,8 @@
         "quantity": 176.49327692406212,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Fluffy oat pancakes made with heart-healthy oats, perfect for a nutritious and delicious breakfast or brunch."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_cea784d7623840a28a2dc41ece63a0be",
@@ -18899,7 +19016,8 @@
         "quantity": 216.93983077218635,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Classic pancakes are a type of flatbread made from a batter of flour, milk, eggs, and butter. They are typically cooked on a hot griddle or frying pan and served with butter, syrup, or fruit. Pancakes are a popular breakfast food, but they can also be enjoyed as a dessert or snack."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_e823863137c74e0e3f533c5a9b174dc3",
@@ -19073,7 +19191,8 @@
         "quantity": 281.28499999999997,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Indulge in the tantalizing aroma and irresistible taste of our Blueberry Yogurt Pancakes. Each fluffy bite bursts with the sweet and tangy flavors of fresh blueberries and creamy yogurt, creating a delightful symphony on your palate. These pancakes are a perfect balance of wholesome goodness and indulgent pleasure, promising to start your day with a smile and a satisfied belly."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_f88e131049794bc294f6f5f2c5d8df40",
@@ -19222,7 +19341,8 @@
         "quantity": 1028.2121334543494,
         "unit": "mg"
       }
-    }
+    },
+    "description": "- Drumsticks\n- Thighs\n- Wings\n- Breasts\n- Nuggets\n- Strips\n- Popcorn chicken\n- Chicken salad\n- Chicken soup\n- Chicken pot pie\n- Chicken and dumplings\n- Chicken fried rice\n- Chicken stir-fry\n- Chicken tacos\n- Chicken burritos\n- Chicken enchiladas\n- Chicken fajitas\n- Chicken quesadillas\n- Chicken pizza\n- Chicken pasta\n- Chicken salad sandwich\n- Chicken wrap\n- Chicken nuggets with dipping sauce\n- Chicken tenders\n- Chicken wings with dipping sauce\n- Chicken and waffles\n- Chicken and biscuits\n- Chicken and gravy\n- Roasted chicken\n- Baked chicken\n- Fried chicken\n- Grilled chicken\n- Rotisserie chicken\n- Smoked chicken\n- Chicken Kiev\n- Chicken cordon bleu\n- Chicken Marsala\n- Chicken piccata\n- Chicken Parmesan\n- Chicken Alfredo\n- Chicken cacciatore\n- Chicken tikka masala\n- Chicken vindaloo\n- Chicken korma\n- Chicken biryani\n- Pad Thai with chicken\n- Lo mein with chicken\n- Chow mein with chicken\n- Kung Pao chicken\n- General Tso's chicken\n- Orange chicken\n- Sesame chicken\n- Sweet and sour chicken\n- Mongolian chicken\n- Szechuan chicken\n- Hunan chicken"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_360c753370ed4c93aff947fd757c3832",
@@ -19384,7 +19504,8 @@
         "quantity": 378.31841999999386,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Pancakes"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_45f79769c4e74261879113e1e8640243",
@@ -19548,7 +19669,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 236.3, "unit": "mg" }
-    }
+    },
+    "description": "Ingredients:"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_e403c8ec35044d3bacb43eca4a234e96",
@@ -19694,7 +19816,8 @@
       },
       "PROCNT": { "label": "Protein", "quantity": 31.49233, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 344.32, "unit": "mg" }
-    }
+    },
+    "description": "Fluffy pumpkin pancakes made with warm fall spices, perfect for a cozy breakfast or brunch."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_36c37d96e056a478c17dd0613eb9aefb",
@@ -19795,7 +19918,8 @@
         "quantity": 516.4921330804204,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Pannekaken, or Norwegian Pancakes, are a classic and versatile breakfast dish. These thin, crepe-like pancakes are made with a simple batter of flour, milk, eggs, and a touch of sugar. They can be served with a variety of toppings, from sweet to savory, making them a perfect option for any meal."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_f6120a0e10a542dda524efc9279bc58c",
@@ -19983,11 +20107,12 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 645.62, "unit": "mg" }
-    }
+    },
+    "description": "Fluffy, cheesy pancakes with a hint of savory goodness from the hot dog. Perfect for a quick and easy breakfast, lunch, or dinner."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_18569ccb4fb0dc8e46887b98b9e4d097",
-    "label": "Oatmeal Pancakes recipes",
+    "label": "Oatmeal Pancakes ",
     "image": "https://raw.githubusercontent.com/Freezer9/My-Dataset/main/JSON/images/pancakes/125_pancakes.jpg",
     "dietLabels": ["Balanced"],
     "healthLabels": [
@@ -20143,7 +20268,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 494.09, "unit": "mg" }
-    }
+    },
+    "description": "Fluffy oatmeal pancakes made with heart-healthy oats, cinnamon, and a touch of maple syrup. A delicious and nutritious breakfast option that can be customized with your favorite toppings."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_a81d28a461607d2e413d041e3e49c431",
@@ -20290,7 +20416,8 @@
         "quantity": 352.54713875,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Savory pancakes are a type of pancake that is made with a batter that contains savory ingredients, such as cheese, vegetables, or meat."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_4baedeffd9ff9169d7df9a9b8c4bd159",
@@ -20440,11 +20567,12 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 382.94, "unit": "mg" }
-    }
+    },
+    "description": "Sizzling fajitas packed with a colorful array of crisp-tender bell peppers, onions, and your choice of protein, all seasoned to perfection with a zesty blend of Mexican spices and served on a sizzling skillet with warm tortillas, guacamole, salsa, sour cream, and shredded cheese."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_133e1d841c787c876ce3b267567dc90f",
-    "label": "German Pancakes recipes",
+    "label": "German Pancakes ",
     "image": "https://raw.githubusercontent.com/Freezer9/My-Dataset/main/JSON/images/pancakes/128_pancakes.jpg",
     "dietLabels": [],
     "healthLabels": [
@@ -20559,7 +20687,8 @@
         "quantity": 717.1666666666666,
         "unit": "mg"
       }
-    }
+    },
+    "description": "German Pancake Recipes"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_fbe44db028b44461b65b11b103d0fb9a",
@@ -20708,7 +20837,8 @@
         "quantity": 396.0868526225137,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Potato pancakes, also known as latkes, are a traditional dish made from grated potatoes, flour, eggs, and onions. The mixture is fried in oil until golden brown and crispy on the outside, while remaining soft and fluffy on the inside. Potato pancakes are often served with sour cream or applesauce as a side dish or appetizer. They are a popular dish in many cultures and can be enjoyed for breakfast, lunch, or dinner."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_e6b7925509d7ee65d0d8622c259b4af5",
@@ -20806,7 +20936,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 319.92, "unit": "mg" }
-    }
+    },
+    "description": "Fluffy banana pancakes bursting with warm autumn spices and topped with a decadent maple pecan butter. A perfect fall breakfast or brunch!"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_26f762454522f733a5d2782011e7fbbc",
@@ -20958,11 +21089,12 @@
         "quantity": 271.2255344596349,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Buckwheat pancakes are a delicious and nutritious breakfast option. They are made with buckwheat flour, which is a good source of fiber and protein. Buckwheat pancakes are also a good source of iron and magnesium. They are typically served with butter and syrup, but can also be topped with fruit, whipped cream, or other toppings."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_096a0c04c39445eb8195f2b64a4f6bb8",
-    "label": "Light and Thin Pancakes From Homemade Pancake Mix Recipe",
+    "label": "Light and Thin Pancakes From Homemade Pancake Mix ",
     "image": "https://raw.githubusercontent.com/Freezer9/My-Dataset/main/JSON/images/pancakes/132_pancakes.jpg",
     "dietLabels": [],
     "healthLabels": [
@@ -21132,11 +21264,12 @@
         "quantity": 338.0506852625,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Light and Thin Pancakes from Homemade Pancake Mix"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_39e8954c713b4b1d8a17a48fdd6422a0",
-    "label": "Thick and Fluffy Pancakes From Homemade Pancake Mix Recipe",
+    "label": "Thick and Fluffy Pancakes From Homemade Pancake Mix ",
     "image": "https://raw.githubusercontent.com/Freezer9/My-Dataset/main/JSON/images/pancakes/133_pancakes.jpg",
     "dietLabels": [],
     "healthLabels": [
@@ -21309,7 +21442,8 @@
         "quantity": 332.38078063750004,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Indulge in the ultimate breakfast experience with our Thick and Fluffy Pancakes from Homemade Pancake Mix! Crafted with simple ingredients and a touch of love, these pancakes are incredibly thick, fluffy, and bursting with flavor. Prepare to savor every bite as you create a stack of golden-brown perfection that will satisfy your cravings and warm your soul."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_b1876153d19be3f6af9ce6410dc509df",
@@ -21443,7 +21577,8 @@
         "quantity": 674.3599999999999,
         "unit": "mg"
       }
-    }
+    },
+    "description": "A hangover breakfast sandwich made with pancakes, bacon, eggs, and cheese."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_5e04f9705166406ab0c9854a00eec40d",
@@ -21615,7 +21750,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 483.19, "unit": "mg" }
-    }
+    },
+    "description": "Buckwheat pancakes are a type of pancake made from buckwheat flour. They are typically dark brown in color and have a slightly nutty flavor. Buckwheat pancakes are a good source of fiber and protein, and they can be served with a variety of toppings, such as butter, syrup, or fruit."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_99bfd910e0ba046f9d7116caf33981d8",
@@ -21811,11 +21947,12 @@
         "quantity": 841.5356777500037,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Fluffy ricotta pancakes infused with the bright flavor of Meyer lemon, topped with a vibrant macerated strawberry coulis. Perfect for a delightful breakfast or brunch treat."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_da87781bc8c9bcca91434212279c8c08",
-    "label": "Pumpkin Pancakes Topped with Blueberry Preserves Recipe",
+    "label": "Pumpkin Pancakes Topped with Blueberry Preserves ",
     "image": "https://raw.githubusercontent.com/Freezer9/My-Dataset/main/JSON/images/pancakes/137_pancakes.jpg",
     "dietLabels": ["Balanced"],
     "healthLabels": [
@@ -21905,7 +22042,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 239.32, "unit": "mg" }
-    }
+    },
+    "description": "Fluffy pumpkin pancakes topped with sweet blueberry preserves, perfect for a cozy fall breakfast."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_acfec177bf3d80587be8d218f747ef1e",
@@ -22045,7 +22183,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 557.96, "unit": "mg" }
-    }
+    },
+    "description": "Sausage Pancakes-on-a-Stick are bite-sized pancake balls with savory breakfast sausage in the center, coated in pancake batter and cooked on a stick. They're easy to make and perfect for parties or a quick breakfast on the go."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_4e0b85ce2fc5ce05222df8e77869ebf6",
@@ -22157,7 +22296,8 @@
       "CHOCDF": { "label": "Carbs", "quantity": 107.4705, "unit": "g" },
       "PROCNT": { "label": "Protein", "quantity": 27.2845, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 195.8, "unit": "mg" }
-    }
+    },
+    "description": "Buttermilk pancakes are a type of pancake made with buttermilk. They are typically light and fluffy, with a slightly tangy flavor. Buttermilk pancakes are often served with butter and syrup, but can also be topped with fruit, whipped cream, or other toppings."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_c5f04e2575b3ac686cddf2ed88360e4b",
@@ -22339,7 +22479,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 548.488, "unit": "mg" }
-    }
+    },
+    "description": "Spiced Pillow Pancakes are soft, fluffy pancakes made with warm spices like cinnamon, nutmeg, and ginger. They are perfect for a cozy breakfast or brunch, and they can be topped with your favorite fruit, whipped cream, or maple syrup."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_b57827365d63c90a8cd39b8b0077c0d9",
@@ -22426,7 +22567,8 @@
       "CHOCDF": { "label": "Carbs", "quantity": 144.4575, "unit": "g" },
       "PROCNT": { "label": "Protein", "quantity": 19.67, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 0, "unit": "mg" }
-    }
+    },
+    "description": "Curry Pancakes"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_fac9aaab61132b1c0e2353eceea18be9",
@@ -22633,7 +22775,8 @@
         "quantity": 1847.7415799501186,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Savory potato pancakes topped with a sweet and tangy apple-onion jam and a dollop of creamy horseradish crème fraîche."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_1dfe8330149203b73d21a6a6f20d0f80",
@@ -22739,7 +22882,8 @@
       },
       "PROCNT": { "label": "Protein", "quantity": 25.7523, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 0, "unit": "mg" }
-    }
+    },
+    "description": "Fluffy and delicious blueberry buttermilk pancakes made with fresh blueberries and buttermilk for a classic breakfast treat."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_9ea725105bc6ec9b8ef81832112faf18",
@@ -22910,7 +23054,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 417.23, "unit": "mg" }
-    }
+    },
+    "description": "Fluffy pancakes bursting with juicy nectarine pieces. A sweet and satisfying breakfast or brunch treat that's easy to make and perfect for any occasion."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_ddf15b522db7e59a540ddc9c1a591629",
@@ -23029,7 +23174,8 @@
         "quantity": 211.28006249999999,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Crispy on the outside, fluffy on the inside, these mashed-potato pancakes are easy to make and a great way to use up leftover mashed potatoes. They're perfect for breakfast, lunch, or dinner, and can be served with a variety of toppings, such as sour cream, applesauce, or maple syrup."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_1bd3f9734dff4f2fa33dbd55dae43885",
@@ -23210,11 +23356,12 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 870.425, "unit": "mg" }
-    }
+    },
+    "description": "Big Pancakes is a breakfast and brunch restaurant chain based in California. The restaurant is known for its large pancakes, which are made with buttermilk and cooked on a griddle. Big Pancakes also offers a variety of other breakfast and brunch items, such as waffles, French toast, omelets, and breakfast burritos. The restaurant has a casual atmosphere and is family-friendly."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_81f8a44395b968a53e99be02cc3f286f",
-    "label": "Bacon Chocolate Chip Pancakes Recipe",
+    "label": "Bacon Chocolate Chip Pancakes ",
     "image": "https://raw.githubusercontent.com/Freezer9/My-Dataset/main/JSON/images/pancakes/147_pancakes.jpg",
     "dietLabels": ["Balanced"],
     "healthLabels": [
@@ -23325,7 +23472,8 @@
         "quantity": 256.34730003526,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Indulge in the irresistible combination of crispy bacon and rich chocolate chips in these mouthwatering pancakes. Our easy recipe will guide you through creating a delightful breakfast or brunch that will satisfy your cravings."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_8f66a6cc7601087527c9b5e259a94027",
@@ -23458,7 +23606,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 0, "unit": "mg" }
-    }
+    },
+    "description": "Scallion pancakes are a type of Chinese flatbread made from wheat flour, water, and green onions. They are typically thin and crispy, with a savory flavor. Scallion pancakes can be served as a snack, appetizer, or side dish."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_4c1f492f3304765efd63441a985dda4c",
@@ -23564,7 +23713,8 @@
         "quantity": 544.4482231500001,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Raclette potato pancakes are a delicious and easy-to-make dish that is perfect for a winter meal. They are made with mashed potatoes, cheese, and eggs, and are then pan-fried until golden brown. Raclette potato pancakes can be served with a variety of toppings, such as sour cream, applesauce, or melted cheese."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_ad2e952453ae74f146be5b476e3ff8e2",
@@ -23677,7 +23827,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 217.38, "unit": "mg" }
-    }
+    },
+    "description": "Naga-imo pancakes are a type of Japanese pancake made with grated nagaimo (Japanese mountain yam). They are characterized by their fluffy, chewy texture and slightly sweet flavor. Naga-imo pancakes are often served with a savory sauce, such as mentsuyu (noodle dipping sauce) or soy sauce, and can be topped with a variety of ingredients, such as green onions, bonito flakes, and nori seaweed."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_594d375d3bb0d10f08df0a54c4962ae4",
@@ -23771,7 +23922,8 @@
         "quantity": 11.056314018750001,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Potato pancakes are a type of pancake made from grated or mashed potatoes, flour, eggs, and seasonings. They are often served with applesauce, sour cream, or other toppings. Potato pancakes are a popular dish in many countries, including Germany, Poland, and Russia. They are also known as latkes in Yiddish and deruny in Ukrainian."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_5e1bfc60a6a141185ee860853621a7f4",
@@ -23942,7 +24094,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 587.4, "unit": "mg" }
-    }
+    },
+    "description": "Gingerbread Pancakes are fluffy buttermilk pancakes with the warm flavors of gingerbread. They're perfect for a festive breakfast or brunch, and can be topped with your favorite toppings like butter, syrup, or whipped cream."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_7e53e50b7d02cb7ad3020b14b8fea87d",
@@ -24112,7 +24265,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 326.39, "unit": "mg" }
-    }
+    },
+    "description": "Indulge in our luscious Matcha Pancakes, a symphony of flavors that will tantalize your taste buds. Crafted with premium matcha green tea, these pillowy pancakes offer a vibrant emerald hue and an earthy, slightly sweet flavor. Each bite melts in your mouth, leaving a delicate tea aroma that lingers on your palate. Perfect for a delightful breakfast, brunch, or afternoon treat, our Matcha Pancakes are an exquisite culinary creation that will leave you craving more."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_9132bc0dc40c6ca7eb4931b163e622bb",
@@ -24229,7 +24383,8 @@
       },
       "PROCNT": { "label": "Protein", "quantity": 9.6088, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 8.85, "unit": "mg" }
-    }
+    },
+    "description": "Potato pancakes are a type of pancake made from grated or mashed potatoes, flour, eggs, and seasonings. They are often served with sour cream, applesauce, or other toppings. Potato pancakes are a popular dish in many countries, and there are many different variations on the recipe. Some common variations include adding cheese, onions, or other vegetables to the batter. Potato pancakes can be cooked in a variety of ways, including pan-frying, baking, or deep-frying."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_211a709ec7a6429c9c52e25dc1599324",
@@ -24344,7 +24499,8 @@
         "quantity": 646.1663846203106,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Savory pancakes are a type of pancake that is made without sugar and other sweet ingredients. They are typically made with flour, eggs, milk, and salt, and can be filled with a variety of savory ingredients, such as cheese, vegetables, or meat. Savory pancakes are a popular breakfast or lunch food in many cultures, and can be served with a variety of toppings, such as salsa, sour cream, or guacamole."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_0df673bd6e824a3e8a928302bcc0af13",
@@ -24504,7 +24660,8 @@
         "quantity": 185.24006250000002,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Zucchini pancakes are a delicious and easy way to use up extra zucchini. They are made with grated zucchini, flour, eggs, and seasonings, and are cooked in a pan until golden brown. Zucchini pancakes can be served with a variety of toppings, such as sour cream, applesauce, or maple syrup."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_99d6699bff37e8224d50ace6a23b4e2e",
@@ -24618,7 +24775,8 @@
         "quantity": 180.58655384812423,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Fluffy pumpkin pancakes bursting with pumpkin flavor and warm spices, perfect for a cozy fall breakfast or brunch."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_a6bb98e725a0507dde5618f8a142a71a",
@@ -24742,7 +24900,8 @@
       },
       "PROCNT": { "label": "Protein", "quantity": 31.9458, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 360.25, "unit": "mg" }
-    }
+    },
+    "description": "Indulge in the fluffy goodness of our Heavenly Buttermilk Pancakes, made with fresh buttermilk for a tender and melt-in-your-mouth experience. Each stack is cooked to golden perfection and served with warm maple syrup, ready to satisfy your breakfast cravings or any time of day."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_f444fe4b37f9564ad09e3030feb529be",
@@ -24914,7 +25073,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 695.59, "unit": "mg" }
-    }
+    },
+    "description": "Buttermilk pancakes are a classic breakfast food made with buttermilk, flour, sugar, baking powder, baking soda, salt, and eggs. They are cooked on a griddle or frying pan until golden brown and fluffy. Buttermilk pancakes are often served with butter, syrup, and fruit."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_91cc8fd377d98ed6d446e48ed2582fe7",
@@ -25091,7 +25251,8 @@
       },
       "PROCNT": { "label": "Protein", "quantity": 58.22307, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 633.76, "unit": "mg" }
-    }
+    },
+    "description": "Fluffy buckwheat pancakes made with buckwheat flour, milk, eggs, and butter. Perfect for a hearty and delicious breakfast."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_2f3da1f2f878e2bce43d20c779612475",
@@ -25209,7 +25370,8 @@
       "CHOCDF": { "label": "Carbs", "quantity": 113.32694, "unit": "g" },
       "PROCNT": { "label": "Protein", "quantity": 27.1093, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 271.46, "unit": "mg" }
-    }
+    },
+    "description": "Silver Dollar Pancakes are small, fluffy pancakes that are cooked on a griddle or in a skillet. They are typically made with flour, sugar, baking powder, salt, milk, and eggs. Silver Dollar Pancakes are often served with butter and syrup, and can also be topped with fruit, whipped cream, or ice cream."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_6a867c87463e033717f256bfb2e974ce",
@@ -25405,7 +25567,8 @@
         "quantity": 341.62541666769806,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Fluffy whole grain pancakes topped with a sweet and tangy berry cream syrup made with fresh or frozen berries, cream cheese, and maple syrup. A delicious and nutritious breakfast or brunch option."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_5a1ada178eea446190c9144f5082ef21",
@@ -25576,7 +25739,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 452.66, "unit": "mg" }
-    }
+    },
+    "description": "Pansy Pancakes is a light-hearted and fluffy slice-of-life webcomic about a young witch named Pansy who has just graduated from magic school and is starting her new life as an adult. She lives with her best friend Robbie, a human, and her loyal cat Whiskers. Together, they navigate the ups and downs of post-grad life, from finding a job to making rent to dealing with the occasional magical mishap. Pansy Pancakes is a celebration of friendship, magic, and the everyday adventures of young adulthood."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_adfd8c1d3785440799886fa864451426",
@@ -25697,7 +25861,8 @@
         "quantity": 554.2565538481242,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Eggs Benedict pancakes are a delicious and easy-to-make breakfast dish that combines the classic flavors of eggs Benedict with the fluffy texture of pancakes. The dish is made with poached eggs, hollandaise sauce, and Canadian bacon, all served on top of a stack of pancakes. Eggs Benedict pancakes are a great way to start your day or enjoy a special brunch."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_22b57c124a331a615102dd347d3450e3",
@@ -25839,7 +26004,8 @@
         "quantity": 276.5438541669245,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Fluffy, golden brown pancakes in just minutes! Our easy recipe uses simple ingredients and a blender for a quick and delicious breakfast or brunch."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_7e1f1e1dc9e8fcd73ba12206bc861ab7",
@@ -25968,7 +26134,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 388.61, "unit": "mg" }
-    }
+    },
+    "description": "Sweetcorn pancakes are a delicious and easy-to-make breakfast or brunch dish. They're made with sweetcorn, flour, eggs, and milk, and can be cooked in a matter of minutes. Sweetcorn pancakes are fluffy and moist, with a slightly sweet flavor. They can be served with a variety of toppings, such as butter, syrup, fruit, or yogurt."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_35886b14acbe0466da9f90e24ac889d6",
@@ -26186,7 +26353,8 @@
         "quantity": 625.4431287302626,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Fluffy buttermilk pancakes packed with ripe bananas, crunchy pecans, and warm spices, served with a drizzle of maple syrup for a delightful breakfast or brunch treat."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_555ecd7b216b8fa941384415a8053d61",
@@ -26308,7 +26476,8 @@
         "quantity": 233.55068984382112,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Egg pancakes are a type of thin pancake made with eggs, flour, and milk. They are similar to crepes, but they are thicker and have a more eggy flavor. Egg pancakes can be served with a variety of toppings, such as fruit, whipped cream, or syrup. They are also a popular breakfast food in many countries around the world."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_8b5f82742d094dbc82847a82c992d8dd",
@@ -26472,7 +26641,8 @@
       "CHOCDF": { "label": "Carbs", "quantity": 207.8625, "unit": "g" },
       "PROCNT": { "label": "Protein", "quantity": 37.08515, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 200.7, "unit": "mg" }
-    }
+    },
+    "description": "Funfetti Pancakes are a delicious and festive breakfast treat that is perfect for any occasion. They are made with a fluffy pancake batter that is studded with colorful sprinkles. The pancakes are then cooked until golden brown and served with your favorite toppings."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_0f8e3327629742789de134f882d3a421",
@@ -26541,7 +26711,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 0, "unit": "mg" }
-    }
+    },
+    "description": "Gin and tonic pancakes are a boozy twist on a classic breakfast favorite. Made with gin, tonic water, and plenty of fresh lemon juice, these pancakes are light, fluffy, and have a subtle citrus flavor. They're perfect for a weekend brunch or a special occasion breakfast."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_6f39280df795bbf4fe5a2110b2d3ff7c",
@@ -26689,7 +26860,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 503.8125, "unit": "mg" }
-    }
+    },
+    "description": "Fluffy sweet potato pancakes drizzled with a luscious honey-cinnamon butter, offering a delightful blend of sweet and savory flavors."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_cbdc3685800571f9fad86347cd5cc74d",
@@ -26818,7 +26990,8 @@
         "quantity": 201.46991538609316,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Fluffy, nutty pancakes made with whole wheat flour and packed with the goodness of walnuts and pecans. A delicious and nutritious breakfast or brunch option that's perfect for any day of the week."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_e4c7d6c217715b9089ec320225866b84",
@@ -26953,11 +27126,12 @@
         "quantity": 335.3899153860932,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Fluffy, grain-free pancakes made with coconut flour, perfect for a healthy and delicious breakfast or brunch."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_ebb8d33268f4c85da63c9bf8b87fa083",
-    "label": "Scallion Pancakes recipes",
+    "label": "Scallion Pancakes ",
     "image": "https://raw.githubusercontent.com/Freezer9/My-Dataset/main/JSON/images/pancakes/174_pancakes.jpg",
     "dietLabels": ["Low-Fat"],
     "healthLabels": [
@@ -27056,7 +27230,8 @@
       "CHOCDF": { "label": "Carbs", "quantity": 199.0442, "unit": "g" },
       "PROCNT": { "label": "Protein", "quantity": 27.8179, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 0, "unit": "mg" }
-    }
+    },
+    "description": "Scallion pancakes, or cong you bing, are a popular Chinese flatbread made with wheat flour, water, and scallions. They are crispy on the outside and chewy on the inside, with a savory flavor. Here is a short description of a recipe for scallion pancakes:\nIngredients:\n* 2 cups all-purpose flour\n* 1 teaspoon salt\n* 1 cup boiling water\n* 1/2 cup chopped scallions\n* 1/4 cup vegetable oil\nInstructions:\n1. In a large bowl, whisk together the flour and salt. Add the boiling water and stir until a dough forms. Knead the dough for 5 minutes, or until it is smooth and elastic.\n2. Divide the dough into 12 equal pieces. Roll each piece into a circle, about 1/8-inch thick.\n3. Brush each circle with vegetable oil and sprinkle with scallions. Roll up each circle into a log, then coil the log into a snail shape.\n4. Heat a large skillet over medium heat. Add the scallion pancakes and cook for 2-3 minutes per side, or until golden brown and crispy.\n5. Serve warm with your favorite dipping sauce."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_15bbfd9688b540acbeb2874c7ed9c933",
@@ -27155,7 +27330,8 @@
         "quantity": 721.1816666707924,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Indulge in fluffy, golden pancakes made with just 3 simple ingredients: bananas, eggs, and a dash of cinnamon. These easy-to-make pancakes are perfect for a quick and delicious breakfast or snack."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_bef479ca4739475da778749186e2dd45",
@@ -27296,7 +27472,8 @@
         "quantity": 202.42666666666668,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Fluffy and golden brown, these buttermilk pancakes are the perfect way to start your day. Made with simple ingredients like flour, sugar, baking powder, baking soda, salt, buttermilk, eggs, and butter, they're easy to make and absolutely delicious. Serve them with your favorite toppings, like butter, syrup, fruit, or whipped cream."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_fa0be1a3a2404d97803c14e6a1976146",
@@ -27426,11 +27603,12 @@
         "quantity": 423.67999999999995,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Fluffy, delicious pancakes made with simple ingredients you probably already have on hand. Perfect for a quick and easy breakfast, lunch, or dinner."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_b93f17f582d0c970c2325d40a688e8ec",
-    "label": "Yeasted Buckwheat Pancakes recipes",
+    "label": "Yeasted Buckwheat Pancakes ",
     "image": "https://raw.githubusercontent.com/Freezer9/My-Dataset/main/JSON/images/pancakes/178_pancakes.jpg",
     "dietLabels": ["Balanced"],
     "healthLabels": [
@@ -27574,7 +27752,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 269.82, "unit": "mg" }
-    }
+    },
+    "description": "Fluffy, nutty, and slightly tangy, these Yeasted Buckwheat Pancakes are a delicious and nutritious breakfast option. Made with a combination of buckwheat flour and all-purpose flour, they have a unique flavor and texture that will satisfy your taste buds."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_20ec485fa7e94ba397775fae47c6a762",
@@ -27713,7 +27892,8 @@
         "quantity": 241.60662660000003,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Kimchi pancakes, also known as kimchijeon, are a popular Korean dish made with kimchi, flour, and eggs. They are typically pan-fried and served with a dipping sauce. Kimchi pancakes are a great way to use up leftover kimchi and make a quick and easy meal."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_1cf31aa5844736ed1053469d456a1097",
@@ -27855,7 +28035,8 @@
         "quantity": 342.3409999999815,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Fluffy, golden-brown buttermilk pancakes, made from scratch with simple ingredients. Perfect for a hearty and delicious breakfast or brunch."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_2278608ba153b35f8731ea1fcc796fd3",
@@ -27992,7 +28173,8 @@
         "quantity": 339.52000000000004,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Buttermilk pancakes are a type of pancake made with buttermilk. They are typically light and fluffy, with a slightly tangy flavor. Buttermilk pancakes are often served with butter and syrup, and can also be topped with fruit, whipped cream, or other toppings."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_941803b86dac43e49c866a2994cdb339",
@@ -28104,7 +28286,8 @@
         "quantity": 454.28983077218635,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Lacey Pancakes is a popular breakfast food made from a batter of flour, sugar, baking powder, eggs, and milk, which is cooked on a hot griddle or frying pan. Lacey Pancakes are characterized by their thin, delicate texture and their intricate lace-like pattern, which is created by the batter bubbling and crisping as it cooks. They are often served with butter, syrup, fruit, or whipped cream."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_802faae0d66746ca9fe86864f4e0b363",
@@ -28213,7 +28396,8 @@
         "quantity": 213.11535585937503,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Fluffy chocolate chip pancakes get a festive makeover with the addition of pumpkin puree, pumpkin pie spice, and a fun Halloween-themed shape. These pancakes are perfect for a festive breakfast or brunch on Halloween morning."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_8d26b2e2ba5c4bed9d9845fb0d9346ba",
@@ -28356,7 +28540,8 @@
         "quantity": 426.92999999999995,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Blue Pancakes are a fun and easy way to add some color to your breakfast. They are made with simple ingredients that you probably already have on hand, and they can be customized to your liking. For example, you can add fruit, nuts, or chocolate chips to the batter. Blue Pancakes are also a great way to use up leftover blueberries."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_e987ca75c23ffd58e2b8795d24acfa58",
@@ -28475,7 +28660,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 0, "unit": "mg" }
-    }
+    },
+    "description": "Fluffy, golden brown pancakes made with simple ingredients like flour, plant-based milk, and a touch of sweetness. Perfect for a delicious and cruelty-free breakfast or brunch."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_c20dca7bde777ddfd1540040fbbf2872",
@@ -28610,7 +28796,8 @@
       },
       "PROCNT": { "label": "Protein", "quantity": 29.63386, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 271.46, "unit": "mg" }
-    }
+    },
+    "description": "Fluffy banana pancakes made with ripe bananas, buttermilk, and a touch of cinnamon and nutmeg. Perfect for a delicious and satisfying breakfast or brunch."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_49de577cfcf54e38aa39ac619c10c15d",
@@ -28786,7 +28973,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 573.925, "unit": "mg" }
-    }
+    },
+    "description": "Delectable spelt pancakes made with wholesome spelt flour for a nutritious and flavorful breakfast or brunch treat."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_71eb2d8e143445799c2374cd229c0e2c",
@@ -28930,7 +29118,8 @@
         "quantity": 216.93983077218635,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Scotch pancakes are thick, fluffy pancakes that are a popular breakfast food in Scotland. They are made with oatmeal, flour, milk, eggs, and butter, and are typically served with butter, syrup, or jam."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_2c05087bb3104b45ad26edba97ddd8e0",
@@ -29064,7 +29253,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 220.99, "unit": "mg" }
-    }
+    },
+    "description": "Strawberry Pancakes is a song recorded by American singer-songwriter Jack Johnson for his 2005 album In Between Dreams. The song was written by Johnson and features backing vocals from Ben Harper. It is a laid-back acoustic track with lyrics about enjoying the simple things in life, such as eating strawberry pancakes on a Sunday morning. The song was a commercial success, reaching the top 10 in several countries, including the United States and the United Kingdom. It has been certified platinum by the Recording Industry Association of America (RIAA) and has sold over 2 million copies worldwide."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_ad8794b3cd7199eb8d104fb9c9eff792",
@@ -29240,7 +29430,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 573.925, "unit": "mg" }
-    }
+    },
+    "description": "Fluffy, wholesome spelt pancakes made with just a few simple ingredients. Perfect for a nutritious and delicious breakfast or brunch."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_28777a731d3a45ffa9459ace2b972682",
@@ -29379,7 +29570,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 508.005, "unit": "mg" }
-    }
+    },
+    "description": "Velvet Pancakes"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_1d06105e13424c64bcd58b2fe98d356c",
@@ -29500,7 +29692,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 678.09, "unit": "mg" }
-    }
+    },
+    "description": "Cottage Cheese Pancakes"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_cdad31f6885d4c6a80dcc17340a60975",
@@ -29588,7 +29781,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 0, "unit": "mg" }
-    }
+    },
+    "description": "Mandarin pancakes are a type of thin, unleavened flatbread that is popular in Chinese cuisine. They are made from wheat flour and water, and are typically cooked on a griddle or in a pan. Mandarin pancakes are often served with a variety of fillings, such as Peking duck, moo shu pork, or hoisin sauce. They can also be eaten plain or with a dipping sauce. Mandarin pancakes are a delicious and versatile dish that can be enjoyed as an appetizer, main course, or side dish."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_aad012964fd4685c971e72f4347f5fea",
@@ -29740,7 +29934,8 @@
         "quantity": 462.7574999999793,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Fluffy, golden-brown buttermilk pancakes made from scratch. Perfect for a delicious and hearty breakfast or brunch."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_12308e1964fcd95a34182c5de3734020",
@@ -29958,7 +30153,8 @@
         "quantity": 510.31000000000006,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Cottage cheese pancakes are a delicious and healthy alternative to traditional pancakes. They are made with cottage cheese, which is a good source of protein and calcium. These pancakes are also low in carbohydrates and fat, making them a good choice for people who are watching their weight or following a low-carb diet."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_8219acd831094017a258929342a6c525",
@@ -30099,7 +30295,8 @@
         "quantity": 554.2565538481242,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Fluffy lemon pancakes drizzled in a sweet lemon syrup, perfect for a zesty breakfast or brunch."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_76dedfbf4d6b1b7d75506a5f074b0729",
@@ -30239,7 +30436,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 204.65, "unit": "mg" }
-    }
+    },
+    "description": "Zucchini pancakes are a delicious and easy way to use up extra zucchini. They are made with shredded zucchini, flour, eggs, and seasonings. The pancakes are cooked in a pan until golden brown and crispy. They can be served with a variety of toppings, such as sour cream, salsa, or maple syrup."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_85c61b0b85c678acd56803f9d7dbb99e",
@@ -30387,7 +30585,8 @@
         "quantity": 414.51500000000004,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Peach Pancakes"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_a463e8139916491da84fca3a3e2ebd56",
@@ -30539,6 +30738,7 @@
         "quantity": 523.7531076962484,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Fluffy chocolate pancakes made with buttermilk and cocoa powder, served with your favorite toppings."
   }
 ]

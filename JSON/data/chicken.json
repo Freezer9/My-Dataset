@@ -103,7 +103,8 @@
         "quantity": 693.9963260999999,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Crispy cinnamon-spiced fried chicken is tossed with a sweet and spicy honey sauce."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_d826fe0365784a32acadbba9e7675c80",
@@ -234,7 +235,8 @@
         "quantity": 408.97999999986035,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Coronation chicken is a British dish made with cold, cooked chicken dressed with a creamy mayonnaise-based sauce and seasoned with curry powder, mango chutney, and herbs. It was created to celebrate the coronation of Queen Elizabeth II in 1953. Coronation chicken is typically served on sandwiches or as a salad, and is a popular dish for buffets and parties."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_0a3f49a3da07cd8379d4e35f7a1a72fc",
@@ -372,7 +374,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 945.7, "unit": "mg" }
-    }
+    },
+    "description": "Chicken Teriyaki is a popular Japanese dish consisting of chicken marinated in a sweet and savory teriyaki sauce, then grilled or roasted. It is often served with rice and vegetables."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_72a3b66afe35edd2f162d02d991d0645",
@@ -490,7 +493,8 @@
         "quantity": 200.31957225899524,
         "unit": "mg"
       }
-    }
+    },
+    "description": "- Grilled chicken - Fried chicken - Chicken nuggets - Chicken strips - Chicken wings - Chicken salad - Chicken soup - Chicken stir-fry - Chicken tacos - Chicken pizza"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_a82b682a3e6b4b5aaa72989d4e12f875",
@@ -561,7 +565,8 @@
       "CHOCDF": { "label": "Carbs", "quantity": 0, "unit": "g" },
       "PROCNT": { "label": "Protein", "quantity": 306, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 992.8, "unit": "mg" }
-    }
+    },
+    "description": "Succulent chicken breasts, coated in a golden, garlicky breadcrumb crust and filled with a rich, melted garlic and herb butter."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_0451f452fca5efd88e527734dbbc4185",
@@ -658,11 +663,12 @@
         "quantity": 745.847946011,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Crispy and juicy baked buttermilk chicken is a healthier alternative to fried chicken. Buttermilk helps to tenderize the chicken, and baking it results in a crispy outer coating without all the extra fat. This dish is perfect for a weeknight meal or a casual gathering. Serve it with your favorite sides, such as mashed potatoes, green beans, or coleslaw."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_29bbe48c767bacfcf665b2adcf20aaf2",
-    "label": "Spring Chicken Recipe",
+    "label": "Spring Chicken ",
     "image": "https://raw.githubusercontent.com/Freezer9/My-Dataset/main/JSON/images/chicken/6_chicken.jpg",
     "dietLabels": ["Low-Carb"],
     "healthLabels": [
@@ -830,7 +836,8 @@
         "quantity": 989.9884347999999,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Spring Chicken:"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_950ae5292dba403faad4551470b1d1cf",
@@ -903,7 +910,8 @@
       },
       "PROCNT": { "label": "Protein", "quantity": 279.728, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 1125, "unit": "mg" }
-    }
+    },
+    "description": "Barbecued Thai chicken is a flavorful and juicy dish that combines the bold flavors of Thai cuisine with the smoky goodness of barbecuing. The chicken is marinated in a blend of aromatic spices, herbs, and coconut milk, then grilled to perfection. The result is a tender and succulent chicken with a delicious charred exterior and a complex, flavorful interior."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_31eeb3092c3a5878ab9de8e256c6e70d",
@@ -998,7 +1006,8 @@
         "quantity": 809.66238045,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Cook the Book: Perfect Roasted Chicken"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_97600ca51f9a493fa437451362fa98dc",
@@ -1101,7 +1110,8 @@
         "quantity": 351.96000000000004,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Chicken Kiev is a dish made of chicken breast pounded flat, rolled around a knob of garlic herb butter, coated in seasoned flour, egg and bread crumbs, then pan-fried or baked."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_d81795fb677ba4f12ab1a104e10aac98",
@@ -1220,7 +1230,8 @@
         "quantity": 871.095407625,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Tender and juicy roasted chicken infused with the vibrant flavors of citrus fruits."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_620d2730345de4596901897cdb314229",
@@ -1318,7 +1329,8 @@
       },
       "PROCNT": { "label": "Protein", "quantity": 231.0730518304, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 925.3284348, "unit": "mg" }
-    }
+    },
+    "description": "Poached chicken is a dish made from chicken that has been cooked in simmering water or broth. It is a simple and healthy way to cook chicken, and it can be used in a variety of dishes. Poached chicken is often served with vegetables, rice, or noodles."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_0820532c3c71ff94a3e3d2deca93a5f5",
@@ -1448,7 +1460,8 @@
         "quantity": 1248.4002789375,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Tender, juicy chicken enchiladas smothered in a flavorful red sauce and topped with melted cheese. Served with your choice of sides."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_e1a7d0b38bad77165260169b83cbd771",
@@ -1525,7 +1538,8 @@
         "quantity": 446.47657346666665,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Savory herb-infused chicken breasts, stuffed with a flavorful breadcrumb mixture and roasted to perfection for a tender and satisfying meal."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_3abdd02ba713bf50b49a97309040d58b",
@@ -1639,7 +1653,8 @@
         "quantity": 60.41850368400001,
         "unit": "mg"
       }
-    }
+    },
+    "description": "This simple and flavorful recipe yields a rich, golden stock that's perfect for soups, stews, and sauces. Made with just a few basic ingredients, it's easy to make and can be stored in the freezer for months."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_604715bfa5f351bc9c8aabcc5b35873e",
@@ -1722,7 +1737,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 1022.0125, "unit": "mg" }
-    }
+    },
+    "description": "Roast Chicken"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_9ccd2645cb752a3f4b42a36f5694efb2",
@@ -1805,7 +1821,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 1022.0125, "unit": "mg" }
-    }
+    },
+    "description": "Tender, juicy, and flavorful, roast chicken is a classic dish that is perfect for any occasion. The crispy skin and succulent meat are sure to please everyone at the table. This versatile dish can be seasoned with a variety of herbs and spices to create different flavors. Some popular options include rosemary, thyme, sage, paprika, and garlic. Roast chicken can also be stuffed with your favorite fillings, such as bread cubes, vegetables, or fruit. To achieve the perfect roast chicken, it is important to cook it at the right temperature and for the correct amount of time. A meat thermometer is a helpful tool to ensure that the chicken is cooked through but not overcooked. Once the chicken is cooked, let it rest for a few minutes before carving. This will allow the juices to redistribute throughout the meat, resulting in a more tender and flavorful dish. Roast chicken is a delicious and easy-to-make meal that is perfect for any occasion. With a little practice, you can master the art of roasting chicken and impress your family and friends with your culinary skills."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_c0c64811f0c8d961d65b0bf32f86e4be",
@@ -1972,11 +1989,12 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 4072.48, "unit": "mg" }
-    }
+    },
+    "description": "Tarragon Chicken is a classic French dish that is easy to make and full of flavor. It is made with chicken breasts that are dredged in flour and then sautéed in butter until golden brown. The chicken is then simmered in a white wine sauce that is flavored with tarragon, shallots, and garlic. The dish is finished with a creamy sauce that is made with heavy cream and egg yolks. Tarragon Chicken is a delicious and elegant dish that is perfect for any occasion."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_6d3953f205ca48a7912901f881a31f54",
-    "label": "Sous Vide Chicken Breast Recipe",
+    "label": "Sous Vide Chicken Breast ",
     "image": "https://raw.githubusercontent.com/Freezer9/My-Dataset/main/JSON/images/chicken/18_chicken.jpg",
     "dietLabels": ["Low-Carb"],
     "healthLabels": [
@@ -2067,7 +2085,8 @@
       "CHOCDF": { "label": "Carbs", "quantity": 3.28512, "unit": "g" },
       "PROCNT": { "label": "Protein", "quantity": 36.917232, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 111.36, "unit": "mg" }
-    }
+    },
+    "description": "Tender and juicy chicken breasts cooked to perfection in a water bath using the sous vide method."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_7f3b075529c145718d9504eef6ac6bf7",
@@ -2156,7 +2175,8 @@
         "quantity": 1349.9999642372131,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Beer can chicken is a method of cooking a whole chicken by placing it upright on a half-full beer can in a roasting pan. The beer steams and flavors the chicken from the inside out, resulting in a moist and flavorful bird. Beer can chicken is a popular dish for cookouts and parties, as it is relatively easy to prepare and can be cooked on a grill or in the oven."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_dfb79911cc95439e8164dc811d2f756c",
@@ -2258,7 +2278,8 @@
       "CHOCDF": { "label": "Carbs", "quantity": 43.9756, "unit": "g" },
       "PROCNT": { "label": "Protein", "quantity": 456.6312, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 2150.72, "unit": "mg" }
-    }
+    },
+    "description": "Tandoori chicken is a dish made with chicken marinated in yogurt and spices, then roasted in a tandoor, a cylindrical clay oven. The chicken is usually served with a side of mint chutney and naan, a type of Indian flatbread."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_30444ff972792a934dca60abc0d4cc90",
@@ -2346,7 +2367,8 @@
         "quantity": 337.92631565000005,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Authentic chicken tamales made with tender, juicy chicken, wrapped in a warm, fluffy corn husk, and smothered in a flavorful salsa roja. A traditional and satisfying dish, perfect for any occasion."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_8e5caa2f568948c0bd8b6dffe68f729b",
@@ -2441,7 +2463,8 @@
       "CHOCDF": { "label": "Carbs", "quantity": 99.6896, "unit": "g" },
       "PROCNT": { "label": "Protein", "quantity": 520.38, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 2850, "unit": "mg" }
-    }
+    },
+    "description": "Buffalo chicken is a dish made from chicken wings or tenders that are coated in a spicy sauce made from vinegar, cayenne pepper, and butter. The dish is said to have originated in Buffalo, New York, in the 1960s. Buffalo chicken is typically served with celery sticks and blue cheese dressing."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_cad48a249a84ac78d17c2b591cc9c20b",
@@ -2595,7 +2618,8 @@
         "quantity": 154.947153592,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Chicken stock is a flavorful liquid made by simmering chicken bones, vegetables, and herbs in water. It is a common ingredient in many soups, stews, and sauces. Chicken stock is also a good source of nutrients, including protein, collagen, and vitamins."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_d78d6d843cf36d0de1d97ef3806a7809",
@@ -2727,7 +2751,8 @@
         "quantity": 1555.8218291,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Brick Chicken"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_65f98bef0b069abddeb58604bc2cbfb3",
@@ -2802,7 +2827,8 @@
         "quantity": 867.495407625,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Enjoy the savory flavor of our Fully Salted Roast Chicken, slow-roasted to perfection with a blend of aromatic herbs and spices. Each bite offers a juicy, tender texture that melts in your mouth. Perfect for family gatherings or special occasions."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_26bcc68b31b340e196869554446fee32",
@@ -2867,7 +2893,8 @@
       "CHOCDF": { "label": "Carbs", "quantity": 296, "unit": "g" },
       "PROCNT": { "label": "Protein", "quantity": 119.381, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 375, "unit": "mg" }
-    }
+    },
+    "description": "Indian Chicken Pulao is a flavorful and aromatic rice dish cooked with tender chicken, fragrant spices, and fluffy basmati rice. It's a popular dish in Indian cuisine, often served as a main course or as an accompaniment to other dishes. The rice is cooked in a flavorful broth infused with spices like cumin, coriander, turmeric, and garam masala, giving it a warm and comforting taste. The chicken is tender and juicy, adding protein and depth to the dish."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_589c4f7c38014675ad5a3a848c4aa370",
@@ -2985,7 +3012,8 @@
         "quantity": 27.759853044,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Chicken stock is a flavorful liquid made by simmering chicken bones and vegetables in water. It is used as a base for many soups, stews, and sauces. Chicken stock is also a good source of collagen, which is important for joint health. Here is a short description of chicken stock: * A flavorful liquid made from chicken bones and vegetables * Used as a base for soups, stews, and sauces * A good source of collagen Chicken stock is easy to make at home. Simply combine chicken bones, vegetables, and water in a large pot and simmer for several hours. The longer you simmer the stock, the more flavorful it will be. Once the stock is finished, strain it to remove the bones and vegetables. You can then use the stock immediately or store it in the refrigerator for later use."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_de8f7a4bda89757a5521f2a53271098a",
@@ -3097,7 +3125,8 @@
         "quantity": 1190.67997125,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Classic Baked Chicken is a simple and flavorful dish that is perfect for any occasion. Made with just a few ingredients, this dish is easy to prepare and can be tailored to your own taste preferences. The chicken is baked until golden brown and juicy, and can be served with a variety of sides."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_dbbcecdf101b25733aebb9f85edea12a",
@@ -3303,7 +3332,8 @@
         "quantity": 793.7866475000001,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Chicken Ramen is a popular Japanese noodle dish made with wheat noodles, chicken broth, and various toppings. It is often served with sliced chicken, vegetables, and a boiled egg. Chicken Ramen is a quick and easy meal to prepare, and it is a good source of protein and carbohydrates."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_49d27279fb9a628501a58a3468711df2",
@@ -3380,7 +3410,8 @@
         "quantity": 1510.4625921000002,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Crispy, juicy, and flavorful baked chicken wings tossed in your favorite sauce. Perfect for a party or a quick and easy weeknight dinner."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_a0daf6084ce349b59da374cffbacb56d",
@@ -3480,7 +3511,8 @@
         "quantity": 111.35999999999999,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Chicken Lasagna"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_b74f0230a6924823a33015abb71a6413",
@@ -3621,7 +3653,8 @@
         "quantity": 908.08569375,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Chicken gumbo is a hearty and flavorful soup or stew consisting of a rich stock, succulent chicken, an aromatic blend of vegetables (such as okra, celery, and bell peppers), and a variety of seasonings. It is often served over rice, and its origins can be traced back to the diverse culinary traditions of Louisiana."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_3f6fc969e72f4fb6be8b0744f4fef3d1",
@@ -3739,7 +3772,8 @@
         "quantity": 903.5999999999999,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Chicken alla Puttanesca"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_f662244fb07f5488c6d18290b638be47",
@@ -3814,7 +3848,8 @@
         "quantity": 867.495407625,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Fully Salted Roast Chicken"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_01401d3652054becba5c3711ea9eeb8e",
@@ -3908,7 +3943,8 @@
         "quantity": 170.09713875000003,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Chicken Lo Mein is a popular Chinese dish made with egg noodles, chicken, and vegetables. It is typically seasoned with soy sauce, oyster sauce, and sesame oil. It originates from the northern part of China. The dish is typically served hot and can be garnished with scallions, cilantro, or peanuts. Lo mein can also be made with other proteins, such as beef, pork, or shrimp."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_b1da3a8eeeee4384c4a85ebe03292407",
@@ -4044,7 +4080,8 @@
         "quantity": 843.79238045,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Chicken with Forty Cloves of Garlic"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_f5d050d3576e445287836ce5ce467676",
@@ -4162,7 +4199,8 @@
         "quantity": 27.759853044,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Chicken stock is a flavorful liquid made by simmering chicken bones, vegetables, and herbs in water. It is a versatile ingredient that can be used to make soups, stews, sauces, and gravies. Chicken stock is also a good source of protein and collagen."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_633e07ef82fbe24a1241aa2bb41e5793",
@@ -4286,7 +4324,8 @@
         "quantity": 117.39359999999999,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Chicken Broth Elixir: A restorative liquid gold made from simmered chicken bones, aromatic vegetables, and healing herbs. This nourishing elixir is a comforting and immune-boosting staple for any home remedy kit."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_5df68f77db4edd5aef121e4564ad4d8d",
@@ -4407,7 +4446,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 198.56, "unit": "mg" }
-    }
+    },
+    "description": "Succulent chicken breasts marinated in a sweet and savory teriyaki sauce, cooked sous vide to perfection for maximum tenderness and flavor."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_f12c1b7a0933690903d6c0d9e9e2db1b",
@@ -4495,7 +4535,8 @@
       },
       "PROCNT": { "label": "Protein", "quantity": 18.123144, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 55.68, "unit": "mg" }
-    }
+    },
+    "description": "Tender, flavorful roasted chicken breast, seasoned to perfection and roasted to golden perfection. Enjoy as a main course or sliced for salads and sandwiches."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_6b71506eaed4102c0b97dce1eaddd9a6",
@@ -4614,7 +4655,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 1266.0375, "unit": "mg" }
-    }
+    },
+    "description": "Roasted Chicken"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_1778d222d31c4249921ede0d23ff1e40",
@@ -4703,11 +4745,12 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 397.12, "unit": "mg" }
-    }
+    },
+    "description": "Tender and juicy chicken coated in a sweet and sticky honey glaze, perfect for a quick and easy weeknight meal."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_16bfb57f921a4773bef0bb6aaa3ab688",
-    "label": "DIY Chicken and Dill Instant Noodles Recipe",
+    "label": "DIY Chicken and Dill Instant Noodles ",
     "image": "https://raw.githubusercontent.com/Freezer9/My-Dataset/main/JSON/images/chicken/43_chicken.jpg",
     "dietLabels": ["High-Protein"],
     "healthLabels": [
@@ -4843,7 +4886,8 @@
         "quantity": 238.13599425,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Indulge in a flavorful and easy-to-make dish with this DIY Chicken and Dill Instant Noodles . Packed with succulent chicken, aromatic dill, and a savory broth, it's the perfect comfort food for any occasion."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_40808a28f527b82c94ecf5281df3d45c",
@@ -5037,7 +5081,8 @@
         "quantity": 918.7946096345327,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Chicken Marsala is a classic Italian-American dish made from chicken breasts dredged in flour and sautéed until golden brown. The chicken is then simmered in a rich Marsala wine sauce made with mushrooms, shallots, garlic, and fresh herbs. The sauce is thickened with a butter and flour roux and the dish is typically served over pasta or mashed potatoes."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_6118b6a53f8346bf9fb78198eb5a1fc4",
@@ -5131,7 +5176,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 900, "unit": "mg" }
-    }
+    },
+    "description": "Lemon Thyme Chicken is a flavorful dish that combines the bright citrus flavor of lemon with the earthy, aromatic scent of thyme. Tender chicken is marinated in a mixture of lemon juice, olive oil, thyme, garlic, salt, and pepper, then seared and roasted until golden brown and cooked through. The result is a juicy, succulent chicken with a delicious lemon-thyme flavor that's perfect for any occasion."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_0466d532e3cb46aba475ea7b1438b8af",
@@ -5268,7 +5314,8 @@
         "quantity": 2286.1298104481925,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Savory and satisfying, this dish features tender chicken paired with roasted cauliflower florets. The cauliflower is caramelized to perfection, adding a touch of sweetness to balance the savory flavors of the chicken."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_6fceba519e16424fb8b804c2e1d89af2",
@@ -5364,7 +5411,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 900, "unit": "mg" }
-    }
+    },
+    "description": "Savor the vibrant flavors of the Mediterranean with our delectable Mediterranean Chicken! This dish features tender chicken breasts marinated in a savory blend of herbs, spices, and zesty lemon juice, grilled to perfection. Served on a bed of fluffy rice and accompanied by a refreshing cucumber-tomato salad, every bite transports you to the sun-kissed shores of the Mediterranean."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_3341a970cb3751637d2641c02f1746bf",
@@ -5490,7 +5538,8 @@
       "CHOCDF": { "label": "Carbs", "quantity": 147.11102, "unit": "g" },
       "PROCNT": { "label": "Protein", "quantity": 545.37788, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 2097.16, "unit": "mg" }
-    }
+    },
+    "description": "Serve chicken piccata over pasta, rice, or mashed potatoes. Enjoy!"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_f3788964986bd6e398075092cb7af198",
@@ -5608,7 +5657,8 @@
         "quantity": 1532.7199999999998,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Crispy and juicy buttermilk brined chicken, perfect for a summer cookout or any occasion. Brining the chicken in buttermilk for several hours infuses it with flavor and helps to keep it moist during cooking. Tender and flavorful Crispy and golden brown Perfect for grilling, frying, or baking"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_78a9d635433ee034a6f6fa33a7b57921",
@@ -5709,11 +5759,12 @@
         "quantity": 799.5883146066511,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Tender chicken thighs, juicy tomatoes, sweet peppers, and zucchini, all roasted together on a single pan for an easy and flavorful summer meal."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_42bef3945534d24161b9230857e86a08",
-    "label": "Ramen-Crusted Fried Chicken Recipe",
+    "label": "Ramen-Crusted Fried Chicken ",
     "image": "https://raw.githubusercontent.com/Freezer9/My-Dataset/main/JSON/images/chicken/51_chicken.jpg",
     "dietLabels": ["Low-Carb"],
     "healthLabels": [
@@ -5834,7 +5885,8 @@
         "quantity": 898.1128926000001,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Crispy, crunchy, and bursting with flavor, this Ramen-crusted fried chicken is the perfect combination of two beloved dishes. The salty, savory ramen seasoning adds an addictive umami flavor to the juicy, tender chicken, creating a taste sensation that will tantalize your taste buds and leave you craving for more."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_46b3fd1c7ae18b325d4bdca429074e44",
@@ -5973,7 +6025,8 @@
         "quantity": 2179.6800000000003,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Chicken Marengo is a classic French dish made with chicken braised in white wine, tomatoes, and mushrooms. It is named after the Battle of Marengo, which was fought in 1800 and won by Napoleon Bonaparte. The dish is believed to have been created by Napoleon's chef, Dunand, who used ingredients that were readily available in the field.\nChicken Marengo is typically made with boneless, skinless chicken breasts or thighs, which are browned in a skillet and then braised in a mixture of white wine, chicken broth, tomatoes, mushrooms, onions, and garlic. The dish is seasoned with herbs such as thyme, rosemary, and oregano, and is often served with rice or pasta.\nChicken Marengo is a delicious and easy-to-make dish that is perfect for a special occasion or a weeknight meal. It is a classic French dish that is sure to impress your guests."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_227033bcda685140ab3ef8c02e82d5f0",
@@ -6089,7 +6142,8 @@
         "quantity": 105.00000000000001,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Savor the comforting warmth of our hearty Roast Chicken and Vegetable Soup. Tender chicken, crisp vegetables, and a rich broth simmered to perfection create a nourishing and flavorful meal that will soothe your soul and warm you from within."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_8e9aaa85e5ac84bc46444294157c5b64",
@@ -6185,7 +6239,8 @@
         "quantity": 693.9963260999999,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Perfectly Roasted Chicken is an easy recipe for a moist and flavorful roasted chicken with crispy skin. This dish is perfect for a special occasion or a weeknight meal. The chicken is seasoned with a simple blend of herbs and spices, then roasted to perfection in the oven. The result is a juicy and tender chicken with a crispy, golden brown skin. Serve the chicken with your favorite sides for a delicious and satisfying meal."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_60fb5093bcbfac31c0c616d5e262df05",
@@ -6303,7 +6358,8 @@
         "quantity": 956.8000000000001,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Sticky chicken is a dish made from chicken that has been marinated in a sticky sauce and then grilled, roasted, or fried. The sauce is typically made from a combination of soy sauce, honey, and brown sugar, and may also include other ingredients such as garlic, ginger, and sesame oil. Sticky chicken is a popular dish in many Asian countries, and is often served with rice or noodles."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_583786df3134293785bd73306f6fb181",
@@ -6387,7 +6443,8 @@
       "CHOCDF": { "label": "Carbs", "quantity": 0, "unit": "g" },
       "PROCNT": { "label": "Protein", "quantity": 229.4814518304, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 925.3284348, "unit": "mg" }
-    }
+    },
+    "description": "Savory, juicy, and incredibly flavorful, this simple roast chicken is the perfect centerpiece for any meal. With just a few simple ingredients, you can create a dish that is both delicious and impressive."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_82c8f5ad2ceab24ab67cc4e4e992b582",
@@ -6506,7 +6563,8 @@
         "quantity": 331.12243010000003,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Kahlua Chicken is a sweet and savory dish made with chicken breasts, Kahlua liqueur, soy sauce, brown sugar, and spices. The chicken is marinated in a mixture of these ingredients, then baked or grilled until cooked through. Kahlua Chicken is a popular dish in Hawaii and can be served with rice, noodles, or vegetables."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_1b88d085f3384aceb7a756427b0ba695",
@@ -6650,7 +6708,8 @@
         "quantity": 619.108225813,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Chicken Adobo is a popular Filipino dish made with chicken braised in soy sauce, vinegar, garlic, bay leaves, and black peppercorns. It is often served with rice and is considered a national dish of the Philippines."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_32d790d1d90da6ee4559346385966b42",
@@ -6798,7 +6857,8 @@
         "quantity": 1776.851739316,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Perfectly roasted chicken is a classic dish that is both easy to make and impressive to serve. This recipe will guide you through the steps to achieve a juicy, flavorful, and golden-brown chicken every time."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_e22922a91c775dd3c88e15e5ae3f0fc6",
@@ -6864,7 +6924,8 @@
       "CHOCDF": { "label": "Carbs", "quantity": 0, "unit": "g" },
       "PROCNT": { "label": "Protein", "quantity": 122.4, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 397.12, "unit": "mg" }
-    }
+    },
+    "description": "Tantalize your taste buds with our delectable Chicken Katsu Curry Burger! Succulent chicken katsu, breaded to golden perfection, nestled on a bed of fluffy steamed rice and smothered in a rich, aromatic Japanese curry sauce. Topped with shredded cabbage, pickled ginger, and a drizzle of kewpie mayo, this burger is a harmonious blend of flavors that will leave you craving for more."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_d5815887a21d423fb6aff9c10ec470bb",
@@ -6977,7 +7038,8 @@
         "quantity": 809.66238045,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Tender and juicy baked chicken with crispy skin, perfect for a comforting family meal or a special occasion."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_51440fb0dbc7497a98670fe86c65790b",
@@ -7073,7 +7135,8 @@
         "quantity": 938.985781248973,
         "unit": "mg"
       }
-    }
+    },
+    "description": "A juicy, flavorful dish perfect for any festive occasion, this stuffed chicken is a culinary delight. Its succulent meat is complemented by a tantalizing stuffing made with aromatic herbs, savory spices, and a hint of tangy citrus."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_d70dbd5713434b7f92a2316bc508be2d",
@@ -7139,7 +7202,8 @@
       "CHOCDF": { "label": "Carbs", "quantity": 2.98, "unit": "g" },
       "PROCNT": { "label": "Protein", "quantity": 196.68, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 1168.16, "unit": "mg" }
-    }
+    },
+    "description": "Next Level Fried Chicken is the best fried chicken you'll ever taste. Our chicken is juicy, flavorful, and crispy, and it's made with all-natural ingredients. We use a secret blend of spices to create our unique flavor, and we fry our chicken to perfection. We also offer a variety of dipping sauces to choose from, so you can find the perfect flavor combination for your taste buds. Whether you're looking for a quick and easy meal or a special occasion dinner, Next Level Fried Chicken is the perfect choice."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_c476d46bcd31bab835125a1b6d96615b",
@@ -7277,7 +7341,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 2297.69, "unit": "mg" }
-    }
+    },
+    "description": "Chicken liver pâté is a smooth and flavorful spread made from chicken livers, butter, and seasonings. It's a classic French dish that's perfect for appetizers, sandwiches, or canapés."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_35b1d79801a744b195274d729a28c077",
@@ -7420,7 +7485,8 @@
         "quantity": 1020.5828325000001,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Tender, juicy chicken roasted with sweet and tangy pomegranate seeds, creating a vibrant and flavorful dish."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_a208d66bd34eb64b39f1309fcd2808e1",
@@ -7534,7 +7600,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 1144.025, "unit": "mg" }
-    }
+    },
+    "description": "Candy Chicken is a sweet and savory dish that combines crispy fried chicken with a sticky, sweet glaze. The chicken is typically marinated in a sweet sauce made with honey, soy sauce, and garlic, then fried until golden brown. The glaze is made with sugar, honey, and ketchup, and is brushed onto the chicken after it has been fried. Candy Chicken is a popular dish in many Chinese restaurants, and is often served with rice or noodles."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_f5683d854432b09dad67933e08a02ae3",
@@ -7605,7 +7672,8 @@
       "CHOCDF": { "label": "Carbs", "quantity": 0, "unit": "g" },
       "PROCNT": { "label": "Protein", "quantity": 244.8, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 794.24, "unit": "mg" }
-    }
+    },
+    "description": "Tender and juicy chicken breasts coated in a crispy, savory poppy seed crust. Served with your choice of dipping sauce."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_2b42fe22778f4ffa9f7fbe1467932080",
@@ -7690,7 +7758,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 0, "unit": "mg" }
-    }
+    },
+    "description": "Creamy Chicken and Mushroom Spaghetti is a simple yet flavorful dish that combines succulent chicken, earthy mushrooms, and al dente spaghetti in a luscious creamy sauce. It's a comforting and satisfying meal that's perfect for busy weeknights or cozy weekends."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_8bf413b2b4e560d2fdfea5d05216b425",
@@ -7795,7 +7864,8 @@
         "quantity": 579.464252675,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Tender chicken breasts cooked in a flavorful sauce, often with vegetables, herbs, and spices. Perfect for a quick and easy weeknight meal or a special occasion."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_731d1cb3ee7c0e087bfec30aa966d000",
@@ -7887,7 +7957,8 @@
       },
       "PROCNT": { "label": "Protein", "quantity": 101.9481, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 328.5, "unit": "mg" }
-    }
+    },
+    "description": "Savory grilled chicken tacos made with a tangy, smoky chipotle crema."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_521adfbb52feb132356a2dc3eaaffabd",
@@ -7988,7 +8059,8 @@
         "quantity": 870.72238045,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Enjoy the tantalizing flavors of a perfectly roasted chicken with our effortless recipe. This dish offers a crispy, golden-brown skin and juicy, tender meat, making it a delightful meal for any occasion. With just a few simple steps and minimal ingredients, you can savor the delectable taste of homemade roasted chicken."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_e724094b4b944d8d8667edd4da110152",
@@ -8141,7 +8213,8 @@
       "CHOCDF": { "label": "Carbs", "quantity": 15.25735, "unit": "g" },
       "PROCNT": { "label": "Protein", "quantity": 12.32705, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 55.5, "unit": "mg" }
-    }
+    },
+    "description": "Crispy, juicy chicken lollipops are flavorful morsels that'll be the star of any gathering. Chicken wings are coated in a savory batter and fried until golden brown, resulting in a delightful combination of textures and flavors. These lollipops are perfect for dipping in your favorite sauce or simply savoring on their own."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_dbb1d2365fc247539ca88e3c7988f756",
@@ -8211,11 +8284,12 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 900, "unit": "mg" }
-    }
+    },
+    "description": "Creamy butter chicken in a luscious tomato sauce made in just one pan! This easy-to-make dish is perfect for a quick and delicious weeknight meal. Simply brown the chicken, add the sauce ingredients, and simmer until the chicken is cooked through. Serve with rice or naan bread for a complete meal."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_be9c778dc20d4019aeedb1f9b7801bb5",
-    "label": "Chicken Paprikash Recipe",
+    "label": "Chicken Paprikash ",
     "image": "https://raw.githubusercontent.com/Freezer9/My-Dataset/main/JSON/images/chicken/74_chicken.jpg",
     "dietLabels": ["High-Fiber", "Low-Carb"],
     "healthLabels": [
@@ -8404,7 +8478,8 @@
         "quantity": 2168.7237575,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Chicken Paprikash is a classic Hungarian dish made with chicken stewed in a paprika-infused sauce. This flavorful and comforting dish is typically served with egg noodles or rice."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_230fc566d8c74f929a03bb04d133f586",
@@ -8491,7 +8566,8 @@
       "CHOCDF": { "label": "Carbs", "quantity": 1.235, "unit": "g" },
       "PROCNT": { "label": "Protein", "quantity": 223.7095, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 975.25, "unit": "mg" }
-    }
+    },
+    "description": "Roasted chicken is a classic dish that is easy to make and always a crowd-pleaser. This recipe for easy roast chicken is simple to follow and will result in a delicious, juicy chicken that is perfect for a weeknight dinner or a special occasion."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_95b15fd8acf80f2fe002988cb6214066",
@@ -8620,7 +8696,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 1323.16, "unit": "mg" }
-    }
+    },
+    "description": "Chorizo can be used in a variety of dishes, such as tacos, burritos, and enchiladas."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_3a04e715da36ac3cfe5ee0faa794d6e5",
@@ -8760,7 +8837,8 @@
         "quantity": 166.4612150499848,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Stir-Fried Chicken with Holy Basil is a popular Thai dish made with chicken, holy basil, chilies, garlic, and other ingredients. It's a quick and easy dish to make, and it's full of flavor."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_51bac95af133472c89932ecbe627eb57",
@@ -8877,7 +8955,8 @@
         "quantity": 751.8293532749999,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Michael's Chicken is a fast-food restaurant chain specializing in fried chicken. It was founded in 1990 by Michael Harris in San Antonio, Texas. The restaurant is known for its crispy fried chicken, which is made with a secret blend of 11 herbs and spices. Michael's Chicken also offers a variety of sides, including mashed potatoes, coleslaw, and green beans. The restaurant has over 100 locations in the United States and Mexico."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_b204fe583980469b9317f199e8348985",
@@ -8956,7 +9035,8 @@
         "quantity": 1019.9999999999998,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Beer-Can Brined Chicken"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_fa11c25349b54623b2bd2b1a7c0e0b92",
@@ -9107,7 +9187,8 @@
         "quantity": 764.1681551079146,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Claypot Chicken is a classic Cantonese dish consisting of tender chicken pieces, vegetables, and a rich, flavorful sauce, all cooked together in a clay pot. It is a popular dish in Hong Kong and other parts of Southeast Asia.\nThe chicken is typically marinated in a soy sauce-based sauce, then browned and added to the clay pot along with vegetables such as carrots, celery, and Chinese sausage. The pot is then covered and simmered until the chicken is cooked through and the sauce has thickened.\nClaypot Chicken is often served with rice and is a hearty and comforting meal. It is also a relatively easy dish to make, making it a popular choice for home cooks."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_d4d6535d27c6f748ef316bf380a3652d",
@@ -9279,11 +9360,12 @@
         "quantity": 637.7636920246795,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Chicken Piccata is a classic Italian dish made with chicken breasts that are dredged in flour, then sautéed in butter and olive oil until golden brown. The chicken is then simmered in a lemon-butter sauce with capers and parsley. Chicken Piccata is typically served over pasta or rice."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_2dc8b4bab91e2cf28a0b8faf858fef91",
-    "label": "Chicken With Almonds and Green Olives recipes",
+    "label": "Chicken With Almonds and Green Olives ",
     "image": "https://raw.githubusercontent.com/Freezer9/My-Dataset/main/JSON/images/chicken/82_chicken.jpg",
     "dietLabels": ["Low-Carb"],
     "healthLabels": [
@@ -9482,11 +9564,12 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 1810.4, "unit": "mg" }
-    }
+    },
+    "description": "This Chicken With Almonds and Green Olives recipe is an easy and flavorful dish that's perfect for a weeknight meal. The succulent chicken is cooked in a savory sauce made with almonds, green olives, capers, and lemon juice. Serve it over rice or pasta for a complete meal."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_975ffd927f0c45b8f9abd9756bbe8f01",
-    "label": "Dinner Tonight: Brick Chicken Recipe",
+    "label": "Brick Chicken ",
     "image": "https://raw.githubusercontent.com/Freezer9/My-Dataset/main/JSON/images/chicken/83_chicken.jpg",
     "dietLabels": ["Low-Carb"],
     "healthLabels": [
@@ -9597,7 +9680,8 @@
       "CHOCDF": { "label": "Carbs", "quantity": 10.596252, "unit": "g" },
       "PROCNT": { "label": "Protein", "quantity": 187.584156, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 750, "unit": "mg" }
-    }
+    },
+    "description": "Brick Chicken : A Flavorful and Easy Meal"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_2dc65b39da464005b7f27f50ece3b064",
@@ -9693,7 +9777,8 @@
       "CHOCDF": { "label": "Carbs", "quantity": 5.2466619, "unit": "g" },
       "PROCNT": { "label": "Protein", "quantity": 123.5580443, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 503.975, "unit": "mg" }
-    }
+    },
+    "description": "Tender chicken breasts cooked in a flavorful butter sauce."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_588f32c297294acc97cf78fde5a2501b",
@@ -9868,7 +9953,8 @@
         "quantity": 4163.9779566,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Chicken Adobo with Chicken Livers is a Filipino dish that combines the tangy, savory flavors of adobo with the rich, earthy taste of chicken livers. The chicken and livers are simmered in a flavorful sauce made with soy sauce, vinegar, garlic, and bay leaves, creating a dish that is both comforting and satisfying."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_c2da3432a0414785841cea79d828ea7a",
@@ -9988,7 +10074,8 @@
         "quantity": 421.1632620431659,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Aromatic saltimbocca with a twist! Seared chicken breasts topped with prosciutto, sage, and mozzarella, served with luscious basil-infused mashed potatoes."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_6a121c58f0fc4e9ebcc4bf8553f12fd2",
@@ -10076,7 +10163,8 @@
         "quantity": 867.495407625,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Savory and juicy cast-iron roast chicken with crispy skin, perfect for any occasion."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_743e99781468b59b0b1410d9c0e8511c",
@@ -10229,7 +10317,8 @@
         "quantity": 1191.3600000000001,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Savor the tantalizing flavors of our Cardamom Honey Chicken, where tender chicken is marinated in aromatic cardamom and sweet honey, then grilled to perfection. Served on a bed of fluffy rice, this dish is a harmonious blend of sweet and savory flavors."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_e343f9f4a4034e47bb76d4ebb5d4171e",
@@ -10326,7 +10415,8 @@
       },
       "PROCNT": { "label": "Protein", "quantity": 282.160372, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 1344.2, "unit": "mg" }
-    }
+    },
+    "description": "Baked Honey Garlic Chicken is a delicious and easy-to-make dish that is perfect for a weeknight dinner. The chicken is marinated in a sweet and savory honey garlic sauce, then baked until cooked through. The result is a moist and flavorful chicken that is sure to please everyone at the table."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_b706282308914936a16c580b4e66ff9f",
@@ -10475,7 +10565,8 @@
         "quantity": 1993.906553848124,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Southern fried chicken is a dish of fried chicken seasoned with a blend of herbs and spices, typically including paprika, garlic powder, onion powder, black pepper, and salt. The chicken is dredged in seasoned flour, then fried in hot oil until golden brown and crispy. It is a popular dish in the Southern United States, and is often served with mashed potatoes, gravy, and coleslaw."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_79eda680a18e6e667ddb3add8b1c971b",
@@ -10563,7 +10654,8 @@
         "quantity": 867.495407625,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Enjoy a juicy and flavorful Cast-Iron Roast Chicken with this easy recipe. With a crispy skin and tender meat, this dish is perfect for a family meal or special occasion. All you need is a few simple ingredients and a cast-iron skillet."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_0891d1d45b66139829ed2d0c99dce97d",
@@ -10669,7 +10761,8 @@
         "quantity": 1305.3600000000001,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Chicken Parmesan"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_9e221b7222d66e06f8dea375bf5eadbc",
@@ -10752,11 +10845,12 @@
         "quantity": 72.29128396875001,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Tender chicken breasts are coated in a flavorful mustard sauce and then baked to perfection with sweet and tart apples. This easy and delicious dish is perfect for a weeknight meal or a special occasion."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_0a5da171945241a9a3cc7c6cac37bb1f",
-    "label": "Coronation Chicken Recipe",
+    "label": "Coronation Chicken ",
     "image": "https://raw.githubusercontent.com/Freezer9/My-Dataset/main/JSON/images/chicken/94_chicken.jpg",
     "dietLabels": ["Low-Carb"],
     "healthLabels": [
@@ -10956,7 +11050,8 @@
         "quantity": 563.9235000000001,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Coronation chicken is a classic British dish made with leftover roast chicken, mayonnaise, and a variety of herbs and spices. It was originally created for the coronation of Queen Elizabeth II in 1953, and it remains a popular dish today. This recipe is an easy and delicious way to make coronation chicken at home.\nIngredients:\n* Cooked chicken breast, shredded or diced\n* Mayonnaise\n* Curry powder\n* Paprika\n* Ground ginger\n* Ground cumin\n* Ground coriander\n* Salt and pepper\n* Raisins\n* Almonds, toasted and chopped\n* Chopped fresh parsley\nInstructions:\n1. In a large bowl, combine the chicken, mayonnaise, curry powder, paprika, ginger, cumin, coriander, salt, and pepper.\n2. Stir until well combined.\n3. Fold in the raisins, almonds, and parsley.\n4. Serve on bread or crackers."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_a7f54f6cb748486bbb8213e16a96ff8c",
@@ -11053,7 +11148,8 @@
         "quantity": 727.2999878406524,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Kolhapuri spit chicken, also known as kala masala roast chicken, is a spicy and flavorful dish originating from the Kolhapur region of Maharashtra, India. It is made with a fiery marinade of red chilies, garlic, ginger, coriander, cumin, and other spices. The chicken is marinated for several hours or overnight, then roasted on a spit over an open fire, giving it a smoky and succulent flavor. The result is a tender and juicy chicken with a crispy, charred exterior and a bold, spicy taste. Kolhapuri spit chicken is often served with roti or rice and accompanied by a cooling yogurt sauce to balance the heat."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_655db1d045e273b7716701556a641333",
@@ -11228,7 +11324,8 @@
         "quantity": 1769.651739316,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Roast chicken"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_41c47d98b4746bef1eec690cffff1fb1",
@@ -11296,7 +11393,8 @@
       "CHOCDF": { "label": "Carbs", "quantity": 85.632, "unit": "g" },
       "PROCNT": { "label": "Protein", "quantity": 89.244, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 254.04, "unit": "mg" }
-    }
+    },
+    "description": "Grilled chicken tostadas are a delicious and easy-to-make Mexican dish. They are made with grilled chicken, refried beans, shredded cheese, lettuce, tomato, and your favorite toppings. Tostadas are a great way to use up leftover chicken, and they are also a healthy and portable meal."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_65be099dd0000a8f3c174f3e0d00f1bb",
@@ -11385,7 +11483,8 @@
       "CHOCDF": { "label": "Carbs", "quantity": 22.8152, "unit": "g" },
       "PROCNT": { "label": "Protein", "quantity": 156.3946, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 496.4, "unit": "mg" }
-    }
+    },
+    "description": "Tender chicken strips, bell peppers and onions, sizzling in a flavorful marinade, wrapped in warm tortillas. Enjoy a taste of Mexican delight with our easy chicken fajitas recipe, perfect for a quick and satisfying meal."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_64b3a2443e348a4e18a2ebe0e2dac54a",
@@ -11500,7 +11599,8 @@
         "quantity": 168.97022602500002,
         "unit": "mg"
       }
-    }
+    },
+    "description": "A Chicken Reuben is a variation on the classic Reuben sandwich, but instead of using corned beef, it uses thinly sliced or shredded chicken. It typically includes Swiss cheese, sauerkraut, and Thousand Island dressing on toasted rye bread."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_288b4204d800ed1e22636f4fb590f10a",
@@ -11654,7 +11754,8 @@
         "quantity": 671.1882512374999,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Chicken Saltimbocca is a classic Italian dish made with pounded chicken breasts topped with prosciutto and melted mozzarella cheese, then sautéed in butter and white wine until cooked through. It is typically served over pasta or rice."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_7b329092697a98f14da3c20618f9b866",
@@ -11729,7 +11830,8 @@
       "CHOCDF": { "label": "Carbs", "quantity": 18.015, "unit": "g" },
       "PROCNT": { "label": "Protein", "quantity": 248.3625, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 847.99, "unit": "mg" }
-    }
+    },
+    "description": "Crispy and juicy chicken breasts stuffed with garlic herb butter, coated in breadcrumbs, and air-fried until golden brown. Served with a creamy dipping sauce."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_4288b9dc1eba4cc59eb140c22cb800c2",
@@ -11825,7 +11927,8 @@
         "quantity": 1040.99448915,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Grilled Spatchcocked Chicken is a juicy and flavorful dish that's perfect for a summer cookout. Spatchcocking the chicken allows it to cook more evenly and quickly, and the grilled flavor adds a delicious smoky touch."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_afbee3095f748690f2f006e4e2f7abcf",
@@ -11992,7 +12095,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 596.25, "unit": "mg" }
-    }
+    },
+    "description": "Chicken Marsala is a classic Italian-American dish made with chicken breasts dredged in flour and sautéed until golden brown, then simmered in a Marsala wine sauce with mushrooms, shallots, and herbs. It is typically served over pasta or rice."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_9b7a874f4a754d28ad6a2c14c6aa441a",
@@ -12081,7 +12185,8 @@
       "CHOCDF": { "label": "Carbs", "quantity": 7.20825, "unit": "g" },
       "PROCNT": { "label": "Protein", "quantity": 191.684925, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 1134.84, "unit": "mg" }
-    }
+    },
+    "description": "Crispy Berbere Chicken: A tantalizing fusion of Ethiopian spices and crispy chicken, this dish offers a burst of bold flavors and a satisfying crunch."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_80ed0cee1342ebaa589d5298d758a99b",
@@ -12230,7 +12335,8 @@
         "quantity": 666.9965784875,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Chicken Parmigiana, also known as Chicken Parmesan, is a classic Italian-American dish consisting of breaded and fried chicken breasts topped with tomato sauce and melted cheese, often served with a side of pasta."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_6934c78d81594f739d1e6191e6eb5360",
@@ -12332,7 +12438,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 588, "unit": "mg" }
-    }
+    },
+    "description": "Baked chicken with lemon is a classic dish that is easy to make and always a crowd-pleaser. The chicken is seasoned with lemon zest and juice, then roasted until golden brown and juicy. The result is a flavorful and moist chicken that is perfect for any occasion."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_4ab2820663c14ee9bd36fa381c39b28a",
@@ -12442,7 +12549,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 277.5, "unit": "mg" }
-    }
+    },
+    "description": "Zesty Lemon Chicken Wings are a flavorful and easy-to-make appetizer or main course. The wings are marinated in a mixture of lemon juice, olive oil, garlic, and herbs, then baked until golden brown and crispy. Serve with your favorite dipping sauce for a delicious and satisfying meal."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_e3ef4c3662c045319bc1798614c869bd",
@@ -12601,11 +12709,12 @@
         "quantity": 1109.495898875,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Sure, here is a short description of Australian chicken:\nAustralian chicken is a type of chicken that is raised in Australia. It is known for its high quality and flavor. There are a number of different breeds of Australian chicken, but the most common is the Australorp. Australorp chickens are known for their black feathers and their ability to lay a large number of eggs.\nAustralian chicken is typically raised on pasture, which gives it a more flavorful taste than chicken that is raised in confinement. It is also free of hormones and antibiotics.\nAustralian chicken is a popular choice for both home cooks and restaurants. It is a versatile meat that can be used in a variety of dishes. It is also a good source of protein and other nutrients."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_822f0de473f0431db2ced650195f0cee",
-    "label": "Popeye Tso's Chicken (General Tso's Chicken Made with Popeye's Chicken Nuggets) Recipe",
+    "label": "Popeye Tso's Chicken (General Tso's Chicken Made with Popeye's Chicken Nuggets) ",
     "image": "https://raw.githubusercontent.com/Freezer9/My-Dataset/main/JSON/images/chicken/109_chicken.jpg",
     "dietLabels": ["Balanced", "High-Fiber"],
     "healthLabels": [
@@ -12804,7 +12913,8 @@
         "quantity": 143.76000000000002,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Crispy Popeyes chicken tossed in a sweet and spicy homemade General Tso's sauce. Tastes just like your favorite takeout, but made with Popeyes chicken nuggets for a fun twist!"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_d4039bda337742faae2e1dcd3a1bf4d7",
@@ -12870,7 +12980,8 @@
       },
       "PROCNT": { "label": "Protein", "quantity": 223.389, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 900, "unit": "mg" }
-    }
+    },
+    "description": "This Sweet and Spicy Sriracha Soy Chicken is the perfect weeknight meal. It's easy to make, and it's packed with flavor. The chicken is marinated in a sweet and spicy sriracha soy sauce, then baked until it's cooked through. Serve it with rice or noodles, and you've got a delicious and satisfying meal."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_be1c45fbc691eddf86db449f93643c13",
@@ -13066,11 +13177,12 @@
         "quantity": 908.8000000000001,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Chicken with Almonds and Green Olives is an easy and impressive dish that is perfect for a weeknight meal or a special occasion. The chicken is browned and then simmered in a flavorful sauce made with white wine, chicken broth, garlic, and herbs. The almonds and green olives add a touch of elegance and sophistication to the dish."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_b1708be3153bcf16762a6f735119c6c3",
-    "label": "Chicken with Forty Cloves of Garlic recipes",
+    "label": "Chicken with Forty Cloves of Garlic ",
     "image": "https://raw.githubusercontent.com/Freezer9/My-Dataset/main/JSON/images/chicken/112_chicken.jpg",
     "dietLabels": ["Low-Carb"],
     "healthLabels": [
@@ -13203,7 +13315,8 @@
         "quantity": 843.79238045,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Chicken with Forty Cloves of Garlic"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_5759a6b83c734cc081582b371e9e1be2",
@@ -13301,7 +13414,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 794.24, "unit": "mg" }
-    }
+    },
+    "description": "Tender and juicy chicken breasts seasoned with a zesty blend of lemon and pepper, pan-seared to golden perfection and ready in just 30 minutes."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_e205b924a39c4db3bdfe7d1b94cd4b5d",
@@ -13378,7 +13492,8 @@
         "quantity": 797.2308333353961,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Savor the tantalizing flavors of India with our Pulled Tandoori Chicken Sandwich. Juicy chicken marinated in aromatic tandoori spices, grilled to perfection and pulled for a tender texture. Nestled in a soft bun with crisp lettuce, juicy tomatoes, and creamy raita, this sandwich offers a delightful fusion of Indian and Western flavors."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_963f621a557c15bd094b0699ad6c717f",
@@ -13549,7 +13664,8 @@
         "quantity": 328.8900312497863,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Chicken Piccata is a classic Italian dish made with chicken breasts that are dredged in flour, then pan-fried and finished in a lemon-butter sauce. The dish is typically served with capers and parsley."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_3affbba69fbf45859d97bd2c872c2fcf",
@@ -13636,7 +13752,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 1234.07532, "unit": "mg" }
-    }
+    },
+    "description": "Succulent, tender chicken seared to perfection and smothered in a luscious gravy. Served with your choice of sides."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_186c46fb9c7a416bbaeacd0a1440192d",
@@ -13709,7 +13826,8 @@
       "CHOCDF": { "label": "Carbs", "quantity": 93.63, "unit": "g" },
       "PROCNT": { "label": "Protein", "quantity": 246.098, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 794.24, "unit": "mg" }
-    }
+    },
+    "description": "White Rice"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_c81fe22fb2ac968f5c5a75a3d69b4fa0",
@@ -13810,7 +13928,8 @@
       },
       "PROCNT": { "label": "Protein", "quantity": 264.16953, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 794.24, "unit": "mg" }
-    }
+    },
+    "description": "Sizzling chicken tacos with your choice of mild, medium, or hot sauce, topped with fresh cilantro and onions, served with lime wedges."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_2bb2212cf9e64016bae851b7bb5b6ae1",
@@ -13905,7 +14024,8 @@
       "CHOCDF": { "label": "Carbs", "quantity": 1.8974, "unit": "g" },
       "PROCNT": { "label": "Protein", "quantity": 91.307, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 292, "unit": "mg" }
-    }
+    },
+    "description": "Tender and juicy chicken breast meatballs, seasoned to perfection and cooked to golden brown perfection. A versatile dish that can be enjoyed as an appetizer, main course, or in salads and soups."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_99531890757e4d6b8d453e01d112bbb9",
@@ -13993,7 +14113,8 @@
         "quantity": 1913.6000000000001,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Crispy, juicy and sticky Korean chicken drumsticks coated in a sweet and spicy glaze made with gochujang, soy sauce, honey, and garlic."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_f88ed50a2cadf548ac12ac34763261b1",
@@ -14132,7 +14253,8 @@
         "quantity": 1116.45448915,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Tender and juicy roasted chicken with a flavorful onion gravy, perfect for a comforting and satisfying meal."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_f3e929f027624ebd9e9fe98d5e25e636",
@@ -14296,7 +14418,8 @@
         "quantity": 1516.7199999999998,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Chicken fricassee is a classic French dish that is made with chicken pieces that are braised in a creamy sauce. The dish is typically made with chicken breasts or thighs, which are browned in a skillet before being added to a pot with vegetables, such as carrots, celery, and onions. The chicken is then simmered in a flavorful broth until it is cooked through. A creamy sauce is then made by adding flour and butter to the broth, and the dish is seasoned with salt, pepper, and herbs. Chicken fricassee is typically served with rice or noodles."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_f8c17d5095601abac528ebf18d3f52d0",
@@ -14447,7 +14570,8 @@
         "quantity": 1113.7013065,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Serve the Chicken Scarpariello over pasta or with your favorite side dish. Enjoy!"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_a66661ba54ad4721bed742d8f8f46ce4",
@@ -14568,7 +14692,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 663.16, "unit": "mg" }
-    }
+    },
+    "description": "Chicken Milanese is a classic Italian dish made with breaded and pan-fried chicken cutlets. The chicken is typically pounded thin, dredged in flour, eggs, and breadcrumbs, and then pan-fried until golden brown. It is often served with a lemon wedge and a side of pasta or salad."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_a921d998d5884b6bafa1bc3b623950ad",
@@ -14665,11 +14790,12 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 893.52, "unit": "mg" }
-    }
+    },
+    "description": "This Gut Healing Shredded Chicken is made with all gut-friendly ingredients. It is easy to digest, AIP-compliant, and low-FODMAP. It can be used in a variety of recipes, or eaten on its own."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_f3406c4c9bc63218ff2cced26a3139e8",
-    "label": "Rosemary Fried Chicken recipes",
+    "label": "Rosemary Fried Chicken ",
     "image": "https://raw.githubusercontent.com/Freezer9/My-Dataset/main/JSON/images/chicken/126_chicken.jpg",
     "dietLabels": ["Low-Carb"],
     "healthLabels": [
@@ -14814,7 +14940,8 @@
         "quantity": 3045.8399999999997,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Rosemary fried chicken is a dish made from chicken that has been coated in a mixture of flour, spices, and herbs, then fried until golden brown. The rosemary in the coating gives the chicken a delicious, fragrant flavor."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_ec370634d79a475d9c54c3e7ea727e34",
@@ -14906,7 +15033,8 @@
         "quantity": 1510.4625921000002,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Crispy, juicy Air Fryer Chicken Wings seasoned to perfection. Quick, easy, and perfect for any occasion!"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_56b0897e443eb5576e11da314df2d224",
@@ -15012,7 +15140,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 1513.12, "unit": "mg" }
-    }
+    },
+    "description": "Serve the chicken with roasted vegetables, such as potatoes, carrots, or asparagus.You can also add other seasonings to the rosemary-garlic mixture, such as paprika, thyme, or oregano."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_dcdf3ff8cd2faf7507477cb2df83e478",
@@ -15083,7 +15212,8 @@
         "quantity": 250.23999999999998,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Tender, juicy chicken breasts poached in flavorful broth, perfect for tacos"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_8086625a87a52e34e6fd68ea50dd622d",
@@ -15196,7 +15326,8 @@
         "quantity": 445.43999999999994,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Indulge in a delightful smorgasbord of poached chicken delicacies, featuring succulent breast, tender thighs, and flavorful wings, all perfectly poached to retain their natural juices and delicate flavors."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_4d411eb362d2156f89d142dcb6a6eddb",
@@ -15354,7 +15485,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 345.63, "unit": "mg" }
-    }
+    },
+    "description": "Chicken Piccata is a classic Italian dish made with chicken breasts that are dredged in flour, then pan-fried and finished in a lemon-butter sauce with capers. It is a simple but flavorful dish that can be prepared in under 30 minutes."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_112a5c4c03a7ce6fc34e8c6f591e96df",
@@ -15515,7 +15647,8 @@
         "quantity": 510.6081551079147,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Succulent chicken tenderloins sautéed with sliced mushrooms in a rich, savory sauce."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_c31728f1cfe1b761f19b494c7e8b2c93",
@@ -15646,7 +15779,8 @@
         "quantity": 798.8048930647489,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Tender chicken breasts cooked in a rich and flavorful sauce made with white wine, mushrooms, and fresh herbs."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_b551816b0ccc9c6fc803394fc2944057",
@@ -15870,7 +16004,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 1849.21, "unit": "mg" }
-    }
+    },
+    "description": "Tandoori Chicken is a popular Indian dish made by roasting chicken marinated in yogurt and spices in a tandoor, a cylindrical clay oven. The chicken is typically marinated for several hours or overnight, then skewered and cooked over high heat. The result is a flavorful, juicy chicken with a slightly charred exterior. Tandoori Chicken is often served with a side of rice or naan bread, and can be enjoyed as an appetizer or main course."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_1b901ce700fe16f1edcc63a44d7145da",
@@ -16018,7 +16153,8 @@
       "CHOCDF": { "label": "Carbs", "quantity": 20.403, "unit": "g" },
       "PROCNT": { "label": "Protein", "quantity": 225.70542, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 1323.98, "unit": "mg" }
-    }
+    },
+    "description": "Tender, juicy chicken thighs slowly cooked in their own fat until fall-off-the-bone tender. Perfect for a special occasion or a cozy weeknight dinner."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_1edd1d837b074868246c998b0b50c4d0",
@@ -16136,7 +16272,8 @@
         "quantity": 817.6199999999999,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Teriyaki chicken is a popular Japanese dish consisting of chicken marinated in a sweet and savory teriyaki sauce. Grilled or pan-fried, the chicken is characterized by its glossy, caramelized exterior and tender, juicy interior. The teriyaki sauce, made with soy sauce, mirin, sake, and sugar, adds a umami-rich flavor profile to the chicken. It's often served with rice or vegetables."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_61c6c83741fe46e681ae3e58a84a8c11",
@@ -16244,7 +16381,8 @@
         "quantity": 1532.4999821186066,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Golden-brown and juicy, roast chicken is a classic dish that's perfect for any occasion. This simple recipe will show you how to make a delicious roast chicken with just a few ingredients."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_951f70d6b7b03baa215134c7f53f105c",
@@ -16404,7 +16542,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 1234.96, "unit": "mg" }
-    }
+    },
+    "description": "Tender, juicy chicken braised in a flavorful broth made with white wine, herbs, and vegetables. Perfect for a comforting and elegant meal."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_8ad9bed5f57d0b0216e62e2a6328d623",
@@ -16525,7 +16664,8 @@
         "quantity": 662.2448602000001,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Tender and juicy baked chicken breasts seasoned with a blend of herbs and spices for a flavorful and healthy meal."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_82266ac0b2314c9a953c60d16fbffaab",
@@ -16676,7 +16816,8 @@
         "quantity": 436.2250000000001,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Chicken Paprika is a classic Hungarian dish made with chicken stewed in a paprika-based sauce. The chicken is typically seasoned with salt, pepper, and other spices, and then browned in a pan. The paprika sauce is made with onions, garlic, tomatoes, and paprika, and is simmered until it has thickened. The chicken is then added to the sauce and cooked until it is tender. Chicken Paprika is often served with egg noodles or rice."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_04b71f2cbc9a065a57154a1f5f9ec782",
@@ -16759,7 +16900,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 40.8233133, "unit": "mg" }
-    }
+    },
+    "description": "Chicken broth is a flavorful liquid made from simmering chicken bones and vegetables in water. It is a versatile ingredient that can be used in a variety of dishes, from soups and stews to sauces and gravies. Chicken broth is also a good source of protein and nutrients, making it a healthy addition to any diet."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_1ce770ceb69449c183ced4536be77c67",
@@ -16858,7 +17000,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 15.8, "unit": "mg" }
-    }
+    },
+    "description": "The Most Basic Chicken Stock"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_601dfe21ef5a4d35afc7a5bcd15c66d3",
@@ -16969,11 +17112,12 @@
         "quantity": 331.12243010000003,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Sizzling chicken fajitas made easy! With tender chicken, colorful bell peppers, and a flavorful marinade, this dish is a fiesta in your mouth. Ready in just 30 minutes, it's perfect for busy weeknights or casual gatherings. Serve with warm tortillas and your favorite toppings for a complete meal. #ChickenFajitas #EasyDinner #MexicanInspired"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_1b4f8a667c371ca35f8af088efaaef63",
-    "label": "The Ultimate Chicken Noodle Soup Recipe",
+    "label": "The Ultimate Chicken Noodle Soup ",
     "image": "https://raw.githubusercontent.com/Freezer9/My-Dataset/main/JSON/images/chicken/144_chicken.jpg",
     "dietLabels": ["Low-Carb"],
     "healthLabels": [
@@ -17113,7 +17257,8 @@
         "quantity": 1338.0974915000002,
         "unit": "mg"
       }
-    }
+    },
+    "description": "The Ultimate Chicken Noodle Soup is a hearty and flavorful soup that is perfect for a cold winter day. It is made with a rich chicken broth, tender chicken, egg noodles, and a variety of vegetables. This soup is sure to warm you up and fill you up."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_854b93696b03fc2b8d8279ea129b1521",
@@ -17331,7 +17476,8 @@
         "quantity": 2277.3936765,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Chicken liver pâté is a delicious and versatile dish that can be served as an appetizer, main course, or sandwich spread. It is made from chicken livers, butter, onions, and spices, and has a smooth and creamy texture. Chicken liver pâté is often served with crackers or bread, and can also be used as a filling for sandwiches or tarts."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_b9c4a66e14b94787a589f72cdaef56c6",
@@ -17512,7 +17658,8 @@
         "quantity": 924.4130481726635,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Chicken stroganoff is a dish made with chicken, mushrooms, and onions in a creamy sauce. It is typically served over egg noodles."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_b3fbf4ec7055f704ae75354a74f1f28e",
@@ -17637,7 +17784,8 @@
         "quantity": 437.21999999999997,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Tender chicken breasts sautéed in a rich Marsala wine sauce infused with earthy sage and savory mushrooms, served over a bed of creamy polenta."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_46eceb595a09417ea615592c6cf74e65",
@@ -17756,11 +17904,12 @@
       "CHOCDF": { "label": "Carbs", "quantity": 48.6093, "unit": "g" },
       "PROCNT": { "label": "Protein", "quantity": 284.7407, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 1141.92, "unit": "mg" }
-    }
+    },
+    "description": "Savory and comforting, this classic Chicken Star Noodle Soup is made with tender chicken, springy noodles, and a flavorful broth. It's the perfect meal for a cold day or when you're feeling under the weather."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_dc4a11a4a1f7fcb729ebd0734e94b59d",
-    "label": "Dinner Tonight: Piquant Chicken Recipe",
+    "label": "Piquant Chicken ",
     "image": "https://raw.githubusercontent.com/Freezer9/My-Dataset/main/JSON/images/chicken/149_chicken.jpg",
     "dietLabels": ["Low-Carb"],
     "healthLabels": [
@@ -17902,7 +18051,8 @@
         "quantity": 850.48569375,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Piquant Chicken is a flavorful and tangy dish made with chicken pieces marinated in a blend of spices and yogurt, then grilled or roasted until cooked through."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_95938e04088d04916dc71bcfca89d98f",
@@ -18028,7 +18178,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 794.24, "unit": "mg" }
-    }
+    },
+    "description": "Chicken Dijon is a classic French dish made with chicken breasts cooked in a creamy Dijon mustard sauce. The chicken is typically dredged in flour and then browned in a skillet before being simmered in the sauce. The sauce is made with Dijon mustard, white wine, chicken broth, and cream. Chicken Dijon is often served with rice, pasta, or vegetables."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_55127f85de91352c177a036855af9fe8",
@@ -18161,7 +18312,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 967.3284348, "unit": "mg" }
-    }
+    },
+    "description": "Chicken with Nutmeg is a flavorful and aromatic dish made with tender chicken pieces cooked in a creamy nutmeg sauce. The warm and nutty flavor of nutmeg complements the chicken perfectly, creating a comforting and satisfying meal."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_e7ce09fb90bcea1c9d6c34e0f4a868ef",
@@ -18297,7 +18449,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 1144.75, "unit": "mg" }
-    }
+    },
+    "description": "Chicken in the Pot, also known as Poulet au Pot, is a classic French dish that showcases the simplicity and elegance of French cuisine. It is a hearty and comforting stew made with a whole chicken, vegetables, and herbs, simmered in a flavorful broth until the chicken is tender and the vegetables are melt-in-your-mouth soft."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_aaa06159cd084222a60af81cc4385100",
@@ -18412,7 +18565,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 865.49, "unit": "mg" }
-    }
+    },
+    "description": "Basil Chicken is a popular and flavorful Thai dish made with stir-fried chicken, bell peppers, onions, and fragrant basil leaves in a savory sauce."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_47bac73d398dffac0788dea16915a27c",
@@ -18509,7 +18663,8 @@
         "quantity": 413.903037625,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Sticky Lemon Chicken is a classic Chinese takeout dish that is easy to make at home. It features crispy fried chicken coated in a sweet and tangy lemon sauce. The chicken is marinated in a mixture of soy sauce, rice wine, and ginger, then coated in cornstarch and fried until golden brown. The lemon sauce is made with lemon juice, sugar, soy sauce, and cornstarch, and is thickened until it coats the chicken evenly. Sticky Lemon Chicken is typically served with rice or noodles."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_cc363aff76914f0d85d1e910b4780028",
@@ -18642,7 +18797,8 @@
         "quantity": 1169.134333675,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Savory and juicy roasted chicken is a classic dish enjoyed by people of all ages. The crispy skin and tender meat make it a flavorful and satisfying meal. It can be seasoned with a variety of herbs and spices to create different flavor profiles. Roast chicken can be served with a variety of sides such as mashed potatoes, roasted vegetables, or a salad."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_0593d63c2963498380f5fc66d3adb391",
@@ -18742,7 +18898,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 1110, "unit": "mg" }
-    }
+    },
+    "description": "Crispy, flavorful chicken wings tossed in a tangy dipping sauce, perfect for game day or any party."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_164fba3ce8a915ec8f9ce08f1cee00b1",
@@ -18880,7 +19037,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 495.115, "unit": "mg" }
-    }
+    },
+    "description": "Tender chicken breasts are sautéed with mushrooms and shallots in a rich and flavorful Marsala wine sauce. Served over creamy polenta or mashed potatoes, this dish is a comforting and elegant meal that is perfect for a special occasion or a cozy night in."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_558b6d496eb14aa98cc1bcb7c81e9ac5",
@@ -18975,11 +19133,12 @@
         "quantity": 864.5650625000001,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Parmesan crusted chicken is a classic dish that is easy to make and always a crowd-pleaser. Chicken breasts are coated in a mixture of bread crumbs, grated Parmesan cheese, and herbs, then pan-fried until golden brown and cooked through. The result is a crispy, flavorful chicken that is perfect for any occasion."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_86e11cac9db88c8e38de331fa8c34bb2",
-    "label": "Chicken Marsala recipes",
+    "label": "Chicken Marsala ",
     "image": "https://raw.githubusercontent.com/Freezer9/My-Dataset/main/JSON/images/chicken/159_chicken.jpg",
     "dietLabels": ["Low-Carb", "Low-Sodium"],
     "healthLabels": [
@@ -19113,7 +19272,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 495.115, "unit": "mg" }
-    }
+    },
+    "description": "Pan-fried chicken breasts coated in flour and seasoned with salt and pepper, then sautéed in butter and Marsala wine. Finished with mushrooms and a rich Marsala sauce."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_0297547a6b9f4191a23e322312c416f5",
@@ -19201,7 +19361,8 @@
         "quantity": 238.13599425000004,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Crispy Salt-and-Pepper Chicken Skin is a delicious and easy-to-make snack or appetizer. The chicken skin is coated in a flavorful mixture of salt, pepper, and other spices, then fried until golden brown and crispy. It's a great way to use up leftover chicken skin, and it's sure to be a hit with your friends and family."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_51033c9acf247ad13ec8f37f041dad6d",
@@ -19330,7 +19491,8 @@
         "quantity": 331.12243010000003,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Classic Chicken Salad is a dish made with cooked chicken, mayonnaise, celery, onion, and seasonings. It is often served on sandwiches or crackers, or as a side dish."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_326c5fdbbbb14738ad360d7ff238cb54",
@@ -19445,7 +19607,8 @@
       "CHOCDF": { "label": "Carbs", "quantity": 14.05974, "unit": "g" },
       "PROCNT": { "label": "Protein", "quantity": 124.453644, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 397.12, "unit": "mg" }
-    }
+    },
+    "description": "Tender and juicy chicken breasts are seasoned with a zesty blend of lemon and herbs, then pan-seared to perfection. This flavorful and healthy dish is perfect for a quick and easy weeknight meal."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_8e66656d8a114edfa56f40e3d29ab7d8",
@@ -19602,7 +19765,8 @@
         "quantity": 557.4599999999999,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Chicken Scallopini is a classic Italian-American dish made with thinly sliced chicken breasts dredged in flour and pan-fried in butter or olive oil. It is often served with a lemon-butter or marsala wine sauce and is a quick and easy weeknight meal."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_1c9d2bf342fd4ce1b9cd8d6c776f8cf4",
@@ -19717,7 +19881,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 1134.84, "unit": "mg" }
-    }
+    },
+    "description": "Savory chicken and refreshing cucumber come together in these flavorful rice bowls, perfect for a quick and easy lunch or dinner."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_58adee4fde792105bd4472283c26b31a",
@@ -19824,7 +19989,8 @@
         "quantity": 336.96606316875,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Cornflake fried chicken is a dish made by coating chicken in crushed cornflakes and then frying it. The cornflakes give the chicken a crispy, crunchy texture and a slightly sweet flavor. Cornflake fried chicken can be served with a variety of dips and sauces, such as honey mustard, barbecue sauce, or ranch dressing."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_2b09c1283a7893e068d0b8c35fe0be8e",
@@ -19951,7 +20117,8 @@
         "quantity": 80.558004912,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Chicken stock is a flavorful liquid made by simmering chicken bones, vegetables, and herbs in water. It is a versatile ingredient that can be used to make soups, stews, gravies, and other dishes. Chicken stock is also a good source of nutrients, including protein, collagen, and vitamins."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_2be8fc5bbaf9445d9527ee898db51cae",
@@ -20093,7 +20260,8 @@
         "quantity": 1756.5364528250002,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Chicken Soup Base is a flavorful and versatile ingredient used to create delicious and nourishing chicken soups, stews, and sauces. Made from premium quality chicken bones and vegetables, it is simmered for hours to extract the rich flavors and nutrients. Chicken Soup Base adds depth and umami to your dishes, enhancing the taste of your favorite soups and stews. It is also an excellent base for sauces, gravies, and marinades, providing a savory and well-rounded flavor."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_8df5f388607ce3fce2f7059c0507fe7a",
@@ -20201,7 +20369,8 @@
       },
       "PROCNT": { "label": "Protein", "quantity": 14.8583496, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 187, "unit": "mg" }
-    }
+    },
+    "description": "Paprika Roast Chicken is a flavorful and juicy dish made with a whole chicken seasoned with paprika, garlic, lemon, herbs, and olive oil. It is typically roasted in the oven until the skin is golden brown and crispy, and the meat is cooked through. Paprika Roast Chicken can be served with a variety of side dishes, such as roasted vegetables, mashed potatoes, or rice."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_b3b32d6c763b4f58be5fadde29124b87",
@@ -20322,7 +20491,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 182.5, "unit": "mg" }
-    }
+    },
+    "description": "Tender and flavorful meatballs made with a blend of ground chicken, fresh basil, breadcrumbs, Parmesan cheese, and Italian seasonings, pan-fried to golden brown perfection."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_01966ca1694241b797d11a5b38d9f9b6",
@@ -20430,7 +20600,8 @@
         "quantity": 867.0000243186951,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Brined roast chicken is a juicy and flavorful dish that is perfect for any occasion. The chicken is brined in a mixture of salt, sugar, and water, which helps to keep it moist and tender. The chicken is then roasted in the oven until it is golden brown and cooked through. Brined roast chicken can be served with a variety of sides, such as roasted vegetables, mashed potatoes, or rice."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_bd46a030a9d8444eae302d475a41c782",
@@ -20556,11 +20727,12 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 27.75, "unit": "mg" }
-    }
+    },
+    "description": "Introducing Marry Me! Chicken – the most delicious, finger-licking BBQ chicken you'll ever taste! Our secret blend of spices and slow-smoked cooking process creates a unique flavor that will tantalize your taste buds. Whether you're hosting a party or just enjoying a meal with your family, Marry Me! Chicken is sure to be a hit. Order now and experience the best BBQ chicken on the planet!"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_658290d42ae649c1bd864fe7240a6097",
-    "label": "Spicy Chicken Quesadillas Recipe",
+    "label": "Spicy Chicken Quesadillas ",
     "image": "https://raw.githubusercontent.com/Freezer9/My-Dataset/main/JSON/images/chicken/172_chicken.jpg",
     "dietLabels": ["Low-Carb"],
     "healthLabels": [
@@ -20687,7 +20859,8 @@
         "quantity": 173.21558629375002,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Savor the bold flavors of tender chicken, melted cheese, and zesty spices in a warm, crispy quesadilla."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_4bc16bc57b4646b5a58da60f0951402d",
@@ -20798,11 +20971,12 @@
         "quantity": 1145.1955444524394,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Bite-sized popcorn chicken served with your choice of dipping sauce, perfect for sharing or enjoying as a main course."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_4936abf867a9a3c7a412a6445f02c2d9",
-    "label": "Classic Baked Chicken recipes",
+    "label": "Classic Baked Chicken ",
     "image": "https://raw.githubusercontent.com/Freezer9/My-Dataset/main/JSON/images/chicken/174_chicken.jpg",
     "dietLabels": ["Low-Carb"],
     "healthLabels": [
@@ -20910,7 +21084,8 @@
         "quantity": 809.66238045,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Classic Baked Chicken is an easy and flavorful dish that can be enjoyed by people of all ages."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_14f01bcf08e740898c7f41c17fa372b6",
@@ -21044,7 +21219,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 1183.37, "unit": "mg" }
-    }
+    },
+    "description": "Breakdown Chicken (Chicken Braised with Onions in Sherry Vinegar) is a traditional Spanish dish made with chicken, onions, and sherry vinegar. The chicken is browned in a pan, then braised in the vinegar with the onions. The dish is typically served with rice or potatoes."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_77504b6962fe9fe5f8217218da4971f0",
@@ -21226,7 +21402,8 @@
         "quantity": 893.0300000000001,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Chicken Piccata is a classic Italian dish made with chicken breasts dredged in flour and then sautéed in butter and olive oil until golden brown. The chicken is then cooked in a lemon-butter sauce with capers and parsley. Served with pasta, rice or your favorite side dish."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_217fd3437b8dd8ea80b043dbe2862c3a",
@@ -21388,7 +21565,8 @@
         "quantity": 693.9963260999999,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Chicken Lady Chicken from 'My Paris Kitchen'"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_d6fd6ea02da4236bd19472a9e634946c",
@@ -21519,11 +21697,12 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 794.24, "unit": "mg" }
-    }
+    },
+    "description": "Savor the spicy and flavorful essence of Cajun cuisine with our delectable Cajun Chicken."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_ea6335b2b7b372cc0c5d4efde3c93e2a",
-    "label": "Roast Chicken recipes",
+    "label": "Roast Chicken ",
     "image": "https://raw.githubusercontent.com/Freezer9/My-Dataset/main/JSON/images/chicken/179_chicken.jpg",
     "dietLabels": ["Low-Carb"],
     "healthLabels": [
@@ -21639,7 +21818,8 @@
         "unit": "g"
       },
       "CHOLE": { "label": "Cholesterol", "quantity": 1266.0375, "unit": "mg" }
-    }
+    },
+    "description": "This classic dish is a staple of home cooking and a favorite of many. A whole chicken is seasoned with herbs and spices, then roasted in the oven until golden brown and cooked through."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_624f03ab24f914980862d13f06e8eefd",
@@ -21774,11 +21954,12 @@
         "quantity": 1517.6848930647486,
         "unit": "mg"
       }
-    }
+    },
+    "description": "A dish typically made with chicken pieces that are marinated in a blend of spices, such as paprika, garlic, cumin, and oregano, then grilled or roasted."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_ea57d619943f1015686b39113e822b55",
-    "label": "Chicken Tetrazzini Recipe",
+    "label": "Chicken Tetrazzini ",
     "image": "https://raw.githubusercontent.com/Freezer9/My-Dataset/main/JSON/images/chicken/181_chicken.jpg",
     "dietLabels": [],
     "healthLabels": [
@@ -22010,11 +22191,12 @@
         "quantity": 1084.3601250000002,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Indulge in the creamy, cheesy goodness of Chicken Tetrazzini, a classic pasta dish made with tender chicken, sautéed mushrooms, and a velvety Parmesan cream sauce."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_dc4ef54a348509b0ff89628d609bc08c",
-    "label": "Dinner Tonight: Vinegar-Glossed Chicken Recipe",
+    "label": "Vinegar-Glossed Chicken ",
     "image": "https://raw.githubusercontent.com/Freezer9/My-Dataset/main/JSON/images/chicken/182_chicken.jpg",
     "dietLabels": ["Low-Carb"],
     "healthLabels": [
@@ -22159,7 +22341,8 @@
         "quantity": 1196.0799712500002,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Try this flavor-packed Vinegar-Glossed Chicken recipe tonight for a quick and easy weeknight meal."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_91dd39302b56e821805160715b7a98a8",
@@ -22281,7 +22464,8 @@
         "quantity": 693.9963260999999,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Honey-Glazed Chicken is a sweet and savory dish made with chicken that has been coated in a honey glaze and baked or grilled until cooked through. The glaze gives the chicken a sticky, caramelized exterior that is both flavorful and visually appealing. Honey-Glazed Chicken is a popular dish for both weeknight dinners and special occasions, and can be served with a variety of sides such as rice, vegetables, or mashed potatoes."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_b5c8b354f74c7843426e876612a3d9aa",
@@ -22366,7 +22550,8 @@
       "CHOCDF": { "label": "Carbs", "quantity": 0, "unit": "g" },
       "PROCNT": { "label": "Protein", "quantity": 223.2, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 900, "unit": "mg" }
-    }
+    },
+    "description": "This is the ultimate roast chicken recipe, perfect for any weeknight dinner. The chicken is juicy and flavorful, and the skin is crispy and golden brown."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_be2a340605a66445d0a5dcdc408362ac",
@@ -22455,7 +22640,8 @@
       "CHOCDF": { "label": "Carbs", "quantity": 139.668, "unit": "g" },
       "PROCNT": { "label": "Protein", "quantity": 229.9899518304, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 925.3284348, "unit": "mg" }
-    }
+    },
+    "description": "Crispy, juicy, and flavorful, our Salted Fried Chicken is a must-try. Perfectly seasoned and fried to golden perfection, each bite is a burst of savory goodness. Enjoy it on its own or pair it with your favorite dipping sauce for an unforgettable culinary experience."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_b79b236bd838ae0d2c0ab6b14565333e",
@@ -22560,7 +22746,8 @@
         "quantity": 867.495407625,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Indulge in the tantalizing flavors of our succulent Roast Koji Chicken, where the ancient art of koji fermentation meets modern culinary brilliance. This exceptional dish showcases a whole chicken meticulously brined in a fragrant blend of soy sauce, mirin, and sake, then infused with the umami-rich depths of koji. Roasted to perfection, the chicken emerges with a captivating golden-brown skin that crackles with every bite, revealing tender and juicy meat infused with an irresistible symphony of flavors. Experience the harmonious balance of sweet, savory, and umami in each delectable morsel, making our Roast Koji Chicken an unforgettable dining experience."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_0fe605184d244463a60a4f4aee00a4aa",
@@ -22668,7 +22855,8 @@
       },
       "PROCNT": { "label": "Protein", "quantity": 62.94516, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 198.56, "unit": "mg" }
-    }
+    },
+    "description": "Indulge in a tantalizing blend of succulent chicken, sweet strawberries, crisp greens, and a tangy balsamic dressing. This refreshing salad offers a harmonious fusion of flavors that will delight your palate and keep you coming back for more."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_690c3797b4f56fc1e119c14096d651c5",
@@ -22781,7 +22969,8 @@
         "quantity": 819.2508202199999,
         "unit": "mg"
       }
-    }
+    },
+    "description": "This classic roast chicken is easy to make and always a crowd-pleaser. The chicken is roasted with aromatic vegetables and herbs, resulting in a juicy and flavorful dish. Perfect for a Sunday dinner or any special occasion."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_230a8c578d305f51f82359110d081696",
@@ -22888,7 +23077,8 @@
       "CHOCDF": { "label": "Carbs", "quantity": 28.7915, "unit": "g" },
       "PROCNT": { "label": "Protein", "quantity": 41.77346, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 991.25, "unit": "mg" }
-    }
+    },
+    "description": "Chicken liver pâté is a delicious and versatile spread that can be enjoyed on crackers, bread, or vegetables. It is made from chicken livers, which are cooked and then blended with butter, cream, and seasonings. The result is a smooth, creamy, and flavorful spread that is perfect for any occasion."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_ef2f6508015d44f09cfb3ff1174cc88b",
@@ -22991,7 +23181,8 @@
         "quantity": 809.66238045,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Roasted chicken seasoned with roasted fennel pollen, garlic and lemon."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_25f6c57a8eca3eeacd699b4a480e16ef",
@@ -23135,7 +23326,8 @@
         "quantity": 693.9963260999999,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Chili Garlic Chicken is a popular dish made with chicken stir-fried in a spicy and flavorful chili garlic sauce. The chicken is typically marinated in a mixture of soy sauce, rice wine, and sesame oil, then coated in a cornstarch slurry before being fried until golden brown. The chili garlic sauce is made with a combination of chili peppers, garlic, ginger, soy sauce, and rice vinegar, and is thickened with cornstarch to create a glossy and flavorful sauce. Chili Garlic Chicken is often served with rice or noodles, and can be garnished with green onions, sesame seeds, or cilantro."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_a7c379c59775dd0c7c88710f7fecff81",
@@ -23301,7 +23493,8 @@
         "quantity": 347.7727650533334,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Chicken Stew"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_ed2bee8c2066c97b4c8d38a84ac70f61",
@@ -23433,7 +23626,8 @@
         "quantity": 98.740607525,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Warm up with a comforting bowl of Quick Chicken Noodle Soup, made with tender chicken, savory vegetables, and flavorful broth. Ready in just 30 minutes, it's the perfect cozy meal for chilly evenings or when you're feeling under the weather."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_690a2dd9e7014c18b54be14c36f76795",
@@ -23555,7 +23749,8 @@
         "quantity": 867.495407625,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Fried Chicken"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_3ba2924828028c507efca56da0a8a5f2",
@@ -23730,7 +23925,8 @@
       },
       "PROCNT": { "label": "Protein", "quantity": 247.97135, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 906, "unit": "mg" }
-    }
+    },
+    "description": "Northern Fried Chicken:"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_846d86a095d442ccabd69206a54b8bc9",
@@ -23819,7 +24015,8 @@
         "quantity": 662.2448602000001,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Instant Pot Salsa Chicken"
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_435fb27c92cb3c4004751b45b67b7e80",
@@ -23950,7 +24147,8 @@
         "quantity": 1229.8799712500002,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Crispy Chicken\n- Crispy, golden-brown chicken with a savory breading.\n- Made with all-white meat chicken, for a juicy and tender bite.\n- Perfect for a quick and easy meal, or as an appetizer or side dish.\n- Can be served with a variety of dipping sauces, such as ketchup, honey mustard, or barbecue sauce."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_81922f0236b5b1c168e63cc3e00633e3",
@@ -24095,7 +24293,8 @@
         "quantity": 105.00000000000001,
         "unit": "mg"
       }
-    }
+    },
+    "description": "Easy Chicken Posole is a flavorful and comforting Mexican soup made with tender chicken, hominy, and a blend of spices. It's a hearty and satisfying dish that's perfect for a quick and easy meal."
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_938041217f8046fbad354dca04b9b109",
@@ -24209,6 +24408,7 @@
       },
       "PROCNT": { "label": "Protein", "quantity": 92.07125, "unit": "g" },
       "CHOLE": { "label": "Cholesterol", "quantity": 555, "unit": "mg" }
-    }
+    },
+    "description": "Korean fried chicken, also known as Chimaek, is a popular dish in South Korea. It is typically made with chicken that has been double-fried, resulting in a crispy exterior and a juicy interior. The chicken is often coated in a sweet and spicy sauce, and is typically served with a variety of dipping sauces and side dishes."
   }
 ]
