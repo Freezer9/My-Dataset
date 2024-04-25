@@ -2990,7 +2990,7 @@
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_494199967977036a47ea48ed700ade8c",
-    "label": "Oven-Braised Beef with Tomatoes and Garlic recipes",
+    "label": "Oven-Braised Beef with Tomatoes and Garlic ",
     "image": "https://raw.githubusercontent.com/Freezer9/My-Dataset/main/JSON/images/beef/22_beef.jpg",
     "dietLabels": ["Low-Carb"],
     "healthLabels": [
@@ -3079,7 +3079,7 @@
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_fb3b9d088cb51202c3a0510ffd0f8556",
-    "label": "Beef and Noodles recipes",
+    "label": "Beef and Noodles ",
     "image": "https://raw.githubusercontent.com/Freezer9/My-Dataset/main/JSON/images/beef/23_beef.jpg",
     "dietLabels": ["Low-Carb"],
     "healthLabels": [
@@ -3881,7 +3881,7 @@
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_50fc514c49c8975995e65b6cff605ee6",
-    "label": "Pioneer Woman’s Beef Brisket recipes",
+    "label": "Pioneer Woman’s Beef Brisket ",
     "image": "https://raw.githubusercontent.com/Freezer9/My-Dataset/main/JSON/images/beef/29_beef.jpg",
     "dietLabels": ["Low-Carb"],
     "healthLabels": [
@@ -6988,7 +6988,7 @@
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_e8b82533e02fa3fef8d6d3be673ea6ee",
-    "label": "Perfect Juicy All-Beef Burger recipes",
+    "label": "Perfect Juicy All-Beef Burger ",
     "image": "https://raw.githubusercontent.com/Freezer9/My-Dataset/main/JSON/images/beef/52_beef.jpg",
     "dietLabels": ["Low-Carb"],
     "healthLabels": [
@@ -7590,7 +7590,7 @@
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_492103bfe5fe4cc7bf95704eaa5d9936",
-    "label": "Stewed Beef Neck Tacos Recipe",
+    "label": "Stewed Beef Neck Tacos ",
     "image": "https://raw.githubusercontent.com/Freezer9/My-Dataset/main/JSON/images/beef/57_beef.jpg",
     "dietLabels": ["High-Protein", "Low-Carb"],
     "healthLabels": [
@@ -9164,7 +9164,7 @@
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_053776d353bbf6a29b9d6d28e7eb311d",
-    "label": "Fried Beef With Broccoli recipes",
+    "label": "Fried Beef With Broccoli ",
     "image": "https://raw.githubusercontent.com/Freezer9/My-Dataset/main/JSON/images/beef/68_beef.jpg",
     "dietLabels": ["Low-Carb"],
     "healthLabels": [
@@ -17514,7 +17514,7 @@
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_c5f1aa1065251cdcbf0adcf974922fde",
-    "label": "Traditional Beef Pho Recipe",
+    "label": "Traditional Beef Pho ",
     "image": "https://raw.githubusercontent.com/Freezer9/My-Dataset/main/JSON/images/beef/124_beef.jpg",
     "dietLabels": ["High-Fiber"],
     "healthLabels": [
@@ -21602,7 +21602,7 @@
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_4a7d60a10d19433d8614d431e1ef5753",
-    "label": "DIY Spicy Kimchi Beef Instant Noodles Recipe",
+    "label": "DIY Spicy Kimchi Beef Instant Noodles ",
     "image": "https://raw.githubusercontent.com/Freezer9/My-Dataset/main/JSON/images/beef/149_beef.jpg",
     "dietLabels": [],
     "healthLabels": [
@@ -23149,7 +23149,7 @@
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_966dd6c825384a49b8f8176643f8fafc",
-    "label": "Recipe: Slow Cooker Shredded Balsamic Beef",
+    "label": ": Slow Cooker Shredded Balsamic Beef",
     "image": "https://raw.githubusercontent.com/Freezer9/My-Dataset/main/JSON/images/beef/159_beef.jpg",
     "dietLabels": ["High-Protein", "Low-Carb"],
     "healthLabels": [
@@ -24030,7 +24030,7 @@
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_1b775fd6baab7ae7a8cc2b070953dc9a",
-    "label": "DIY Spicy Kimchi Beef Instant Noodles Recipe",
+    "label": "DIY Spicy Kimchi Beef Instant Noodles ",
     "image": "https://raw.githubusercontent.com/Freezer9/My-Dataset/main/JSON/images/beef/165_beef.jpg",
     "dietLabels": [],
     "healthLabels": [
@@ -28569,7 +28569,7 @@
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_a4ec2bd784d14cb290b7c1a6ad48e7ac",
-    "label": "Beef Pho (Vietnamese Soup) Recipe",
+    "label": "Beef Pho (Vietnamese Soup) ",
     "image": "https://raw.githubusercontent.com/Freezer9/My-Dataset/main/JSON/images/beef/196_beef.jpg",
     "dietLabels": ["High-Fiber"],
     "healthLabels": [
@@ -29035,7 +29035,7 @@
   },
   {
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_9cfce2c43ac64548bb31a312367e2abc",
-    "label": "Easy Beef Carpaccio with Arugula Recipe",
+    "label": "Easy Beef Carpaccio with Arugula ",
     "image": "https://raw.githubusercontent.com/Freezer9/My-Dataset/main/JSON/images/beef/198_beef.jpg",
     "dietLabels": ["Low-Carb"],
     "healthLabels": [
