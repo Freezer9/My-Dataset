@@ -1847,20 +1847,16 @@
    },
    {
       "nama":"Sup Jagung Telur ",
-      "bahan":"1 bagian Ayam dada, 2 ltr Air, 2 batang daun bawang bagian putih, 1/2 buah bombay, 1 sdt garam, 3 butir Telur, 1 buah Jagung madu, 100 gr Wortel, 1.5 sdt Garam, 1 sdt kecap asin, 1 ltr Kaldu ayam, 1/2 sdt Lada, 1/2  sdt Gula, 1 sdt Minyak wijen, 2 sdm Maizena+ 80 ml air, Daun bawang iris"
-   },
-   {
-      "nama":"",
-      "bahan":"209",
-      "calories":"80",
-      "karbohidrat":"55",
-      "protein":"35",
-      "lemak":"https://youtu.be/v6nTR84Wj0k?si=jZFVWm23ngAjPeC9",
-      "link":"sop_jagung_telur.jpg",
-      "foto":"diet",
-      "categories":"sayur",
-      "jenis":"Breakfast",
-      "waktu":""
+      "bahan":"1 bagian Ayam dada, 2 ltr Air, 2 batang daun bawang bagian putih, 1/2 buah bombay, 1 sdt garam, 3 butir Telur, 1 buah Jagung madu, 100 gr Wortel, 1.5 sdt Garam, 1 sdt kecap asin, 1 ltr Kaldu ayam, 1/2 sdt Lada, 1/2  sdt Gula, 1 sdt Minyak wijen, 2 sdm Maizena+ 80 ml air, Daun bawang iris",
+      "calories":"209",
+      "karbohidrat":"80",
+      "protein":"55",
+      "lemak":"35",
+      "link":"https://youtu.be/v6nTR84Wj0k?si=jZFVWm23ngAjPeC9",
+      "foto":"sop_jagung_telur.jpg",
+      "categories":"diet",
+      "jenis":"sayur",
+      "waktu":"Breakfast",
    },
    {
       "nama":"Sup Telur",
