@@ -10,7 +10,7 @@
       "foto":"es_buah_hongkong.jpg",
       "categories":"bulking",
       "jenis":"buah",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Pear Asam Manis",
@@ -23,7 +23,7 @@
       "foto":"pear_asam_manis.jpg",
       "categories":"diet",
       "jenis":"buah",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Salad Buahvita",
@@ -36,7 +36,7 @@
       "foto":"salad_buahvita.jpg",
       "categories":"diet",
       "jenis":"buah",
-      "waktu":"Lunch"
+      "waktu":"siang"
    },
    {
       "nama":"Jelly Susu Mangga",
@@ -49,7 +49,7 @@
       "foto":"jelly_susu_mangga.jpg",
       "categories":"diet",
       "jenis":"buah",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Es Koktail Buah",
@@ -62,7 +62,7 @@
       "foto":"koktail_buah.jpg",
       "categories":"bulking",
       "jenis":"buah",
-      "waktu":"Lunch"
+      "waktu":"siang"
    },
    {
       "nama":"Es Alpukat Creamy",
@@ -75,7 +75,7 @@
       "foto":"es_alpukat_creamy.jpg",
       "categories":"bulking",
       "jenis":"buah",
-      "waktu":"Dinner"
+      "waktu":"malam"
    },
    {
       "nama":"Es Semangka Susu",
@@ -88,7 +88,7 @@
       "foto":"es_semangka_susu.jpg",
       "categories":"bulking",
       "jenis":"buah",
-      "waktu":"Dinner"
+      "waktu":"malam"
    },
    {
       "nama":"Es Degan Alpukat",
@@ -101,7 +101,7 @@
       "foto":"es_degan_alpukat.jpg",
       "categories":"bulking",
       "jenis":"buah",
-      "waktu":"Lunch"
+      "waktu":"siang"
    },
    {
       "nama":"Es Teler Buah Naga",
@@ -114,7 +114,7 @@
       "foto":"es_teler_buah_naga.jpg",
       "categories":"diet",
       "jenis":"buah",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Es Buah Seger",
@@ -127,7 +127,7 @@
       "foto":"es_buah_seger.jpg",
       "categories":"diet",
       "jenis":"buah",
-      "waktu":"Dinner"
+      "waktu":"malam"
    },
    {
       "nama":"Roti Gulung Mangga",
@@ -140,7 +140,7 @@
       "foto":"roti_gulung_mangga.jpg",
       "categories":"diet",
       "jenis":"buah",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Buko Pandan",
@@ -153,7 +153,7 @@
       "foto":"buko_pandan.jpg",
       "categories":"bulking",
       "jenis":"buah",
-      "waktu":"Dinner"
+      "waktu":"malam"
    },
    {
       "nama":"Es Semangka India",
@@ -166,7 +166,7 @@
       "foto":"es_semangka_india.jpg",
       "categories":"diet",
       "jenis":"buah",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Stik Buah Naga",
@@ -179,7 +179,7 @@
       "foto":"stik_buah_naga.jpg",
       "categories":"diet",
       "jenis":"buah",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Es Teler",
@@ -192,7 +192,7 @@
       "foto":"es_teler.jpg",
       "categories":"diet",
       "jenis":"buah",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Es Manado",
@@ -205,7 +205,7 @@
       "foto":"es_manado.jpg",
       "categories":"bulking",
       "jenis":"buah",
-      "waktu":"Lunch"
+      "waktu":"siang"
    },
    {
       "nama":"Smoothie Bowl",
@@ -218,7 +218,7 @@
       "foto":"smoothie_bowl.jpg",
       "categories":"diet",
       "jenis":"buah",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Es Longan Milky Jelly",
@@ -231,7 +231,7 @@
       "foto":"es_longan_milky_jelly.jpg",
       "categories":"diet",
       "jenis":"buah",
-      "waktu":"Dinner"
+      "waktu":"malam"
    },
    {
       "nama":"Smoothie Mango",
@@ -244,7 +244,7 @@
       "foto":"smoothie_mango.jpg",
       "categories":"bulking",
       "jenis":"buah",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Es Dawet Nangka",
@@ -257,7 +257,7 @@
       "foto":"es_dawet_nangka.jpg",
       "categories":"bulking",
       "jenis":"buah",
-      "waktu":"Lunch"
+      "waktu":"siang"
    },
    {
       "nama":"Es Kuwut Melon",
@@ -270,7 +270,7 @@
       "foto":"es_kuwut_melon.jpg",
       "categories":"diet",
       "jenis":"buah",
-      "waktu":"Lunch"
+      "waktu":"siang"
    },
    {
       "nama":"Es Pisang Ijo",
@@ -283,7 +283,7 @@
       "foto":"es_pisang_ijo.jpg",
       "categories":"bulking",
       "jenis":"buah",
-      "waktu":"Dinner"
+      "waktu":"malam"
    },
    {
       "nama":"Brownies Diet",
@@ -296,7 +296,7 @@
       "foto":"brownies.jpg",
       "categories":"diet",
       "jenis":"cemilan",
-      "waktu":"Lunch"
+      "waktu":"siang"
    },
    {
       "nama":"Olahan Mie Telur ",
@@ -309,7 +309,7 @@
       "foto":"mie_telur.jpg",
       "categories":"diet",
       "jenis":"cemilan",
-      "waktu":"Dinner"
+      "waktu":"malam"
    },
    {
       "nama":"Cilok Diet",
@@ -322,7 +322,7 @@
       "foto":"cilok_versi_diet.jpg",
       "categories":"diet",
       "jenis":"cemilan",
-      "waktu":"Lunch"
+      "waktu":"siang"
    },
    {
       "nama":"Tahu Saos Spesial ",
@@ -335,7 +335,7 @@
       "foto":"tahu_saos_spesial.jpeg",
       "categories":"diet",
       "jenis":"cemilan",
-      "waktu":"Dinner"
+      "waktu":"malam"
    },
    {
       "nama":"Sosis Sop Merah",
@@ -348,7 +348,7 @@
       "foto":"sosis_sop_merah.jpg",
       "categories":"bulking",
       "jenis":"cemilan",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Telur Mata Hati ",
@@ -361,7 +361,7 @@
       "foto":"telur_mata_hati.png",
       "categories":"bulking",
       "jenis":"cemilan",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Kaki Naga ",
@@ -374,7 +374,7 @@
       "foto":"kaki_naga.jpg",
       "categories":"bulking",
       "jenis":"cemilan",
-      "waktu":"Lunch"
+      "waktu":"siang"
    },
    {
       "nama":"Peyek Udang ",
@@ -387,7 +387,7 @@
       "foto":"peyek_udang.jpg",
       "categories":"bulking",
       "jenis":"cemilan",
-      "waktu":"Lunch"
+      "waktu":"siang"
    },
    {
       "nama":"Rolade Ayam",
@@ -400,7 +400,7 @@
       "foto":"roalde_ayam.jpe",
       "categories":"bulking",
       "jenis":"cemilan",
-      "waktu":"Dinner"
+      "waktu":"malam"
    },
    {
       "nama":"Sosis Bakar Dan Bakso Bakar ",
@@ -413,7 +413,7 @@
       "foto":"sosis_bakar_dan_bakso_bakar.jpg",
       "categories":"bulking",
       "jenis":"cemilan",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Gorengan Versi Diet",
@@ -426,7 +426,7 @@
       "foto":"gorengan_versi_diet.jpg",
       "categories":"diet",
       "jenis":"cemilan",
-      "waktu":"Dinner"
+      "waktu":"malam"
    },
    {
       "nama":"Dorayaki",
@@ -439,7 +439,7 @@
       "foto":"dorayaki.jpg",
       "categories":"diet",
       "jenis":"cemilan",
-      "waktu":"Lunch"
+      "waktu":"siang"
    },
    {
       "nama":"Chocolate Cake",
@@ -452,7 +452,7 @@
       "foto":"chocolate_cake.jpg",
       "categories":"bulking",
       "jenis":"cemilan",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Donat Oat Diet",
@@ -465,7 +465,7 @@
       "foto":"donat_oat_diet.jpg",
       "categories":"diet",
       "jenis":"cemilan",
-      "waktu":"Dinner"
+      "waktu":"malam"
    },
    {
       "nama":"Pizza Diet ",
@@ -478,7 +478,7 @@
       "foto":"pizza_diet.jpg",
       "categories":"bulking",
       "jenis":"cemilan",
-      "waktu":"Dinner"
+      "waktu":"malam"
    },
    {
       "nama":"Hokkaido Cheese Tart",
@@ -491,7 +491,7 @@
       "foto":"hokkaido_chesse_tart.jpg",
       "categories":"bulking",
       "jenis":"cemilan",
-      "waktu":"Lunch"
+      "waktu":"siang"
    },
    {
       "nama":"Dimsum Ayam",
@@ -504,7 +504,7 @@
       "foto":"dimsum_ayam.jpg",
       "categories":"bulking",
       "jenis":"cemilan",
-      "waktu":"Dinner"
+      "waktu":"malam"
    },
    {
       "nama":"Martabak Telur ",
@@ -517,7 +517,7 @@
       "foto":"martabak_telur.jpg",
       "categories":"bulking",
       "jenis":"cemilan",
-      "waktu":"Dinner"
+      "waktu":"malam"
    },
    {
       "nama":"Churros",
@@ -530,7 +530,7 @@
       "foto":"churros.jpg",
       "categories":"bulking",
       "jenis":"cemilan",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Martabak Diet",
@@ -543,7 +543,7 @@
       "foto":"martabak_rendah_kalori.jpeg",
       "categories":"bulking",
       "jenis":"cemilan",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Rawon Surabaya",
@@ -556,7 +556,7 @@
       "foto":"rawon.jpg",
       "categories":"bulking",
       "jenis":"daging",
-      "waktu":"Lunch"
+      "waktu":"siang"
    },
    {
       "nama":"Ayam Bumbu Hitam",
@@ -569,7 +569,7 @@
       "foto":"ayam_bumbu_hitam.jpg",
       "categories":"bulking",
       "jenis":"daging",
-      "waktu":"Lunch"
+      "waktu":"siang"
    },
    {
       "nama":"Ayam Suwir Bawang",
@@ -582,7 +582,7 @@
       "foto":"ayam_suwir_bawang.jpeg",
       "categories":"bulking",
       "jenis":"daging",
-      "waktu":"Lunch"
+      "waktu":"siang"
    },
    {
       "nama":"Ayam Pop",
@@ -595,7 +595,7 @@
       "foto":"ayam_pop.jpg",
       "categories":"bulking",
       "jenis":"daging",
-      "waktu":"Lunch"
+      "waktu":"siang"
    },
    {
       "nama":"Ayam Kecap",
@@ -608,7 +608,7 @@
       "foto":"ayam_kecap.jpg",
       "categories":"bulking",
       "jenis":"daging",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Ayam Bakar",
@@ -621,7 +621,7 @@
       "foto":"ayam_bakar.jpg",
       "categories":"bulking",
       "jenis":"daging",
-      "waktu":"Dinner"
+      "waktu":"malam"
    },
    {
       "nama":"Nasi Kwaru",
@@ -634,7 +634,7 @@
       "foto":"nasi_krawu.jpg",
       "categories":"bulking",
       "jenis":"daging",
-      "waktu":"Lunch"
+      "waktu":"siang"
    },
    {
       "nama":"Krensengan Daging Sapi & Kentang",
@@ -647,7 +647,7 @@
       "foto":"gulai_kambing.jpg",
       "categories":"bulking",
       "jenis":"daging",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Ayam Goreng Rempah",
@@ -660,7 +660,7 @@
       "foto":"ayam_rempah.jpg",
       "categories":"diet",
       "jenis":"daging",
-      "waktu":"Dinner"
+      "waktu":"malam"
    },
    {
       "nama":"Ayam Matah",
@@ -673,7 +673,7 @@
       "foto":"ayam_matah.jpg",
       "categories":"diet",
       "jenis":"daging",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Garlic Butter Beef",
@@ -686,7 +686,7 @@
       "foto":"garlic_butter_beef.jpg",
       "categories":"diet",
       "jenis":"daging",
-      "waktu":"Dinner"
+      "waktu":"malam"
    },
    {
       "nama":"Sate Ayam Madura",
@@ -699,7 +699,7 @@
       "foto":"sate_madura.jpg",
       "categories":"bulking",
       "jenis":"daging",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Steak Daging",
@@ -712,7 +712,7 @@
       "foto":"steak_daging.jpg",
       "categories":"bulking",
       "jenis":"daging",
-      "waktu":"Dinner"
+      "waktu":"malam"
    },
    {
       "nama":"Sate Goreng ",
@@ -725,7 +725,7 @@
       "foto":"sate_goreng.jpg",
       "categories":"bulking",
       "jenis":"daging",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Empal Goreng",
@@ -738,7 +738,7 @@
       "foto":"empal.jpg",
       "categories":"bulking",
       "jenis":"daging",
-      "waktu":"Lunch"
+      "waktu":"siang"
    },
    {
       "nama":"Bakso Sapi",
@@ -751,7 +751,7 @@
       "foto":"bakso_sapi.jpg",
       "categories":"bulking",
       "jenis":"daging",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Ayam Taliwang",
@@ -764,7 +764,7 @@
       "foto":"ayam_taliwang.jpg",
       "categories":"bulking",
       "jenis":"daging",
-      "waktu":"Lunch"
+      "waktu":"siang"
    },
    {
       "nama":"Sate Padang",
@@ -777,7 +777,7 @@
       "foto":"sate_padang.jpg",
       "categories":"bulking",
       "jenis":"daging",
-      "waktu":"Dinner"
+      "waktu":"malam"
    },
    {
       "nama":"Sop Ayam Pak Min Klaten",
@@ -790,7 +790,7 @@
       "foto":"sop_ayam_pak_min.jpg",
       "categories":"bulking",
       "jenis":"daging",
-      "waktu":"Dinner"
+      "waktu":"malam"
    },
    {
       "nama":"Soto Ayam Lamongan",
@@ -803,7 +803,7 @@
       "foto":"soto_lamongan.jpg",
       "categories":"bulking",
       "jenis":"daging",
-      "waktu":"Lunch"
+      "waktu":"siang"
    },
    {
       "nama":"Gulai Kambing",
@@ -816,7 +816,7 @@
       "foto":"gulai_kambing.jpg",
       "categories":"bulking",
       "jenis":"daging",
-      "waktu":"Dinner"
+      "waktu":"malam"
    },
    {
       "nama":"Sate Taichan",
@@ -829,7 +829,7 @@
       "foto":"sate_taichan.jpg",
       "categories":"bulking",
       "jenis":"daging",
-      "waktu":"Lunch"
+      "waktu":"siang"
    },
    {
       "nama":"Bistik Daging Sapi",
@@ -842,7 +842,7 @@
       "foto":"bistik.jpg",
       "categories":"bulking",
       "jenis":"daging",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Ayam Madu",
@@ -855,7 +855,7 @@
       "foto":"ayam_madu.jpg",
       "categories":"diet",
       "jenis":"daging",
-      "waktu":"Lunch"
+      "waktu":"siang"
    },
    {
       "nama":"Ayam Rebus Siram Cabai",
@@ -868,7 +868,7 @@
       "foto":"ayam_siram_cabai.jpg",
       "categories":"bulking",
       "jenis":"daging",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Sate Lilit",
@@ -881,7 +881,7 @@
       "foto":"sate_lilit.jpg",
       "categories":"bulking",
       "jenis":"daging",
-      "waktu":"Dinner"
+      "waktu":"malam"
    },
    {
       "nama":"Gulai Ayam",
@@ -894,7 +894,7 @@
       "foto":"ayam_gulai.jpg",
       "categories":"bulking",
       "jenis":"daging",
-      "waktu":"Dinner"
+      "waktu":"malam"
    },
    {
       "nama":"Ayam Katsu",
@@ -907,7 +907,7 @@
       "foto":"ayam_katsu.jpg",
       "categories":"diet",
       "jenis":"daging",
-      "waktu":"Dinner"
+      "waktu":"malam"
    },
    {
       "nama":"Beef Slice",
@@ -920,7 +920,7 @@
       "foto":"beef_slice.jpg",
       "categories":"diet",
       "jenis":"daging",
-      "waktu":"Lunch"
+      "waktu":"siang"
    },
    {
       "nama":"Sup Daging Sapi",
@@ -933,7 +933,7 @@
       "foto":"sup_daging_sapi.jpg",
       "categories":"bulking",
       "jenis":"daging",
-      "waktu":"Dinner"
+      "waktu":"malam"
    },
    {
       "nama":"Ayam Teriyaki",
@@ -946,7 +946,7 @@
       "foto":"ayam_teriyaki.jpeg",
       "categories":"bulking",
       "jenis":"daging",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Ayam Goreng Mentega",
@@ -959,7 +959,7 @@
       "foto":"ayam_mentega.jpg",
       "categories":"bulking",
       "jenis":"daging",
-      "waktu":"Dinner"
+      "waktu":"malam"
    },
    {
       "nama":"Bubur Gandum",
@@ -972,7 +972,7 @@
       "foto":"bubur_gandum.png",
       "categories":"bulking",
       "jenis":"gandum",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Gandum Telur Instan",
@@ -985,7 +985,7 @@
       "foto":"gandum_telur_instan.png",
       "categories":"diet",
       "jenis":"gandum",
-      "waktu":"Dinner"
+      "waktu":"malam"
    },
    {
       "nama":"Roti Lapis Gandum",
@@ -998,7 +998,7 @@
       "foto":"roti_lapis_gandum.png",
       "categories":"bulking",
       "jenis":"gandum",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Roti Gandum Kukus",
@@ -1011,7 +1011,7 @@
       "foto":"roti_gandum_kukus.png",
       "categories":"bulking",
       "jenis":"gandum",
-      "waktu":"Lunch"
+      "waktu":"siang"
    },
    {
       "nama":"Donat Gandum",
@@ -1024,7 +1024,7 @@
       "foto":"donat_gandum.png",
       "categories":"diet",
       "jenis":"gandum",
-      "waktu":"Lunch"
+      "waktu":"siang"
    },
    {
       "nama":"Bakwan Gandum",
@@ -1037,7 +1037,7 @@
       "foto":"bakwan_gandum.png",
       "categories":"diet",
       "jenis":"gandum",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Gandum Telur Goreng",
@@ -1050,7 +1050,7 @@
       "foto":"gandum_telur_goreng.png",
       "categories":"bulking",
       "jenis":"gandum",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Nasi Gandum Kreasi",
@@ -1063,7 +1063,7 @@
       "foto":"nasi_gandum_kreasi.png",
       "categories":"bulking",
       "jenis":"gandum",
-      "waktu":"Dinner"
+      "waktu":"malam"
    },
    {
       "nama":"Puding Roti Gandum Kurma",
@@ -1076,7 +1076,7 @@
       "foto":"roti_kukus_gandum_kurma.png",
       "categories":"bulking",
       "jenis":"gandum",
-      "waktu":"Dinner"
+      "waktu":"malam"
    },
    {
       "nama":"Chinese Porridge",
@@ -1089,7 +1089,7 @@
       "foto":"chinesee_porridge.png",
       "categories":"bulking",
       "jenis":"gandum",
-      "waktu":"Lunch"
+      "waktu":"siang"
    },
    {
       "nama":"Seafood Paela",
@@ -1102,7 +1102,7 @@
       "foto":"seafood_paela.png",
       "categories":"bulking",
       "jenis":"gandum",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Pizza gandum",
@@ -1115,7 +1115,7 @@
       "foto":"pizza_gandum.png",
       "categories":"diet",
       "jenis":"gandum",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Brownies Kukus Gandum",
@@ -1128,7 +1128,7 @@
       "foto":"brownies_kukus_gandum.png",
       "categories":"bulking",
       "jenis":"gandum",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Muffin Pizza Gandum",
@@ -1141,7 +1141,7 @@
       "foto":"puffin_pisang_gandum.png",
       "categories":"bulking",
       "jenis":"gandum",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Bolu Gandum",
@@ -1154,7 +1154,7 @@
       "foto":"bolu_gandum.png",
       "categories":"bulking",
       "jenis":"gandum",
-      "waktu":"Lunch"
+      "waktu":"siang"
    },
    {
       "nama":"Bistik Gandum Udang",
@@ -1167,7 +1167,7 @@
       "foto":"bistik_gandum_udang.png",
       "categories":"bulking",
       "jenis":"gandum",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Pizza Gandum Ayam",
@@ -1180,7 +1180,7 @@
       "foto":"pizza_gandum_ayam.png",
       "categories":"bulking",
       "jenis":"gandum",
-      "waktu":"Dinner"
+      "waktu":"malam"
    },
    {
       "nama":"Kue Coklat Gandum",
@@ -1193,7 +1193,7 @@
       "foto":"kue_coklat_gandum.png",
       "categories":"bulking",
       "jenis":"gandum",
-      "waktu":"Dinner"
+      "waktu":"malam"
    },
    {
       "nama":"Dorayaki Gandum",
@@ -1206,7 +1206,7 @@
       "foto":"dorayaki_gandum.png",
       "categories":"bulking",
       "jenis":"gandum",
-      "waktu":"Lunch"
+      "waktu":"siang"
    },
    {
       "nama":"Cookies Gandum",
@@ -1219,7 +1219,7 @@
       "foto":"cookies_gandum.png",
       "categories":"bulking",
       "jenis":"gandum",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Bakso Tahu Gandum",
@@ -1232,7 +1232,7 @@
       "foto":"bakso_tahu_gandum.png",
       "categories":"bulking",
       "jenis":"gandum",
-      "waktu":"Dinner"
+      "waktu":"malam"
    },
    {
       "nama":"Nasi Goreng Gandum",
@@ -1245,7 +1245,7 @@
       "foto":"nasi_goren_oatmeal.png",
       "categories":"bulking",
       "jenis":"gandum",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Coklat Bar Gandum",
@@ -1258,7 +1258,7 @@
       "foto":"coklat_bar_gandum.png",
       "categories":"bulking",
       "jenis":"gandum",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Pisang Gandum",
@@ -1271,7 +1271,7 @@
       "foto":"pisang_gandum.png",
       "categories":"bulking",
       "jenis":"gandum",
-      "waktu":"Dinner"
+      "waktu":"malam"
    },
    {
       "nama":"Talas Gandum Creeps",
@@ -1284,7 +1284,7 @@
       "foto":"talas_gandum_creeps.png",
       "categories":"bulking",
       "jenis":"gandum",
-      "waktu":"Dinner"
+      "waktu":"malam"
    },
    {
       "nama":"Pizza Gandum Buah",
@@ -1297,7 +1297,7 @@
       "foto":"pizza_buah_gandum.png",
       "categories":"bulking",
       "jenis":"gandum",
-      "waktu":"Dinner"
+      "waktu":"malam"
    },
    {
       "nama":"Pisang Gandum Energen",
@@ -1310,7 +1310,7 @@
       "foto":"pisang_gandum_energen.png",
       "categories":"bulking",
       "jenis":"gandum",
-      "waktu":"Lunch"
+      "waktu":"siang"
    },
    {
       "nama":"Pizza Oatmeal Tuna",
@@ -1323,7 +1323,7 @@
       "foto":"pizza_tuna_gandum.png",
       "categories":"bulking",
       "jenis":"gandum",
-      "waktu":"Dinner"
+      "waktu":"malam"
    },
    {
       "nama":"Bolu labu Kuning Gandum",
@@ -1336,7 +1336,7 @@
       "foto":"bolu_labu_kuning_gandum.png",
       "categories":"bulking",
       "jenis":"gandum",
-      "waktu":"Dinner"
+      "waktu":"malam"
    },
    {
       "nama":"Siomay Gandum",
@@ -1349,7 +1349,7 @@
       "foto":"siomay_gandum.png",
       "categories":"bulking",
       "jenis":"gandum",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Omelete Telur Gandum",
@@ -1362,7 +1362,7 @@
       "foto":"omelete_gandum.png",
       "categories":"bulking",
       "jenis":"gandum",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Mie Ayam Jakarta",
@@ -1375,7 +1375,7 @@
       "foto":"mie_ayam.jpg",
       "categories":"bulking",
       "jenis":"mie",
-      "waktu":"Dinner"
+      "waktu":"malam"
    },
    {
       "nama":"Mie Ayam Jamur",
@@ -1388,7 +1388,7 @@
       "foto":"mie_ayam_jamur.jpg",
       "categories":"bulking",
       "jenis":"mie",
-      "waktu":"Dinner"
+      "waktu":"malam"
    },
    {
       "nama":"Mie Aceh ",
@@ -1401,7 +1401,7 @@
       "foto":"mie_aceh.jpg",
       "categories":"diet",
       "jenis":"mie",
-      "waktu":"Lunch"
+      "waktu":"siang"
    },
    {
       "nama":"Mie Celor",
@@ -1414,7 +1414,7 @@
       "foto":"mie_celor.jpg",
       "categories":"diet",
       "jenis":"mie",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Soto Mie Bogor",
@@ -1427,7 +1427,7 @@
       "foto":"soto_mie_bogor.jpg",
       "categories":"diet",
       "jenis":"mie",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Bakmi Jawa",
@@ -1440,7 +1440,7 @@
       "foto":"bakmi_jawa.jpg",
       "categories":"diet",
       "jenis":"mie",
-      "waktu":"Lunch"
+      "waktu":"siang"
    },
    {
       "nama":"Kwetiau Kuah",
@@ -1453,7 +1453,7 @@
       "foto":"kwetiau_kuah.jpeg",
       "categories":"diet",
       "jenis":"mie",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Kwetiau Goreng",
@@ -1466,7 +1466,7 @@
       "foto":"kwetiau_goreng.jpg",
       "categories":"bulking",
       "jenis":"mie",
-      "waktu":"Dinner"
+      "waktu":"malam"
    },
    {
       "nama":"Mie Goreng Shirataki",
@@ -1479,7 +1479,7 @@
       "foto":"mie_goreng_shirataki.jpg",
       "categories":"diet",
       "jenis":"mie",
-      "waktu":"Lunch"
+      "waktu":"siang"
    },
    {
       "nama":"Spaghetti Bolognasie",
@@ -1492,7 +1492,7 @@
       "foto":"spaghetti_bolognaise.jpg",
       "categories":"bulking",
       "jenis":"mie",
-      "waktu":"Dinner"
+      "waktu":"malam"
    },
    {
       "nama":"Bihun Goreng",
@@ -1505,7 +1505,7 @@
       "foto":"bihun_goreng.jpg",
       "categories":"bulking",
       "jenis":"mie",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Lontong Mie",
@@ -1518,7 +1518,7 @@
       "foto":"lontong_mie.jpg",
       "categories":"bulking",
       "jenis":"mie",
-      "waktu":"Dinner"
+      "waktu":"malam"
    },
    {
       "nama":"Spaghetti Carbonara",
@@ -1531,7 +1531,7 @@
       "foto":"spaghetti_carbonara.jpg",
       "categories":"bulking",
       "jenis":"mie",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Mie Goreng Jawa",
@@ -1544,7 +1544,7 @@
       "foto":"mie_goreng_jawa.jpg",
       "categories":"bulking",
       "jenis":"mie",
-      "waktu":"Lunch"
+      "waktu":"siang"
    },
    {
       "nama":"Mie Ongklok Wonosobo",
@@ -1557,7 +1557,7 @@
       "foto":"mie_ongklok_wonosobo.jpg",
       "categories":"diet",
       "jenis":"mie",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Mie Yamin Asin",
@@ -1570,7 +1570,7 @@
       "foto":"mie_yamin.jpg",
       "categories":"diet",
       "jenis":"mie",
-      "waktu":"Dinner"
+      "waktu":"malam"
    },
    {
       "nama":"Jamur Salmon Pasta",
@@ -1583,7 +1583,7 @@
       "foto":"mushroom_salmon_pasta.jpg",
       "categories":"diet",
       "jenis":"mie",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Mie Kacang Pedas",
@@ -1596,7 +1596,7 @@
       "foto":"spicy_peanut_noodle.jpg",
       "categories":"diet",
       "jenis":"mie",
-      "waktu":"Dinner"
+      "waktu":"malam"
    },
    {
       "nama":"Indomie Bangladesh",
@@ -1609,7 +1609,7 @@
       "foto":"indomie_bangladesh.jpg",
       "categories":"diet",
       "jenis":"mie",
-      "waktu":"Dinner"
+      "waktu":"malam"
    },
    {
       "nama":"Niku Udon",
@@ -1622,7 +1622,7 @@
       "foto":"niku_udon.jpg",
       "categories":"diet",
       "jenis":"mie",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Indomie Gacoan",
@@ -1635,7 +1635,7 @@
       "foto":"indomie_gacoan.jpg",
       "categories":"diet",
       "jenis":"mie",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Shirataki Jap Chae",
@@ -1648,7 +1648,7 @@
       "foto":"shirataki_japchae.jpg",
       "categories":"diet",
       "jenis":"mie",
-      "waktu":"Dinner"
+      "waktu":"malam"
    },
    {
       "nama":"Yakisoba",
@@ -1661,7 +1661,7 @@
       "foto":"yaki_soba.jpg",
       "categories":"diet",
       "jenis":"mie",
-      "waktu":"Dinner"
+      "waktu":"malam"
    },
    {
       "nama":"Bihun Kari Medan",
@@ -1674,7 +1674,7 @@
       "foto":"bihun_kari_medan.jpg",
       "categories":"diet",
       "jenis":"mie",
-      "waktu":"Lunch"
+      "waktu":"siang"
    },
    {
       "nama":"Mie Goreng Mala",
@@ -1687,7 +1687,7 @@
       "foto":"mie_goreng_mala.jpg",
       "categories":"diet",
       "jenis":"mie",
-      "waktu":"Lunch"
+      "waktu":"siang"
    },
    {
       "nama":"Bakmi Kepiting",
@@ -1700,7 +1700,7 @@
       "foto":"bakmi_kepiting.jpg",
       "categories":"diet",
       "jenis":"mie",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Sayur Pokcoy",
@@ -1713,7 +1713,7 @@
       "foto":"sayur_pokcoy.jpg",
       "categories":"diet",
       "jenis":"sayur",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Tumis Bayam Tempe",
@@ -1726,7 +1726,7 @@
       "foto":"tumis_bayam_tempe.jpg",
       "categories":"diet",
       "jenis":"sayur",
-      "waktu":"Lunch"
+      "waktu":"siang"
    },
    {
       "nama":"Salad Sayur",
@@ -1739,7 +1739,7 @@
       "foto":"resep_salad_sayur.jpg",
       "categories":"diet",
       "jenis":"sayur",
-      "waktu":"Lunch"
+      "waktu":"siang"
    },
    {
       "nama":"Tumis Daun Pepaya",
@@ -1752,7 +1752,7 @@
       "foto":"tumis_daun_pepaya.jpg",
       "categories":"diet",
       "jenis":"sayur",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Sup Tahu Hokben",
@@ -1765,7 +1765,7 @@
       "foto":"sup_tahu_hokben.jpg",
       "categories":"diet",
       "jenis":"sayur",
-      "waktu":"Lunch"
+      "waktu":"siang"
    },
    {
       "nama":"Tumis Tahu Buncis",
@@ -1778,7 +1778,7 @@
       "foto":"tumis_tahu_buncis.jpg",
       "categories":"diet",
       "jenis":"sayur",
-      "waktu":"Dinner"
+      "waktu":"malam"
    },
    {
       "nama":"Sayur Sop ",
@@ -1791,7 +1791,7 @@
       "foto":"sayur_sop.jpg",
       "categories":"diet",
       "jenis":"sayur",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Tumis Pare",
@@ -1804,7 +1804,7 @@
       "foto":"tumis_pare.jpg",
       "categories":"diet",
       "jenis":"sayur",
-      "waktu":"Dinner"
+      "waktu":"malam"
    },
    {
       "nama":"Urap - urap kangkung",
@@ -1817,7 +1817,7 @@
       "foto":"urap_urap_kangkung.jpg",
       "categories":"diet",
       "jenis":"sayur",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Tumis Jagung Sosis",
@@ -1830,7 +1830,7 @@
       "foto":"tumis_jagung_sosis.jpg",
       "categories":"diet",
       "jenis":"sayur",
-      "waktu":"Dinner"
+      "waktu":"malam"
    },
    {
       "nama":"Sop Jagung Manis",
@@ -1843,7 +1843,7 @@
       "foto":"sop_jagung_manis.jpg",
       "categories":"diet",
       "jenis":"sayur",
-      "waktu":"Dinner"
+      "waktu":"malam"
    },
    {
       "nama":"Sup Jagung Telur ",
@@ -1856,7 +1856,7 @@
       "foto":"sop_jagung_telur.jpg",
       "categories":"diet",
       "jenis":"sayur",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Sup Telur",
@@ -1869,7 +1869,7 @@
       "foto":"sup_telur.jpg",
       "categories":"diet",
       "jenis":"sayur",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Capcay Sosis",
@@ -1882,7 +1882,7 @@
       "foto":"capcay_sosis.jpg",
       "categories":"diet",
       "jenis":"sayur",
-      "waktu":"Dinner"
+      "waktu":"malam"
    },
    {
       "nama":"Tumis brokoli udang",
@@ -1895,7 +1895,7 @@
       "foto":"tumis_brokoli_udang.jpg",
       "categories":"diet",
       "jenis":"sayur",
-      "waktu":"Lunch"
+      "waktu":"siang"
    },
    {
       "nama":"Buncis garlic",
@@ -1908,7 +1908,7 @@
       "foto":"buncis_garlic.jpg",
       "categories":"diet",
       "jenis":"sayur",
-      "waktu":"Lunch"
+      "waktu":"siang"
    },
    {
       "nama":"Gado-gado ",
@@ -1921,7 +1921,7 @@
       "foto":"gado_gado.jpg",
       "categories":"diet",
       "jenis":"sayur",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Tumis Sawi Putih",
@@ -1934,7 +1934,7 @@
       "foto":"tumis_sawi_putih.jpg",
       "categories":"diet",
       "jenis":"sayur",
-      "waktu":"Lunch"
+      "waktu":"siang"
    },
    {
       "nama":"Sayur Bening ",
@@ -1947,7 +1947,7 @@
       "foto":"sayur_bening.jpg",
       "categories":"diet",
       "jenis":"sayur",
-      "waktu":"Dinner"
+      "waktu":"malam"
    },
    {
       "nama":"Sayur Lodeh",
@@ -1960,7 +1960,7 @@
       "foto":"sayur_lodeh.jpg",
       "categories":"bulking",
       "jenis":"sayur",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Sayur Acar",
@@ -1973,7 +1973,7 @@
       "foto":"sayur_acar.jpg",
       "categories":"diet",
       "jenis":"sayur",
-      "waktu":"Dinner"
+      "waktu":"malam"
    },
    {
       "nama":"Karedok",
@@ -1986,7 +1986,7 @@
       "foto":"karedok.jpg",
       "categories":"diet",
       "jenis":"sayur",
-      "waktu":"Dinner"
+      "waktu":"malam"
    },
    {
       "nama":"Sayur Terong Balado",
@@ -1999,7 +1999,7 @@
       "foto":"sambal_terong_balado.jpg",
       "categories":"diet",
       "jenis":"sayur",
-      "waktu":"Dinner"
+      "waktu":"malam"
    },
    {
       "nama":"Sayur kangkung",
@@ -2012,7 +2012,7 @@
       "foto":"sayur_kangkung.jpg",
       "categories":"diet",
       "jenis":"sayur",
-      "waktu":"Lunch"
+      "waktu":"siang"
    },
    {
       "nama":"Tumis Kol Telur",
@@ -2025,7 +2025,7 @@
       "foto":"tumis_kol_telur.jpg",
       "categories":"diet",
       "jenis":"sayur",
-      "waktu":"Dinner"
+      "waktu":"malam"
    },
    {
       "nama":"Chicken Spring roll",
@@ -2038,7 +2038,7 @@
       "foto":"chicken_spring_roll.jpg",
       "categories":"diet",
       "jenis":"sayur",
-      "waktu":"Lunch"
+      "waktu":"siang"
    },
    {
       "nama":"Sup Sayur Gambas",
@@ -2051,7 +2051,7 @@
       "foto":"sup_sayur_gambas.jpg",
       "categories":"diet",
       "jenis":"sayur",
-      "waktu":"Dinner"
+      "waktu":"malam"
    },
    {
       "nama":"Tumis Kubis Wortel",
@@ -2064,7 +2064,7 @@
       "foto":"tumis_kubis_wortel.jpg",
       "categories":"diet",
       "jenis":"sayur",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Sup Kimlo",
@@ -2077,7 +2077,7 @@
       "foto":"sup_kimlo.jpg",
       "categories":"bulking",
       "jenis":"sayur",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Sayur asem jawa",
@@ -2090,7 +2090,7 @@
       "foto":"sayur_asem_jawa.jpg",
       "categories":"bulking",
       "jenis":"sayur",
-      "waktu":"Dinner"
+      "waktu":"malam"
    },
    {
       "nama":"Udang Saos Padang",
@@ -2103,7 +2103,7 @@
       "foto":"saos_udang_padang.jpg",
       "categories":"bulking",
       "jenis":"seafood",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Sarden Telur",
@@ -2116,7 +2116,7 @@
       "foto":"sarden_telur.png",
       "categories":"bulking",
       "jenis":"seafood",
-      "waktu":"Lunch"
+      "waktu":"siang"
    },
    {
       "nama":"Nasi Goreng Seafood",
@@ -2129,7 +2129,7 @@
       "foto":"nasi_goreng_seafood.jpg",
       "categories":"bulking",
       "jenis":"seafood",
-      "waktu":"Lunch"
+      "waktu":"siang"
    },
    {
       "nama":"Cumi Pedas Kecap",
@@ -2142,7 +2142,7 @@
       "foto":"cumi_pedas_kecap.png",
       "categories":"bulking",
       "jenis":"seafood",
-      "waktu":"Lunch"
+      "waktu":"siang"
    },
    {
       "nama":"Udang Bumbu Kecap",
@@ -2155,7 +2155,7 @@
       "foto":"udang_kecap.jpg",
       "categories":"diet",
       "jenis":"seafood",
-      "waktu":"Lunch"
+      "waktu":"siang"
    },
    {
       "nama":"Sup Telur Rumput Laut",
@@ -2168,7 +2168,7 @@
       "foto":"rumput_laut_telur.png",
       "categories":"diet",
       "jenis":"seafood",
-      "waktu":"Dinner"
+      "waktu":"malam"
    },
    {
       "nama":"Sup Ikan Kemangi",
@@ -2181,7 +2181,7 @@
       "foto":"sup_ikan_kemangi.jpg",
       "categories":"diet",
       "jenis":"seafood",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Telur Sarden Serundeng",
@@ -2194,7 +2194,7 @@
       "foto":"telur_dadar_bumbu_sarden.jpg",
       "categories":"diet",
       "jenis":"seafood",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Lele Tumis Kecap",
@@ -2207,7 +2207,7 @@
       "foto":"lele_bumbu_kecap.jpg",
       "categories":"bulking",
       "jenis":"seafood",
-      "waktu":"Dinner"
+      "waktu":"malam"
    },
    {
       "nama":"Sop Udang Misoa",
@@ -2220,7 +2220,7 @@
       "foto":"udang_misoa_sop.jpg",
       "categories":"bulking",
       "jenis":"seafood",
-      "waktu":"Dinner"
+      "waktu":"malam"
    },
    {
       "nama":"Tuna Panggang",
@@ -2233,7 +2233,7 @@
       "foto":"ikan_tuna_panggang.jpg",
       "categories":"diet",
       "jenis":"seafood",
-      "waktu":"Lunch"
+      "waktu":"siang"
    },
    {
       "nama":"Sup Tahu Udang",
@@ -2246,7 +2246,7 @@
       "foto":"sop_udang_tahu_putih.jpg",
       "categories":"diet",
       "jenis":"seafood",
-      "waktu":"Lunch"
+      "waktu":"siang"
    },
    {
       "nama":"Tuna Kaleng Bumbu Pedas",
@@ -2259,7 +2259,7 @@
       "foto":"tuna_pedas.jpg",
       "categories":"diet",
       "jenis":"seafood",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Tuna Bakar Kecap",
@@ -2272,7 +2272,7 @@
       "foto":"ikan_tuna_bakar_pedas_manis.jpg",
       "categories":"bulking",
       "jenis":"seafood",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Sandwich Tuna Mayo",
@@ -2285,7 +2285,7 @@
       "foto":"sandwich_tuna_mayo.jpg",
       "categories":"diet",
       "jenis":"seafood",
-      "waktu":"Lunch"
+      "waktu":"siang"
    },
    {
       "nama":"Ebi Katsu Sando",
@@ -2298,7 +2298,7 @@
       "foto":"ebi_katsu_sando.jpg",
       "categories":"diet",
       "jenis":"seafood",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Bubur Tuna Rumput Laut",
@@ -2311,7 +2311,7 @@
       "foto":"bubur_tuna_nori.jpeg",
       "categories":"diet",
       "jenis":"seafood",
-      "waktu":"Lunch"
+      "waktu":"siang"
    },
    {
       "nama":"Sarden Katsu",
@@ -2324,7 +2324,7 @@
       "foto":"sarden_katsu.jpg",
       "categories":"diet",
       "jenis":"seafood",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Sup Cumi",
@@ -2337,7 +2337,7 @@
       "foto":"sup_cumi.jpg",
       "categories":"diet",
       "jenis":"seafood",
-      "waktu":"Dinner"
+      "waktu":"malam"
    },
    {
       "nama":"Salmon Bowl",
@@ -2350,7 +2350,7 @@
       "foto":"salmon_kale.jpg",
       "categories":"diet",
       "jenis":"seafood",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Steam Lele",
@@ -2363,7 +2363,7 @@
       "foto":"stim_lele.jpg",
       "categories":"diet",
       "jenis":"seafood",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Sate Kerang",
@@ -2376,7 +2376,7 @@
       "foto":"sate_kerang_bumbu_rempah.jpg",
       "categories":"bulking",
       "jenis":"seafood",
-      "waktu":"Dinner"
+      "waktu":"malam"
    },
    {
       "nama":"Udang Tanpa Minyak",
@@ -2389,7 +2389,7 @@
       "foto":"udang_tanpa_minyak.jpg",
       "categories":"diet",
       "jenis":"seafood",
-      "waktu":"Breakfast"
+      "waktu":"pagi"
    },
    {
       "nama":"Cumi Item",
@@ -2402,7 +2402,7 @@
       "foto":"cumi_item.jpg",
       "categories":"bulking",
       "jenis":"seafood",
-      "waktu":"Lunch"
+      "waktu":"siang"
    },
    {
       "nama":"Ikan Asin Balado",
@@ -2415,7 +2415,7 @@
       "foto":"ikan_asin_balado.jpg",
       "categories":"bulking",
       "jenis":"seafood",
-      "waktu":"Dinner"
+      "waktu":"malam"
    },
    {
       "nama":"Tumis Kerang",
@@ -2428,7 +2428,7 @@
       "foto":"tumis_kerang.jpg",
       "categories":"diet",
       "jenis":"seafood",
-      "waktu":"Lunch"
+      "waktu":"siang"
    },
    {
       "nama":"Ikan Pindang Bumbu Rujak",
@@ -2441,7 +2441,7 @@
       "foto":"ikan_pindang_rujak.jpg",
       "categories":"bulking",
       "jenis":"seafood",
-      "waktu":"Lunch"
+      "waktu":"siang"
    },
    {
       "nama":"Ikan Nila Masak Spesial",
@@ -2454,7 +2454,7 @@
       "foto":"ikan_nila.jpg",
       "categories":"bulking",
       "jenis":"seafood",
-      "waktu":"Lunch"
+      "waktu":"siang"
    },
    {
       "nama":"Pepes Ikan",
@@ -2467,7 +2467,7 @@
       "foto":"pepes_ikan.jpg",
       "categories":"bulking",
       "jenis":"seafood",
-      "waktu":"Lunch"
+      "waktu":"siang"
    },
    {
       "nama":"Salmon Sushi",
@@ -2480,7 +2480,7 @@
       "foto":"salmon_sushi.jpg",
       "categories":"diet",
       "jenis":"seafood",
-      "waktu":"Lunch"
+      "waktu":"siang"
    },
    {
       "nama":"Nasi Cumi Hitam",
@@ -2493,6 +2493,6 @@
       "foto":"cumi_item.jpg",
       "categories":"diet",
       "jenis":"seafood",
-      "waktu":"Dinner"
+      "waktu":"malam"
    }
 ]
