@@ -482,16 +482,16 @@
    },
    {
       "nama":"Hokkaido Cheese Tart",
-      "bahan":"Cheese tart: Cheese filling (10 buah): 235 gr cream cheese, 55 gr gula pasir, 2 cubit garam, 1/2 sdt vanilla, 10 gr maizena, 1 telur kecil (50 gr), 145 gr whipping cream, 30 gr mentega",
-      "calories":" Kulit pie (15-16 buah): 100 gr mentega, 70 gr gula halus, 2 cubit garam, 1/2 sdt vanilla, 2 butir kuning telur, 235 tepung protein sedang, Polesan: 1 kuning telur, 1 sdt susu cair",
-      "karbohidrat":"3900",
-      "protein":"335",
-      "lemak":"69",
-      "link":"254",
-      "foto":"https://youtu.be/HY-YSUR5Mb4?si=luEcJiNx8RtdBhfg",
-      "categories":"hokkaido_chesse_tart.jpg",
-      "jenis":"bulking",
-      "waktu":"cemilan"
+      "bahan":"Cheese tart: Cheese filling (10 buah): 235 gr cream cheese, 55 gr gula pasir, 2 cubit garam, 1/2 sdt vanilla, 10 gr maizena, 1 telur kecil (50 gr), 145 gr whipping cream, 30 gr mentega, Kulit pie (15-16 buah): 100 gr mentega, 70 gr gula halus, 2 cubit garam, 1/2 sdt vanilla, 2 butir kuning telur, 235 tepung protein sedang, Polesan: 1 kuning telur, 1 sdt susu cair",
+      "calories":"3900",
+      "karbohidrat":"335",
+      "protein":"69",
+      "lemak":"254",
+      "link":"https://youtu.be/HY-YSUR5Mb4?si=luEcJiNx8RtdBhfg",
+      "foto":"hokkaido_chesse_tart.jpg",
+      "categories":"bulking",
+      "jenis":"cemilan",
+      "waktu":"Lunch"
    },
    {
       "nama":"Dimsum Ayam",
